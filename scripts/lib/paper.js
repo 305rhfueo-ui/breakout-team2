@@ -8,7 +8,7 @@ const { bollinger, smaAt, r2 } = require('./core');
 
 function newPos(sig, entryBar, mode = 'adrClose') {
   const stopRef = mode === 'lod' ? sig.low : entryBar.o * (1 - sig.adr / 100);
-  return { ticker: sig.ticker, signal: sig.session, entryDate: entryBar.__d, entry: entryBar.o, weightPct: sig.weightPct, adr: sig.adr,
+  return { ticker: sig.ticker, signal: sig.session, entryDate: entryBar.__d, entry: r2(entryBar.o), weightPct: sig.weightPct, adr: sig.adr,
     stop: r2(stopRef), hi: sig.hi52 || entryBar.h, left: 1, steps: [], s1: false, s20: false, s50: false, open: true, pending: null, catalyst: !!sig.catalyst, mode };
 }
 
