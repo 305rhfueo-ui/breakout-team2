@@ -7,6 +7,14 @@
    "agent": [
     "rs"
    ]
+  },
+  {
+   "ticker": "PDD",
+   "session": "2026-11-19",
+   "star": false,
+   "agent": [
+    "cat"
+   ]
   }
  ]
 }

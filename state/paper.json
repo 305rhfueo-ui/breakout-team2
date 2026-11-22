@@ -1,8 +1,40 @@
 {
- "updated": "2026-11-22T04:43:59.076Z",
+ "updated": "2026-11-22T04:56:17.158Z",
  "session": "2026-11-20",
  "main": {
-  "positions": [],
+  "positions": [
+   {
+    "ticker": "PDD",
+    "signal": "2026-11-19",
+    "entryDate": "2026-11-20",
+    "entry": 87.08999633789062,
+    "weightPct": 18.6,
+    "adr": 2.6915410179658816,
+    "stop": 84.75,
+    "hi": 125.36000061035156,
+    "left": 1,
+    "steps": [],
+    "s1": false,
+    "s20": false,
+    "s50": false,
+    "open": true,
+    "pending": {
+     "frac": 1,
+     "why": "손절(ADR 종가)"
+    },
+    "catalyst": true,
+    "mode": "adrClose",
+    "agent": [
+     "cat"
+    ],
+    "star": false,
+    "riskPct": 0.5,
+    "last": 83.68000030517578,
+    "lastDate": "2026-11-20",
+    "retPct": -3.92,
+    "acctPct": -0.728
+   }
+  ],
   "skipped": [
    {
     "ticker": "CAKE",
@@ -15,11 +47,11 @@
    }
   ],
   "total": {
-   "n": 0,
-   "open": 0,
+   "n": 1,
+   "open": 1,
    "closed": 0,
    "win": null,
-   "acctPct": 0,
+   "acctPct": -0.73,
    "stopRate": null
   },
   "rs": {
@@ -31,11 +63,11 @@
    "stopRate": null
   },
   "cat": {
-   "n": 0,
-   "open": 0,
+   "n": 1,
+   "open": 1,
    "closed": 0,
    "win": null,
-   "acctPct": 0,
+   "acctPct": -0.73,
    "stopRate": null
   },
   "star": {
@@ -46,23 +78,23 @@
    "acctPct": 0,
    "stopRate": null
   },
-  "openRisk": 0
+  "openRisk": 0.5
  },
  "cmp": {
   "adrIntraday": {
-   "n": 0,
+   "n": 1,
    "open": 0,
-   "closed": 0,
-   "win": null,
-   "acctPct": 0,
-   "stopRate": null
+   "closed": 1,
+   "win": 0,
+   "acctPct": -0.5,
+   "stopRate": 100
   },
   "lod": {
-   "n": 0,
-   "open": 0,
+   "n": 1,
+   "open": 1,
    "closed": 0,
    "win": null,
-   "acctPct": 0,
+   "acctPct": -0.73,
    "stopRate": null
   }
  },

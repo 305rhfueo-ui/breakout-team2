@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:43:58.603Z",
+ "updated": "2026-11-22T04:56:16.579Z",
  "items": [
   {
    "ticker": "NRP",
@@ -139,7 +139,9 @@
    "above50": true,
    "above150": false,
    "lastSession": "2026-11-20",
-   "grades": []
+   "grades": [
+    "S2"
+   ]
   },
   {
    "ticker": "MLAB",
