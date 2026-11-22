@@ -147,7 +147,8 @@ async function main() {
       newsN: news[x.ticker] ? news[x.ticker].items.length : null, newsNew: news[x.ticker] ? news[x.ticker].items.filter((n) => n.isNew).length : null,
       odds: odds ? { rule: x.rs2 ? odds.rs2 : odds.all, mine: (odds.byTicker[x.ticker] || []).slice(-5) } : null };
   });
-  const data = { updated: new Date().toISOString(), session, regime: today.regime, rule: RULE, scan: today.scan,
+  const kis = await require('./lib/kis-paper').check();
+  const data = { updated: new Date().toISOString(), session, regime: today.regime, rule: RULE, scan: today.scan, kis,
     chief: { picks: chief.picks, skipped: chief.skipped, note: chief.note }, signals: sigs,
     track: track.items.slice(-120), paper: { ...books.main.total, rs: books.main.rs, cat: books.main.cat, star: books.main.star, openRisk: books.main.openRisk,
       positions: books.main.positions.map((p) => ({ ticker: p.ticker, agent: p.agent, star: p.star, signal: p.signal, entryDate: p.entryDate, entry: p.entry, weightPct: p.weightPct, riskPct: p.riskPct,

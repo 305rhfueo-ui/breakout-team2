@@ -160,7 +160,7 @@ function trackList(){
 function paperList(){
   const p=D.paper||{},P=p.positions||[],s=(o,l)=>o?`<div class="tile"><div class="v num ${o.acctPct>0?'up':o.acctPct<0?'dn':''}">${pct(o.acctPct,2)}</div><div class="l">${l} · ${o.n}건 · 승률 ${o.win??'—'}% · 손절 ${o.stopRate??'—'}%</div></div>`:'';
   let h=`<div class="tiles">${s(p,'전체')}${s(p.rs,'① RS 돌파')}${s(p.cat,'② 촉매 돌파')}${s(p.star,'★ 둘 다')}</div>
-   <div class="note">실장과 별도로, 두 에이전트 신호를 전부 같은 규칙으로 삽니다. 수익률은 계좌 대비 %(비중 × 수익률 합)이며 금액·수량은 쓰지 않습니다. 지금 손절 위험 합계 ${p.openRisk??0}% / 한도 ${RULE.riskSum||6}%.</div>
+   <div class="note">🏦 한국투자증권 모의투자 계좌: ${esc((D.kis||{}).reason||'확인 전')}</div><div class="note">실장과 별도로, 두 에이전트 신호를 전부 같은 규칙으로 삽니다. 수익률은 계좌 대비 %(비중 × 수익률 합)이며 금액·수량은 쓰지 않습니다. 지금 손절 위험 합계 ${p.openRisk??0}% / 한도 ${RULE.riskSum||6}%.</div>
    <div class="note">손절 비교(같은 신호): ADR 종가 ${pct(p.acctPct,2)} · ADR 장중 ${pct(p.cmp&&p.cmp.adrIntraday.acctPct,2)} · 돌파일 저가 ${pct(p.cmp&&p.cmp.lod.acctPct,2)} · 실장 추천만 샀다면 ${pct(p.chief&&p.chief.acctPct,2)}</div>`;
   h+=P.length?`<div class="cards" style="margin-top:10px">${P.slice().reverse().map(x=>`<div class="card" data-tk="${esc(x.ticker)}"><div class="l1">${x.star?'<span class="chip star">★</span>':''}<b>${esc(x.ticker)}</b> ${x.agent.map(a=>`<span class="chip ${a==='rs'?'a':'s'}">${a==='rs'?'RS':'촉매'}</span>`).join(' ')}<span class="r">${x.open?'보유':'청산'}</span></div>
      <div class="ln num">매수 ${esc(x.entryDate)} 시가 ${x.entry} · 비중 ${x.weightPct}% (손실 ${x.riskPct}%) · 손절 ${x.stop}</div>
