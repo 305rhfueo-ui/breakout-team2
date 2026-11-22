@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>브레이크아웃팀2</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23111827'/%3E%3Cpath d='M5 22 L12 16 L17 19 L27 8' stroke='%2322d3ee' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;800&display=swap" rel="stylesheet">
+<script src="data/team2.js" onerror="window.TEAM2=null"></script>
+<script src="data/news.js" onerror="window.NEWS2={}"></script>
+<style>
+:root{--bg:#0b0f17;--card:#121826;--card2:#182032;--bd:#243049;--tx:#e6edf6;--dim:#8b98ad;--acc:#22d3ee;--grn:#22c55e;--red:#f43f5e;--yel:#f59e0b;--pur:#a78bfa;--chip:#1e293b;
+  --c-bg:#0d1117;--c-grid:#2a3343;--c-text:#c9d1d9;--c-dim:#7d8590;--c-up:#2ea043;--c-dn:#f85149;--c-band:#67e8f9;--c-base:rgba(250,204,21,.10)}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#f6f7fb;--card:#fff;--card2:#f1f4f9;--bd:#dde3ee;--tx:#111827;--dim:#5b6475;--acc:#0891b2;--grn:#15803d;--red:#be123c;--yel:#b45309;--pur:#6d28d9;--chip:#eef2f7;
+  --c-bg:#ffffff;--c-grid:#e5e9f0;--c-text:#1f2937;--c-dim:#6b7280;--c-up:#16a34a;--c-dn:#dc2626;--c-band:#0891b2;--c-base:rgba(202,138,4,.10)}}
+:root[data-theme="light"]{--bg:#f6f7fb;--card:#fff;--card2:#f1f4f9;--bd:#dde3ee;--tx:#111827;--dim:#5b6475;--acc:#0891b2;--grn:#15803d;--red:#be123c;--yel:#b45309;--pur:#6d28d9;--chip:#eef2f7;
+  --c-bg:#ffffff;--c-grid:#e5e9f0;--c-text:#1f2937;--c-dim:#6b7280;--c-up:#16a34a;--c-dn:#dc2626;--c-band:#0891b2;--c-base:rgba(202,138,4,.10)}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","Noto Sans KR",system-ui,sans-serif;-webkit-text-size-adjust:100%}
+body{padding:0 16px 40px;max-width:1180px;margin:0 auto;font-size:15px;line-height:1.5}
+.num{font-variant-numeric:tabular-nums}a{color:var(--acc)}
+header{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:14px 0 8px}
+header h1{font-size:18px;margin:0;font-weight:800;letter-spacing:-.3px}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:999px;font-size:13px;font-weight:700;border:1px solid var(--bd);background:var(--card)}
+.pill.g{color:var(--grn);border-color:color-mix(in srgb,var(--grn) 45%,transparent)}.pill.r{color:var(--red);border-color:color-mix(in srgb,var(--red) 45%,transparent)}
+.dim{color:var(--dim)}.sm{font-size:12.5px}
+.sec-t{font-size:13px;font-weight:700;color:var(--dim);margin:16px 0 8px;letter-spacing:.2px}
+.picks{display:grid;gap:10px}
+.pick{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:12px 14px;cursor:pointer}
+.pick .top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.pick b.tk{font-size:19px;letter-spacing:-.2px}
+.pick .why{margin-top:6px;font-size:14px}.pick .plan{margin-top:6px;font-size:13px;color:var(--dim)}
+.chip{display:inline-block;padding:1px 8px;border-radius:999px;background:var(--chip);font-size:12px;font-weight:700;border:1px solid var(--bd)}
+.chip.s{color:var(--grn)}.chip.a{color:var(--acc)}.chip.star{color:var(--yel)}.chip.c{color:var(--dim)}.chip.v{color:var(--pur)}
+.empty{background:var(--card);border:1px dashed var(--bd);border-radius:14px;padding:14px;color:var(--dim);font-size:14px}
+.tiles{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+@media(min-width:720px){.tiles{grid-template-columns:repeat(4,1fr)}.picks{grid-template-columns:repeat(3,1fr)}}
+.tile{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:7px 11px}.tile .v{font-size:19px;font-weight:800}@media(min-width:720px){.tile{padding:10px 12px}.tile .v{font-size:22px}}.tile .l{font-size:12px;color:var(--dim)}
+.links{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.links a,.links button{flex:1 1 auto;text-align:center;text-decoration:none;color:var(--tx);background:var(--card2);border:1px solid var(--bd);border-radius:10px;padding:9px 10px;font-size:13.5px;font-weight:700;font-family:inherit;cursor:pointer}
+.tabs{display:flex;gap:6px;margin:18px 0 10px;overflow-x:auto;scrollbar-width:none}
+.tabs button{flex:0 0 auto;border:1px solid var(--bd);background:var(--card);color:var(--dim);border-radius:999px;padding:7px 13px;font-weight:700;font-size:13.5px;font-family:inherit;cursor:pointer}
+.tabs button.on{color:var(--tx);border-color:var(--acc);background:color-mix(in srgb,var(--acc) 14%,var(--card))}
+.ses{font-size:12.5px;color:var(--dim);margin:12px 2px 6px;font-weight:700}
+.cards{display:grid;gap:8px}.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:10px 12px;cursor:pointer;font-size:13.5px}
+.card .l1{display:flex;gap:6px;align-items:center;flex-wrap:wrap}.card .l1 b{font-size:16px}.card .l1 .r{margin-left:auto;font-size:12px}
+.card .ln{color:var(--dim);margin-top:2px}.card .ln b{color:var(--tx);font-weight:600}
+table.t{display:none;width:100%;border-collapse:collapse;font-size:13px;background:var(--card);border:1px solid var(--bd);border-radius:12px;overflow:hidden}
+table.t th,table.t td{padding:7px 8px;border-bottom:1px solid var(--bd);text-align:left;vertical-align:top;white-space:nowrap}table.t th{color:var(--dim);font-weight:700;font-size:12px;background:var(--card2)}
+table.t tr[data-tk]{cursor:pointer}table.t tr[data-tk]:hover td{background:var(--card2)}
+@media(min-width:900px){table.t{display:table}.cards.mob{display:none}}
+.up{color:var(--grn)}.dn{color:var(--red)}.b30{color:var(--grn);font-weight:800}
+.note{font-size:12.5px;color:var(--dim);margin-top:8px}
+/* 팝업 — 휴대폰은 전체 화면 시트 */
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.55);display:none;z-index:50}.modal.on{display:block}
+.sheet{position:absolute;inset:0;background:var(--bg);overflow-y:auto;padding:14px 16px 90px}
+@media(min-width:900px){.sheet{inset:24px auto 24px 50%;transform:translateX(-50%);width:min(920px,94vw);border-radius:16px;border:1px solid var(--bd)}}
+.sheet h2{margin:0;font-size:22px}.sheet .hd{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.box{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px;margin-top:12px}.box h4{margin:0 0 8px;font-size:14px}
+.chart svg{width:100%;height:auto;display:block;border-radius:8px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:13.5px}.kv div:nth-child(odd){color:var(--dim)}
+ul.pl{margin:0;padding-left:18px;font-size:13.5px}ul.pl li{margin:3px 0}
+.close{position:fixed;left:50%;transform:translateX(-50%);bottom:16px;z-index:60;border:0;border-radius:999px;padding:12px 28px;font-weight:800;font-size:15px;background:var(--acc);color:#001018;font-family:inherit;box-shadow:0 4px 18px rgba(0,0,0,.35);display:none}
+.modal.on~.close{display:block}
+.calc{display:grid;grid-template-columns:1fr 1fr;gap:8px}.calc label{font-size:12px;color:var(--dim);display:block}
+.calc input{width:100%;padding:9px;border-radius:8px;border:1px solid var(--bd);background:var(--card2);color:var(--tx);font-size:15px;font-family:inherit}
+.res{display:grid;gap:4px;margin-top:10px;font-size:14px}.res div{display:flex;justify-content:space-between}.res b{font-size:16px}
+.warn{margin-top:8px;padding:8px 10px;border-radius:8px;background:color-mix(in srgb,var(--yel) 14%,var(--card));font-size:12.5px}
+.news a{display:block;padding:7px 0;border-bottom:1px solid var(--bd);text-decoration:none;color:var(--tx);font-size:13.5px}.news a .m{color:var(--dim);font-size:12px}
+.foot{margin-top:24px;font-size:12px;color:var(--dim);text-align:center}
+.themebtn{margin-left:auto;background:none;border:1px solid var(--bd);color:var(--dim);border-radius:8px;padding:4px 8px;font-family:inherit;cursor:pointer}
+</style>
+</head>
+<body>
+<header>
+  <h1>🅱️ 브레이크아웃팀2</h1>
+  <span id="regime" class="pill">…</span>
+  <span id="risk" class="pill num">…</span>
+  <button class="themebtn" id="theme" aria-label="화면 밝기 바꾸기">◐</button>
+</header>
+<div class="dim sm" id="sub"></div>
+
+<div class="sec-t">🧑‍💼 실장 최종 추천</div>
+<div id="picks" class="picks"></div>
+<div class="tiles" id="tiles"></div>
+<div class="links">
+  <a href="strategy.html">📘 이 전략은 어떻게 움직이나요?</a>
+  <button type="button" id="calcBtn">🧮 투자비중계산기</button>
+  <a href="https://305rhfueo-ui.github.io/breakout-team/">브레이크아웃팀(1) →</a>
+</div>
+
+<nav class="tabs" id="tabs" role="tablist">
+  <button data-tab="rs" class="on">① RS 돌파</button>
+  <button data-tab="cat">② 촉매 돌파 <span class="chip v">검증 중</span></button>
+  <button data-tab="track">③ 추적 목록</button>
+  <button data-tab="paper">④ 모의투자</button>
+</nav>
+<section id="body"></section>
+<div class="foot">교육·연구용 스크리닝 자료이며 투자 권유가 아닙니다. 판단 보조이며 최종 결정과 책임은 본인에게 있습니다.<br>숫자는 코드가 계산하고, 등급·설명은 AI가 원문을 열어 확인한 것만 씁니다.</div>
+
+<div class="modal" id="modal"><div class="sheet" id="sheet"></div></div>
+<button class="close" id="close" type="button">닫기</button>
+
+<script>
+'use strict';
+const D=window.TEAM2||{signals:[],track:[],chief:{picks:[]},paper:{},regime:{}};const NEWS=window.NEWS2||{};
+const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const pct=(v,d=0)=>v==null?'—':`${v>0?'+':''}${(+v).toFixed(d)}%`,G=!!(D.regime&&D.regime.green),RULE=D.rule||{capPct:25,riskGreen:2,riskRed:.5};
+const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+(function(){const t=store.get('t2theme');if(t)document.documentElement.dataset.theme=t;$('theme').onclick=()=>{const cur=document.documentElement.dataset.theme||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');const n=cur==='light'?'dark':'light';document.documentElement.dataset.theme=n;store.set('t2theme',n);};})();
+
+// 손실 허용 · 비중 (RS 사이트 계산기와 같은 식: 비중 = 손실 허용 ÷ ADR, 한 종목 25% 상한) — 오늘 시장 기준
+const timely=x=>!!(x.star||(D.track||[]).some(t=>t.ticker===x.ticker&&t.status==='active'&&(t.grades||[]).some(g=>/^(S|A)/.test(g))));
+const riskOf=x=>G?RULE.riskGreen:timely(x)?RULE.riskRed:null;
+function planOf(x){const r=riskOf(x);if(!r||!x.adr)return null;const raw=r/x.adr*100;return{riskPct:r,weightPct:+Math.min(raw,RULE.capPct).toFixed(1),capped:raw>RULE.capPct,stopPct:+(+x.adr).toFixed(1)};}
+const gradeChips=g=>(g&&g.grades&&g.grades.length)?g.grades.map(c=>`<span class="chip ${/^S/.test(c)?'s':/^A/.test(c)?'a':'c'}">${esc(c)}</span>`).join(' '):(g?'<span class="chip c">재료 없음</span>':'<span class="chip c">등급 전</span>');
+const rsTxt=x=>x.rsTop?['m1','m3','m6'].map(k=>x.rsTop[k]==null?'—':`<span class="${x.rsTop[k]<=2?'b30':''}">${x.rsTop[k]}</span>`).join('/')+'%':'—';
+const retTxt=x=>['m1','m3','m6'].map(k=>{const v=x.ret&&x.ret[k];return `<span class="${v>=30?'b30':v<0?'dn':''}">${pct(v)}</span>`;}).join(' ');
+const baseTxt=x=>x.base?`횡보 ${x.base.days}일(${x.base.weeks}주) · 깊이 ${x.base.depthPct}% · 그 전 ${pct(x.base.priorPct)}`:'횡보 구간 판정 불가';
+const earnTxt=x=>{const e=x.nextEarnings;if(!e)return '';if(e==='unknown')return '<span class="dim">실적일 모름</span>';const d=Math.round((Date.parse(e)-Date.parse(D.session))/864e5);return `<span class="${d<=14?'dn':''}">실적 ${esc(e.slice(5))}${d<=14?' ⚠':''}</span>`;};
+const planTxt=p=>p?`손실 ${p.riskPct}% · 비중 ${p.weightPct}%${p.capped?'(상한)':''} · 손절 −${p.stopPct}%`:'<span class="dim">시장 빨간불 · 관망</span>';
+
+function head(){
+  $('regime').className='pill '+(G?'g':'r');$('regime').textContent=D.regime&&D.regime.ma10!=null?(G?'🟢 투자 가능':'🔴 관망'):'시장 판정 없음';
+  $('risk').textContent=G?`손실 허용 ${RULE.riskGreen}%`:`투자 적기만 ${RULE.riskRed}%`;
+  $('sub').innerHTML=`${esc(D.session||'')} 장 기준 · QQQ 10일선 ${D.regime&&D.regime.ma10!=null?D.regime.ma10.toFixed(1):'—'} ${G?'>':'<'} 20일선 ${D.regime&&D.regime.ma20!=null?D.regime.ma20.toFixed(1):'—'} · 갱신 ${esc((D.updated||'').slice(0,16).replace('T',' '))} UTC`;
+  const P=D.chief&&D.chief.picks||[];
+  $('picks').innerHTML=P.length?P.map(p=>`<div class="pick" data-tk="${esc(p.ticker)}"><div class="top">${String(p.tier).startsWith('★')?'<span class="chip star">★</span>':''}<b class="tk">${esc(p.ticker)}</b> ${gradeChips({grades:p.grades})} <span class="dim sm">${esc(p.tier)}</span></div>
+    <div class="why">${esc((p.reasons||[])[0]||p.gradeSummary||'')}</div><div class="plan num">${planTxt(p.plan)}</div></div>`).join(''):`<div class="empty">오늘은 추천 없음${D.chief&&D.chief.note?` — ${esc(D.chief.note)}`:''}<br><span class="sm">조건에 맞는 종목이 없으면 억지로 고르지 않습니다.</span></div>`;
+  const S=D.signals||[],ses=D.session,pp=D.paper||{};
+  const tile=(v,l)=>`<div class="tile"><div class="v num">${v}</div><div class="l">${l}</div></div>`;
+  $('tiles').innerHTML=tile(S.filter(x=>x.session===ses&&x.rs2).length,'RS 돌파 (오늘)')+tile(S.filter(x=>x.session===ses&&x.sa).length,'촉매 돌파 (오늘)')
+    +tile((D.track||[]).filter(t=>t.status==='active').length,'추적 중')+tile(`<span class="${pp.acctPct>0?'up':pp.acctPct<0?'dn':''}">${pct(pp.acctPct,2)}</span>`,'모의투자 누적 (계좌 대비)');
+}
+
+// 목록 — 휴대폰 카드 / 데스크톱 표
+function list(items,kind){
+  if(!items.length)return `<div class="empty">아직 신호가 없습니다. 조건: 150일선 위 · 전날 볼린저 폭 ≤ 0.25 · 전날 종가 상단 아래 → 당일 상단 위 · 상단↑ 하단↓ · 거래량 50일 평균 위${kind==='rs'?' · RS 1·3·6개월 중 하나라도 상위 2%':' · 촉매 등급 S 또는 A'}</div>`;
+  const by={};items.forEach(x=>(by[x.session]=by[x.session]||[]).push(x));
+  return Object.keys(by).sort().reverse().map(s=>`<div class="ses">${esc(s)} 장 · ${by[s].length}종목</div>`+
+   `<div class="cards mob">${by[s].map(x=>{const p=planOf(x);return `<div class="card" data-tk="${esc(x.ticker)}">
+     <div class="l1">${x.star?'<span class="chip star">★</span>':''}<b>${esc(x.ticker)}</b> ${kind==='cat'?gradeChips(x.grade):''} ${kind==='rs'?`<span class="sm">RS ${rsTxt(x)}</span>`:''}<span class="r">${earnTxt(x)}</span></div>
+     ${kind==='cat'&&x.grade?`<div class="ln">${esc(x.grade.summary||'')}</div>`:''}
+     <div class="ln">${esc(x.sector)} · ${esc(x.industry)}</div>
+     <div class="ln num">${kind==='cat'?`RS ${rsTxt(x)} · `:''}6개월 ${pct(x.ret&&x.ret.m6)} ${kind==='rs'?gradeChips(x.grade):''}</div>
+     <div class="ln num">${baseTxt(x)} · 거래량 <b>${x.volX}배</b></div>
+     <div class="ln num">${planTxt(p)}${x.newsN!=null?` · 📰 ${x.newsN}${x.newsNew?` (새 ${x.newsNew})`:''}`:''}</div></div>`;}).join('')}</div>`+
+   `<table class="t num"><thead><tr><th>티커</th><th>섹터 / 업종</th><th>등급</th><th>RS 상위 %<br>1·3·6</th><th>등락 1·3·6</th><th>횡보</th><th>돌파</th><th>체크</th><th>매수 계획</th><th>과거 같은 셋업</th><th>뉴스</th><th>실적</th></tr></thead><tbody>${by[s].map(x=>{const p=planOf(x),o=x.odds&&x.odds.rule&&x.odds.rule.d60;return `<tr data-tk="${esc(x.ticker)}">
+     <td>${x.star?'★ ':''}<b>${esc(x.ticker)}</b></td><td>${esc(x.sector)}<br><span class="dim">${esc(x.industry)}</span></td><td>${gradeChips(x.grade)}</td><td>${rsTxt(x)}</td><td>${retTxt(x)}</td>
+     <td>${x.base?`${x.base.days}일(${x.base.weeks}주)<br><span class="dim">깊이 ${x.base.depthPct}% · 전 ${pct(x.base.priorPct)}</span>`:'<span class="dim">판정 불가</span>'}</td>
+     <td>폭 ${x.bbwPrev}→${x.bbw}<br><span class="dim">거래량 ${x.volX}배</span></td><td>✅ ${x.checklist?x.checklist.pass+'/'+x.checklist.total:'—'}</td><td>${planTxt(p).replace(/ · /g,'<br>')}</td>
+     <td>${o?`60일 이긴 ${o.win}%<br><span class="dim">중앙 ${pct(o.med,1)}</span>`:'—'}</td><td>${x.newsN??'—'}${x.newsNew?` <span class="dim">(새 ${x.newsNew})</span>`:''}</td><td>${earnTxt(x)||'—'}</td></tr>`;}).join('')}</tbody></table>`).join('');
+}
+function trackList(){
+  const T=(D.track||[]).slice().sort((a,b)=>(a.status==='active'?0:1)-(b.status==='active'?0:1)||String(b.session).localeCompare(a.session));
+  if(!T.length)return '<div class="empty">추적 중인 종목이 없습니다. 돌파한 종목은 60거래일 동안 여기서 지켜봅니다.</div>';
+  return `<div class="cards">${T.map(t=>`<div class="card" data-tk="${esc(t.ticker)}"><div class="l1"><b>${esc(t.ticker)}</b> ${(t.grades||[]).some(g=>/^(S|A)/.test(g))?'<span class="chip s">2단계 확인</span>':''} ${t.rs2?'<span class="chip a">RS 2%</span>':''}<span class="r ${t.status==='active'?'':'dim'}">${t.status==='active'?`${t.days}일째`:`종료 · ${esc(t.endReason||'')}`}</span></div>
+    <div class="ln num">돌파 ${esc(t.session)} · 그 뒤 <b class="${t.retPct>0?'up':t.retPct<0?'dn':''}">${pct(t.retPct,1)}</b> · 거래량 동반 상승 ${t.volUpDays||0}일</div>
+    <div class="ln">50일선 ${t.above50===false?'❌ 아래':'✅ 위'} · 150일선 ${t.above150===false?'❌ 아래':'✅ 위'} ${(t.grades||[]).length?' · 등급 '+t.grades.map(esc).join(' '):''}</div></div>`).join('')}</div>`;
+}
+function paperList(){
+  const p=D.paper||{},P=p.positions||[],s=(o,l)=>o?`<div class="tile"><div class="v num ${o.acctPct>0?'up':o.acctPct<0?'dn':''}">${pct(o.acctPct,2)}</div><div class="l">${l} · ${o.n}건 · 승률 ${o.win??'—'}% · 손절 ${o.stopRate??'—'}%</div></div>`:'';
+  let h=`<div class="tiles">${s(p,'전체')}${s(p.rs,'① RS 돌파')}${s(p.cat,'② 촉매 돌파')}${s(p.star,'★ 둘 다')}</div>
+   <div class="note">실장과 별도로, 두 에이전트 신호를 전부 같은 규칙으로 삽니다. 수익률은 계좌 대비 %(비중 × 수익률 합)이며 금액·수량은 쓰지 않습니다. 지금 손절 위험 합계 ${p.openRisk??0}% / 한도 ${RULE.riskSum||6}%.</div>
+   <div class="note">손절 비교(같은 신호): ADR 종가 ${pct(p.acctPct,2)} · ADR 장중 ${pct(p.cmp&&p.cmp.adrIntraday.acctPct,2)} · 돌파일 저가 ${pct(p.cmp&&p.cmp.lod.acctPct,2)} · 실장 추천만 샀다면 ${pct(p.chief&&p.chief.acctPct,2)}</div>`;
+  h+=P.length?`<div class="cards" style="margin-top:10px">${P.slice().reverse().map(x=>`<div class="card" data-tk="${esc(x.ticker)}"><div class="l1">${x.star?'<span class="chip star">★</span>':''}<b>${esc(x.ticker)}</b> ${x.agent.map(a=>`<span class="chip ${a==='rs'?'a':'s'}">${a==='rs'?'RS':'촉매'}</span>`).join(' ')}<span class="r">${x.open?'보유':'청산'}</span></div>
+     <div class="ln num">매수 ${esc(x.entryDate)} 시가 ${x.entry} · 비중 ${x.weightPct}% (손실 ${x.riskPct}%) · 손절 ${x.stop}</div>
+     <div class="ln num">수익 <b class="${x.retPct>0?'up':x.retPct<0?'dn':''}">${pct(x.retPct,1)}</b> · 계좌 ${pct(x.acctPct,2)} · 남은 ${Math.round(x.left*100)}%${x.catalyst?' · 촉매 사다리':''}</div>
+     ${(x.steps||[]).map(t=>`<div class="ln sm">· ${esc(t.date)} ${esc(t.why)} @ ${t.px} (${pct(t.retPct,1)})</div>`).join('')}</div>`).join('')}</div>`:'<div class="empty" style="margin-top:10px">아직 모의투자 거래가 없습니다.</div>';
+  if((p.skipped||[]).length)h+=`<div class="note">건너뛴 신호: ${p.skipped.slice(-8).map(x=>`${esc(x.ticker)}(${esc(x.session)} · ${esc(x.why)})`).join(' · ')}</div>`;
+  return h;
+}
+let TAB=store.get('t2tab')||'rs';
+function render(){
+  document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.tab===TAB));
+  const S=D.signals||[];
+  $('body').innerHTML=TAB==='rs'?list(S.filter(x=>x.rs2),'rs'):TAB==='cat'?list(S.filter(x=>x.sa),'cat')+'<div class="note">② 촉매 돌파는 지난 2년 재무 근사 검증에서 우위가 없었습니다(60일 중앙값 −2.5%). 3개월(2027-02 말)까지 기록만 쌓고 ①과 비교합니다.</div>':TAB==='track'?trackList():paperList();
+}
+document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>{TAB=b.dataset.tab;store.set('t2tab',TAB);render();});
+document.addEventListener('click',e=>{const el=e.target.closest('[data-tk]');if(el&&!e.target.closest('a'))openTicker(el.dataset.tk);});
+
+// 차트 — 하율 팝업 차트(캔들+20/50/200일선 · 거래량+50일 평균 · 볼린저 폭 · OBV)에 볼린저 밴드·횡보 띠·피벗·돌파일을 더했다
+function loadOhlc(t,cb){window.OHLC=window.OHLC||{};if(window.OHLC[t])return cb(window.OHLC[t]);const sc=document.createElement('script');sc.src=`data/ohlc/${String(t).replace(/[^A-Za-z0-9.\-]/g,'_')}.js`;sc.onload=()=>cb(window.OHLC[t]||null);sc.onerror=()=>cb(null);document.head.appendChild(sc);}
+function chart(rows,x){
+  const W=780,show=110,C={bg:'var(--c-bg)',grid:'var(--c-grid)',text:'var(--c-text)',dim:'var(--c-dim)',up:'var(--c-up)',dn:'var(--c-dn)'},MC={20:'#3b82f6',50:'#a1a1aa',200:'#e879f9'};
+  const N=rows.length,cl=rows.map(r=>r[4]),vol=rows.map(r=>r[5]||0);
+  const sma=(a,p)=>{const o=[];let s=0;a.forEach((v,i)=>{s+=v;if(i>=p)s-=a[i-p];o.push(i+1<p?null:s/p);});return o;};
+  const M=[20,50,200].map(p=>({p,v:sma(cl,p)})),v50=sma(vol,50),m20=sma(cl,20);
+  const sd=cl.map((_,i)=>{if(i<19)return null;const w=cl.slice(i-19,i+1),mu=m20[i];return Math.sqrt(w.reduce((s,q)=>s+(q-mu)**2,0)/19);});
+  const UP=cl.map((_,i)=>sd[i]==null?null:m20[i]+2*sd[i]),LO=cl.map((_,i)=>sd[i]==null?null:m20[i]-2*sd[i]),bbw=cl.map((_,i)=>sd[i]==null?null:4*sd[i]/m20[i]);
+  const obv=[];cl.forEach((c,i)=>obv.push(i?obv[i-1]+(c>cl[i-1]?vol[i]:c<cl[i-1]?-vol[i]:0):0));
+  const st=Math.max(0,N-show),R=rows.slice(st),pl=8,pr=58,pt=26,gap=10,H1=260,H2=78,H3=66,H4=66,H=pt+H1+gap+H2+gap+H3+gap+H4+22;
+  const cw=(W-pl-pr)/R.length,bw=Math.max(1.5,cw*.62),X=i=>pl+cw*i+cw/2;
+  let lo=Infinity,hi=-Infinity;R.forEach((r,i)=>{lo=Math.min(lo,r[3],LO[st+i]??Infinity);hi=Math.max(hi,r[2],UP[st+i]??-Infinity);M.forEach(m=>{const v=m.v[st+i];if(v!=null){lo=Math.min(lo,v);hi=Math.max(hi,v);}});});
+  const pad=(hi-lo)*.05||1;lo-=pad;hi+=pad;const y=v=>pt+(hi-v)/(hi-lo)*H1,f=n=>n.toFixed(1);
+  let g=`<rect width="${W}" height="${H}" style="fill:${C.bg}"/>`;
+  // 횡보 구간 띠 · 피벗 점선 · 돌파일
+  const di=d=>R.findIndex(r=>r[0]===d);
+  if(x&&x.base&&x.base.pivotDate){const a=di(x.base.pivotDate),b=x.session?di(x.session):-1;if(a>=0){const e=b>0?b-1:R.length-1;g+=`<rect x="${f(X(a)-cw/2)}" y="${pt}" width="${f((e-a+1)*cw)}" height="${H1}" style="fill:var(--c-base)"/><text x="${f(X(a))}" y="${pt+12}" style="fill:var(--yel)" font-size="11">횡보 ${x.base.days}일</text>`;}
+    if(x.base.pivot)g+=`<line x1="${pl}" x2="${W-pr}" y1="${f(y(x.base.pivot))}" y2="${f(y(x.base.pivot))}" style="stroke:var(--yel)" stroke-width="1" stroke-dasharray="4 4"/><text x="${W-pr+4}" y="${f(y(x.base.pivot)-3)}" style="fill:var(--yel)" font-size="10">피벗</text>`;}
+  const step=(()=>{const raw=(hi-lo)/5,p=10**Math.floor(Math.log10(raw));return [1,2,2.5,5,10].map(k=>k*p).find(k=>k>=raw);})();
+  for(let v=Math.ceil(lo/step)*step;v<=hi;v+=step)g+=`<line x1="${pl}" x2="${W-pr}" y1="${f(y(v))}" y2="${f(y(v))}" style="stroke:${C.grid}" stroke-width=".6"/><text x="${W-pr+6}" y="${f(y(v)+4)}" style="fill:${C.dim}" font-size="11">${step<1?v.toFixed(2):v.toFixed(step<10?1:0)}</text>`;
+  let pm='';R.forEach((r,i)=>{const m=String(r[0]).slice(0,7);if(m!==pm){pm=m;g+=`<text x="${f(X(i))}" y="${H-8}" style="fill:${C.dim}" font-size="11">${m.slice(2)}</text>`;}});
+  const band=(arr,dash)=>{const pts=R.map((_,i)=>arr[st+i]==null?null:`${f(X(i))},${f(y(arr[st+i]))}`).filter(Boolean).join(' ');return pts?`<polyline points="${pts}" fill="none" style="stroke:var(--c-band)" stroke-width="1.1" stroke-dasharray="${dash}" opacity=".8"/>`:'';};
+  g+=band(UP,'3 2')+band(LO,'3 2');
+  R.forEach((r,i)=>{const [,o,h,l,c]=r,col=c>=o?C.up:C.dn;g+=`<line x1="${f(X(i))}" x2="${f(X(i))}" y1="${f(y(h))}" y2="${f(y(l))}" style="stroke:${col}" stroke-width="1"/><rect x="${f(X(i)-bw/2)}" y="${f(y(Math.max(o,c)))}" width="${f(bw)}" height="${Math.max(1,Math.abs(y(o)-y(c))).toFixed(1)}" style="fill:${col}"/>`;});
+  M.forEach(m=>{const pts=R.map((_,i)=>m.v[st+i]==null?null:`${f(X(i))},${f(y(m.v[st+i]))}`).filter(Boolean).join(' ');if(pts)g+=`<polyline points="${pts}" fill="none" stroke="${MC[m.p]}" stroke-width="1.6"/>`;});
+  if(x&&x.session){const b=di(x.session);if(b>=0)g+=`<text x="${f(X(b))}" y="${f(y(R[b][2])-8)}" text-anchor="middle" font-size="14" style="fill:var(--acc)">▼</text>`;}
+  const last=R[R.length-1],fm=v=>v==null?'—':v.toFixed(2);
+  g+=`<text x="${pl}" y="17" style="fill:${C.text}" font-size="12" font-weight="700">${esc(last[0])} 종가 ${last[4]}</text>`+M.map((m,k)=>`<text x="${175+k*110}" y="17" fill="${MC[m.p]}" font-size="12">${m.p}일선 ${fm(m.v[N-1])}</text>`).join('')+`<text x="${505}" y="17" style="fill:var(--c-band)" font-size="12">볼린저 상·하단</text>`;
+  const panel=(top,h,arr,col,lab)=>{const vs=R.map((_,i)=>arr[st+i]).filter(v=>v!=null&&isFinite(v));let o=`<line x1="${pl}" x2="${W-pr}" y1="${top}" y2="${top}" style="stroke:${C.grid}" stroke-width=".6"/>`;
+    if(vs.length){const a=Math.min(...vs,lab.ref??Infinity),b=Math.max(...vs,lab.ref??-Infinity),yy=v=>top+14+(b-v)/((b-a)||1)*(h-16);
+      o+=`<polyline points="${R.map((_,i)=>arr[st+i]==null?null:`${f(X(i))},${f(yy(arr[st+i]))}`).filter(Boolean).join(' ')}" fill="none" stroke="${col}" stroke-width="1.6"/>`;
+      if(lab.ref!=null)o+=`<line x1="${pl}" x2="${W-pr}" y1="${f(yy(lab.ref))}" y2="${f(yy(lab.ref))}" stroke="${col}" stroke-width=".7" stroke-dasharray="3 3"/>`;}
+    return o+`<text x="${pl}" y="${top+12}" style="fill:${C.text}" font-size="11">${lab.text}</text>`;};
+  let top=pt+H1+gap;const vmax=Math.max(...R.map(r=>r[5]||0),...R.map((_,i)=>v50[st+i]||0))||1,vy=v=>top+H2-(v/vmax)*H2;
+  g+=`<line x1="${pl}" x2="${W-pr}" y1="${top}" y2="${top}" style="stroke:${C.grid}" stroke-width=".6"/>`;
+  R.forEach((r,i)=>{const col=r[4]>=r[1]?C.up:C.dn;g+=`<rect x="${f(X(i)-bw/2)}" y="${f(vy(r[5]||0))}" width="${f(bw)}" height="${f(top+H2-vy(r[5]||0))}" style="fill:${col}" opacity=".5"/>`;});
+  {const pts=R.map((_,i)=>v50[st+i]==null?null:`${f(X(i))},${f(vy(v50[st+i]))}`).filter(Boolean).join(' ');if(pts)g+=`<polyline points="${pts}" fill="none" stroke="#f5a524" stroke-width="1.6"/>`;}
+  g+=`<text x="${pl}" y="${top+12}" style="fill:${C.text}" font-size="11">거래량 ${Math.round((last[5]||0)/1e3)}K <tspan fill="#f5a524">50일 평균 ${v50[N-1]==null?'—':Math.round(v50[N-1]/1e3)+'K'}</tspan>${v50[N-1]?` · ${((last[5]||0)/v50[N-1]).toFixed(2)}배`:''}</text>`;
+  top+=H2+gap;g+=panel(top,H3,bbw,'#22d3ee',{ref:.25,text:`볼린저 폭 ${bbw[N-1]==null?'—':bbw[N-1].toFixed(3)} · 점선 0.25`});
+  top+=H3+gap;g+=panel(top,H4,obv,'#a78bfa',{text:`OBV ${(obv[N-1]/1e6).toFixed(1)}M ${obv[N-1]>obv[N-2]?'▲':obv[N-1]<obv[N-2]?'▼':'—'}`});
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="일봉, 20·50·200일선, 볼린저 밴드, 횡보 구간, 거래량, 볼린저 폭, OBV">${g}</svg>`;
+}
+
+// 투자비중계산기 — RS 사이트 단기 투자비중 계산기와 같은 식 (최대 투자금 = 자산 × 손실율 ÷ ADR · 손절가 = 매수가 × (1 − ADR))
+function calcHtml(x){
+  const p=x?planOf(x):null,risk=p?p.riskPct:(G?RULE.riskGreen:RULE.riskRed);
+  return `<div class="box"><h4>🧮 투자비중계산기 <span class="chip c">RS 사이트와 같은 식</span></h4>
+   ${!G&&x&&!p?`<div class="warn">시장 빨간불이고 '투자 적기'(★ 또는 추적 중 S/A 확인)가 아니라 이 종목은 관망입니다. 계산은 참고로만 보세요.</div>`:''}
+   <div class="calc"><div><label>티커</label><input id="cT" value="${esc(x?x.ticker:'')}"></div><div><label>매수가격 ($)</label><input id="cP" type="number" step="any" inputmode="decimal" value="${x&&x.price?x.price:''}"></div>
+   <div><label>변동성 ADR (%)</label><input id="cA" type="number" step="any" inputmode="decimal" value="${x&&x.adr?x.adr:''}"></div><div><label>손실율 (%) · 초록 2 · 빨강 적기 0.5</label><input id="cR" type="number" step="0.1" inputmode="decimal" value="${risk}"></div>
+   <div style="grid-column:1/3"><label>전체 투자자산 ($) — 이 브라우저 안에서만 계산합니다</label><input id="cC" type="number" step="any" inputmode="decimal" value="${esc(store.get('t2cap')||'')}"></div></div>
+   <div class="res num" id="cOut"></div>
+   <div class="warn">⚠️ 지난 2년 검증에서 ADR 종가 손절의 실제 손실은 계획의 중앙 1.35배, 최대 3.4배였습니다(다음 날 갭). 한 종목은 자산의 ${RULE.capPct}%를 넘기지 않습니다.</div></div>`;
+}
+function calcRun(){
+  const v=id=>parseFloat(($(id)||{}).value),cap=v('cC'),price=v('cP'),adr=v('cA'),risk=v('cR');if(!$('cOut'))return;
+  if(isFinite(cap))store.set('t2cap',String(cap));
+  if(![cap,price,adr,risk].every(isFinite)||adr<=0){$('cOut').innerHTML='<div class="dim">값을 모두 넣으면 계산됩니다.</div>';return;}
+  const raw=cap*risk/100/(adr/100),lim=cap*RULE.capPct/100,amt=Math.min(raw,lim),sh=Math.floor(amt/price),stop=price*(1-adr/100);
+  $('cOut').innerHTML=`<div><span>최대 투자가능금액</span><b>$${amt.toLocaleString('en-US',{maximumFractionDigits:2})}</b></div>${raw>lim?`<div class="dim sm"><span>공식 금액 $${raw.toLocaleString('en-US',{maximumFractionDigits:0})} → ${RULE.capPct}% 상한으로 줄임</span></div>`:''}
+    <div><span>매수 가능 주식수</span><b>${sh.toLocaleString()} 주</b></div><div><span>손절 주당 가격</span><b>$${stop.toFixed(2)}</b></div><div class="dim sm"><span>손절 시 손실(계획)</span><span>$${(sh*(price-stop)).toFixed(0)} · 자산의 ${(sh*(price-stop)/cap*100).toFixed(2)}%</span></div>`;
+}
+function bindCalc(){['cT','cP','cA','cR','cC'].forEach(id=>{const e=$(id);if(e)e.oninput=calcRun;});calcRun();}
+function openModal(html){$('sheet').innerHTML=html;$('modal').classList.add('on');$('sheet').scrollTop=0;document.body.style.overflow='hidden';}
+function closeModal(){$('modal').classList.remove('on');document.body.style.overflow='';}
+$('close').onclick=closeModal;$('modal').onclick=e=>{if(e.target===$('modal'))closeModal();};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+$('calcBtn').onclick=()=>{openModal(`<div class="hd"><h2>🧮 투자비중계산기</h2></div>${calcHtml(null)}`);bindCalc();};
+
+// 팝업
+function openTicker(T){
+  const S=(D.signals||[]).filter(x=>x.ticker===T).sort((a,b)=>b.session.localeCompare(a.session)),x=S[0]||null;
+  const tr=(D.track||[]).filter(t=>t.ticker===T).pop()||null,pos=((D.paper||{}).positions||[]).filter(p=>p.ticker===T).pop()||null;
+  const pick=((D.chief||{}).picks||[]).find(p=>p.ticker===T),g=x&&x.grade,N=(NEWS[T]&&NEWS[T].items)||[],p=x?planOf(x):null;
+  let h=`<div class="hd">${x&&x.star?'<span class="chip star">★</span>':''}<h2>${esc(T)}</h2>${x?`<span class="num">$${x.price}</span>`:''} ${x&&x.rs2?'<span class="chip a">① RS 돌파</span>':''} ${x&&x.sa?'<span class="chip s">② 촉매 돌파</span>':''} <span class="pill ${G?'g':'r'}" style="font-size:12px">${G?'🟢 투자 가능':'🔴 관망'}</span></div>
+   ${x?`<div class="dim sm">${esc(x.sector)} · ${esc(x.industry)} · 돌파 ${esc(x.session)}</div>`:''}
+   <div class="box" style="margin-top:10px">${gradeChips(g)} ${g&&g.summary?esc(g.summary):''}<div class="sm dim num" style="margin-top:4px">${x?`${baseTxt(x)} · 거래량 ${x.volX}배 · 폭 ${x.bbwPrev}→${x.bbw}`:''}</div>${pick?`<div style="margin-top:6px">🧑‍💼 <b>실장 추천</b> — ${esc((pick.reasons||[]).join(' / '))}${pick.whyNot?`<br><span class="dim sm">사지 말 이유: ${esc(pick.whyNot)}</span>`:''}${(pick.risks||[]).length?`<br><span class="dim sm">위험: ${esc(pick.risks.join(' · '))}</span>`:''}</div>`:''}</div>
+   <div class="box chart" id="chart"><div class="dim">차트 불러오는 중…</div></div>`;
+  if(x)h+=`<div class="box"><h4>📋 매수 계획 <span class="chip c">오늘 시장 기준</span></h4><div class="kv num"><div>손실 허용</div><div>${p?p.riskPct+'%':'관망'}</div><div>투자 비중</div><div>${p?p.weightPct+'%'+(p.capped?' (25% 상한)':''):'—'}</div><div>손절</div><div>종가가 매수가 −${x.adr}% 아래면 다음 날 매도 (ADR 1배 종가)</div><div>매도 규칙</div><div>${x.sa?'촉매 있음 → 신고가·상단 아래 1/3 · 20일선 2/3 · 50일선 2/3 · 200일선 전부':'촉매 없음 → 신고가·상단 아래 1/3 · 20일선 이탈 전부'}</div></div></div>`+calcHtml(x)
+   +`<div class="box"><h4>🔎 돌파 조건 · 체크리스트</h4><ul class="pl">${(x.rows||[]).map(r=>`<li>${r.ok?'✅':'❌'} ${esc(r.item)} <span class="dim sm">${esc(r.detail)}</span></li>`).join('')}</ul>
+     <h4 style="margin-top:10px">라온 체크리스트(참고)</h4><ul class="pl">${((x.checklist||{}).rows||[]).filter(r=>r.status!=='info').map(r=>`<li>${r.icon||''} ${esc(r.item)} <span class="dim sm">${esc(r.detail)}</span></li>`).join('')}</ul>
+     <div class="note">RS 상위 % ${rsTxt(x)} · 등락 ${retTxt(x)}${x.peers&&x.peers.length?` · 같은 업종 강한 종목 ${x.peers.map(esc).join(', ')}`:''}</div></div>`;
+  if(g)h+=`<div class="box"><h4>🏷 촉매 등급 근거 <span class="chip c">AI · v3 기준 · 원문 확인</span></h4>${(g.evidence||[]).length?`<ul class="pl">${g.evidence.map(e=>`<li>${esc(e.claim)} <span class="dim sm">${esc(e.date||'')}</span> ${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">원문${e.linkOk===false?' (안 열림)':''}</a>`:''}</li>`).join('')}</ul>`:'<div class="dim">근거 없음</div>'}
+    ${(g.plus||[]).length?`<div class="sm" style="margin-top:6px"><span class="up">＋</span> ${g.plus.map(esc).join(' · ')}</div>`:''}${(g.minus||[]).length?`<div class="sm"><span class="dn">－</span> ${g.minus.map(esc).join(' · ')}</div>`:''}${(g.next||[]).length?`<div class="sm dim">다음 확인: ${g.next.map(esc).join(' · ')}</div>`:''}</div>`;
+  if(x&&x.odds&&x.odds.rule){const o=x.odds.rule,c=k=>o[k]?`이긴 ${o[k].win}% · 중앙 ${pct(o[k].med,1)}`:'—';h+=`<div class="box"><h4>⏳ 과거 같은 셋업 <span class="chip c">지난 2년 · ${x.rs2?'RS 2% 돌파':'전체 돌파'} ${o.n}건</span></h4><div class="kv num"><div>5일 뒤</div><div>${c('d5')}</div><div>20일 뒤</div><div>${c('d20')}</div><div>60일 뒤</div><div>${c('d60')}</div><div>매도 규칙대로</div><div>${o.rule?`이긴 ${o.rule.win}% · 중앙 ${pct(o.rule.med,1)} · 손절 ${o.stopRate}%`:'—'}</div></div>${(x.odds.mine||[]).length?`<div class="note">이 종목의 지난 신호: ${x.odds.mine.map(m=>`${esc(m.d)} 60일 ${pct(m.r60,0)}`).join(' · ')}</div>`:''}<div class="note">${esc((D.odds||{}).note||'')}</div></div>`;}
+  if(tr)h+=`<div class="box"><h4>📍 추적 상태</h4><div class="kv num"><div>상태</div><div>${tr.status==='active'?`추적 ${tr.days}일째 / 60`:`종료 · ${esc(tr.endReason||'')}`}</div><div>돌파 뒤</div><div>${pct(tr.retPct,1)}</div><div>50일선</div><div>${tr.above50===false?'❌ 아래':'✅ 위'}</div><div>거래량 동반 상승</div><div>${tr.volUpDays||0}일</div><div>다음 실적</div><div>${x&&x.nextEarnings?esc(x.nextEarnings):'10거래일 안 없음'}</div></div></div>`;
+  if(pos)h+=`<div class="box"><h4>💼 모의투자</h4><div class="sm num">매수 ${esc(pos.entryDate)} @ ${pos.entry} · 비중 ${pos.weightPct}% · 손절 ${pos.stop} · ${pos.open?'보유':'청산'} · 수익 ${pct(pos.retPct,1)}</div>${(pos.steps||[]).map(t=>`<div class="sm dim">· ${esc(t.date)} ${esc(t.why)} @ ${t.px}</div>`).join('')}</div>`;
+  h+=`<div class="box news"><h4>📰 뉴스 ${N.length}건</h4>${N.length?N.map(n=>`<a href="${esc(n.url)}" target="_blank" rel="noopener">${n.isNew?'<span class="chip a">새</span> ':''}${esc(n.title)}<div class="m">${esc(n.date||'')} · ${esc(n.publisher||n.via)}${n.paywall?' · 유료일 수 있음':''}</div></a>`).join(''):'<div class="dim">모은 기사가 없습니다.</div>'}</div>
+   <div class="note">판단 보조이며 최종 결정은 본인입니다. 금액·수량은 계산기에서만 이 브라우저 안에서 계산합니다.</div>`;
+  openModal(h);if(x)bindCalc();
+  loadOhlc(T,rows=>{const el=$('chart');if(el)el.innerHTML=rows&&rows.length>60?chart(rows,x):'<div class="dim">차트 자료가 없습니다.</div>';});
+}
+head();render();
+</script>
+</body>
+</html>

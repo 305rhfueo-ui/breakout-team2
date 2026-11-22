@@ -1,0 +1,77 @@
+{
+ "updated": "2026-11-22T04:43:59.076Z",
+ "session": "2026-11-20",
+ "main": {
+  "positions": [],
+  "skipped": [
+   {
+    "ticker": "CAKE",
+    "session": "2026-11-18",
+    "star": false,
+    "agent": [
+     "rs"
+    ],
+    "why": "시장 빨간불 · 관망"
+   }
+  ],
+  "total": {
+   "n": 0,
+   "open": 0,
+   "closed": 0,
+   "win": null,
+   "acctPct": 0,
+   "stopRate": null
+  },
+  "rs": {
+   "n": 0,
+   "open": 0,
+   "closed": 0,
+   "win": null,
+   "acctPct": 0,
+   "stopRate": null
+  },
+  "cat": {
+   "n": 0,
+   "open": 0,
+   "closed": 0,
+   "win": null,
+   "acctPct": 0,
+   "stopRate": null
+  },
+  "star": {
+   "n": 0,
+   "open": 0,
+   "closed": 0,
+   "win": null,
+   "acctPct": 0,
+   "stopRate": null
+  },
+  "openRisk": 0
+ },
+ "cmp": {
+  "adrIntraday": {
+   "n": 0,
+   "open": 0,
+   "closed": 0,
+   "win": null,
+   "acctPct": 0,
+   "stopRate": null
+  },
+  "lod": {
+   "n": 0,
+   "open": 0,
+   "closed": 0,
+   "win": null,
+   "acctPct": 0,
+   "stopRate": null
+  }
+ },
+ "chief": {
+  "n": 0,
+  "open": 0,
+  "closed": 0,
+  "win": null,
+  "acctPct": 0,
+  "stopRate": null
+ }
+}
