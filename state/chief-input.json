@@ -1,0 +1,22 @@
+{
+ "session": "2026-11-20",
+ "regime": {
+  "green": false,
+  "ma10": 664.43,
+  "ma20": 678.53,
+  "ko": "🔴 10일선이 20일선 아래 24일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
+  "verdict": "red"
+ },
+ "rule": {
+  "th": 0.25,
+  "rsTop": 2,
+  "ma": 150,
+  "volK": 1,
+  "trackDays": 60,
+  "capPct": 25,
+  "riskGreen": 2,
+  "riskRed": 0.5,
+  "riskSum": 6
+ },
+ "candidates": []
+}
