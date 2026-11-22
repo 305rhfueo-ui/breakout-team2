@@ -152,7 +152,7 @@ async function main() {
     chief: { picks: chief.picks, skipped: chief.skipped, note: chief.note }, signals: sigs,
     track: track.items.slice(-120), paper: { ...books.main.total, rs: books.main.rs, cat: books.main.cat, star: books.main.star, openRisk: books.main.openRisk,
       positions: books.main.positions.map((p) => ({ ticker: p.ticker, agent: p.agent, star: p.star, signal: p.signal, entryDate: p.entryDate, entry: p.entry, weightPct: p.weightPct, riskPct: p.riskPct,
-        stop: p.stop, open: p.open, left: p.left, steps: p.steps, retPct: p.retPct, acctPct: p.acctPct, catalyst: p.catalyst, lastDate: p.lastDate })),
+        stop: p.stop, open: p.open, left: p.left, steps: p.steps, pending: p.pending, retPct: p.retPct, acctPct: p.acctPct, catalyst: p.catalyst, lastDate: p.lastDate })),
       skipped: books.main.skipped.slice(-30), cmp: books.cmp, chief: books.chief },
     odds: odds ? { all: odds.all, rs2: odds.rs2, rs2Green: odds.rs2Green, rs2Red: odds.rs2Red, from: odds.from, to: odds.to, universe: odds.universe, note: odds.note } : null };
   fs.writeFileSync(path.join(ROOT, 'data', 'team2.js'), `window.TEAM2=${JSON.stringify(data)};\n`);

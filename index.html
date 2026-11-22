@@ -165,7 +165,7 @@ function paperList(){
   h+=P.length?`<div class="cards" style="margin-top:10px">${P.slice().reverse().map(x=>`<div class="card" data-tk="${esc(x.ticker)}"><div class="l1">${x.star?'<span class="chip star">★</span>':''}<b>${esc(x.ticker)}</b> ${x.agent.map(a=>`<span class="chip ${a==='rs'?'a':'s'}">${a==='rs'?'RS':'촉매'}</span>`).join(' ')}<span class="r">${x.open?'보유':'청산'}</span></div>
      <div class="ln num">매수 ${esc(x.entryDate)} 시가 ${x.entry} · 비중 ${x.weightPct}% (손실 ${x.riskPct}%) · 손절 ${x.stop}</div>
      <div class="ln num">수익 <b class="${x.retPct>0?'up':x.retPct<0?'dn':''}">${pct(x.retPct,1)}</b> · 계좌 ${pct(x.acctPct,2)} · 남은 ${Math.round(x.left*100)}%${x.catalyst?' · 촉매 사다리':''}</div>
-     ${(x.steps||[]).map(t=>`<div class="ln sm">· ${esc(t.date)} ${esc(t.why)} @ ${t.px} (${pct(t.retPct,1)})</div>`).join('')}</div>`).join('')}</div>`:'<div class="empty" style="margin-top:10px">아직 모의투자 거래가 없습니다.</div>';
+     ${(x.steps||[]).map(t=>`<div class="ln sm">· ${esc(t.date)} ${esc(t.why)} @ ${t.px} (${pct(t.retPct,1)})</div>`).join('')}${x.pending?`<div class="ln sm dn">⏭ 다음 장 시가 매도 예정 — ${esc(x.pending.why)}</div>`:''}</div>`).join('')}</div>`:'<div class="empty" style="margin-top:10px">아직 모의투자 거래가 없습니다.</div>';
   if((p.skipped||[]).length)h+=`<div class="note">건너뛴 신호: ${p.skipped.slice(-8).map(x=>`${esc(x.ticker)}(${esc(x.session)} · ${esc(x.why)})`).join(' · ')}</div>`;
   return h;
 }
