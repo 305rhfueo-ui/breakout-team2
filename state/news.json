@@ -1,6 +1,6 @@
 {
  "NRP": {
-  "updated": "2026-11-22T22:19:58.989Z",
+  "updated": "2026-11-24T04:39:13.525Z",
   "items": [
    {
     "title": "Coal Still Powers the Grid and the Steel Mills, and $90,000 Across These 3 Coal Stocks Pays More Than $5,000 a Year",
@@ -85,14 +85,14 @@
    }
   ],
   "sources": {
-   "nasdaq": 14,
+   "nasdaq": 13,
    "cnbc": 0,
-   "yahoo": 4,
+   "yahoo": 3,
    "sec": 8
   }
  },
  "LNTH": {
-  "updated": "2026-11-22T22:20:01.982Z",
+  "updated": "2026-11-24T04:39:16.663Z",
   "items": [
    {
     "title": "Lantheus Presents Data from Two Pivotal Phase 3 Studies of TAUKLARIFY (Florquinitau F 18 Injection) PET Imaging in Early Alzheimer’s Disease",
@@ -109,24 +109,6 @@
     "date": "2026-11-10",
     "publisher": "SEC",
     "via": "SEC",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Lantheus to Sell CDMO Business, New Jersey Manufacturing Facility to PharmaLogic",
-    "url": "https://finance.yahoo.com/healthcare/articles/lantheus-sell-cdmo-business-jersey-230702044.html",
-    "date": "2026-11-09",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "PharmaLogic to Acquire Lantheus' CDMO Business and Springfield, New Jersey Manufacturing Facility",
-    "url": "https://finance.yahoo.com/healthcare/articles/pharmalogic-acquire-lantheus-cdmo-business-210500536.html",
-    "date": "2026-11-09",
-    "publisher": "PR Newswire",
-    "via": "Yahoo",
     "paywall": false,
     "isNew": false
    },
@@ -152,37 +134,37 @@
   "sources": {
    "nasdaq": 4,
    "cnbc": 0,
-   "yahoo": 3,
+   "yahoo": 1,
    "sec": 8
   }
  },
  "STN": {
-  "updated": "2026-11-22T22:20:03.943Z",
+  "updated": "2026-11-24T04:39:20.209Z",
   "items": [
+   {
+    "title": "Stantec Secures $75 Million Dam Modernization Project From City of San Diego",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stantec-secures-75-million-dam-123027430.html",
+    "date": "2026-11-23",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Stantec selected to help modernize San Diego’s critical water infrastructure for generations to come",
+    "url": "https://finance.yahoo.com/energy/articles/stantec-selected-help-modernize-san-120000815.html",
+    "date": "2026-11-23",
+    "publisher": "GlobeNewswire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
    {
     "title": "Stantec: 3 Key Takeaways for Long-Term Investors",
     "url": "https://www.nasdaq.com/articles/stantec-3-key-takeaways-long-term-investors",
     "date": "2026-11-18",
     "publisher": "The Motley Fool",
     "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Stantec Price Target Raised at CIBC, TD",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stantec-price-target-raised-cibc-125615460.html",
-    "date": "2026-11-16",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Stifel Downgrades Stantec to Hold, Price Target is CA$129",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-downgrades-stantec-hold-price-122723213.html",
-    "date": "2026-11-16",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
     "paywall": false,
     "isNew": false
    },
@@ -219,15 +201,6 @@
     "date": "2026-11-13",
     "publisher": "MarketBeat",
     "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Stantec Inc (STN) Q3 2026 Earnings Call Highlights: Strong Organic Growth and Raised Guidance ...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stantec-inc-stn-q3-2026-230401862.html",
-    "date": "2026-11-13",
-    "publisher": "GuruFocus.com",
-    "via": "Yahoo",
     "paywall": false,
     "isNew": false
    },
@@ -298,12 +271,12 @@
   "sources": {
    "nasdaq": 15,
    "cnbc": 0,
-   "yahoo": 4,
+   "yahoo": 3,
    "sec": 0
   }
  },
  "COR": {
-  "updated": "2026-11-22T22:20:05.652Z",
+  "updated": "2026-11-24T04:39:24.772Z",
   "items": [
    {
     "title": "Wells Fargo Adjusts Price Target on Cencora to $400 From $395",
@@ -440,23 +413,86 @@
   }
  },
  "KO": {
-  "updated": "2026-11-22T22:20:07.768Z",
+  "updated": "2026-11-24T04:39:29.538Z",
   "items": [
    {
-    "title": "Here’s How Many Shares of Coca-Cola You’d Need for $10,000 in Yearly Dividends.",
-    "url": "https://www.nasdaq.com/articles/heres-how-many-shares-coca-cola-youd-need-10000-yearly-dividends-0",
-    "date": "2026-11-22",
+    "title": "BofA spots opportunities in these nine consumer staples stocks for 2027",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-spots-opportunities-nine-consumer-030406689.html",
+    "date": "2026-11-24",
+    "publisher": "Investing.com",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "The Coca-Cola Company Announces David V. Elkins Will Succeed John Murphy as Chief Financial Officer, Effective April 2, 2027",
+    "url": "https://www.nasdaq.com/articles/coca-cola-company-announces-david-v-elkins-will-succeed-john-murphy-chief-financial",
+    "date": "2026-11-23",
+    "publisher": "Fintel",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "If a Recession Hits in 2027, This Is the Dividend Stock I Want to Own",
+    "url": "https://www.nasdaq.com/articles/if-recession-hits-2027-dividend-stock-i-want-own-0",
+    "date": "2026-11-23",
     "publisher": "The Motley Fool",
     "via": "Nasdaq",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Coca Cola (KO) Stock Looks Fully Priced After Its 109% Run",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-stock-looks-001242930.html",
-    "date": "2026-11-22",
-    "publisher": "Simply Wall St.",
+    "title": "Coca-Cola vs. PepsiCo: Which Consumer Goods Stock Is a Better Buy for 2027?",
+    "url": "https://www.nasdaq.com/articles/coca-cola-vs-pepsico-which-consumer-goods-stock-better-buy-2027",
+    "date": "2026-11-23",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Berkshire Has Owned These 2 Consumer Stocks for Decades. I'd Buy Both Before December and Never Sell.",
+    "url": "https://www.nasdaq.com/articles/berkshire-has-owned-these-2-consumer-stocks-decades-id-buy-both-december-and-never-sell",
+    "date": "2026-11-23",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Coca-Cola Names David Elkins New CFO",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-names-david-elkins-214958867.html",
+    "date": "2026-11-23",
+    "publisher": "MT Newswires",
     "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "EU Probes Coca-Cola Bottler, Citing Antitrust Concerns",
+    "url": "https://finance.yahoo.com/m/38c53485-5fd4-351e-9720-8af2f8dfd923/eu-probes-coca-cola-bottler%2C.html",
+    "date": "2026-11-23",
+    "publisher": "The Wall Street Journal",
+    "via": "Yahoo",
+    "paywall": true,
+    "isNew": true
+   },
+   {
+    "title": "SEC 8-K · 임원 변동, 재무제표·첨부",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/e26458_ko-8k.htm",
+    "date": "2026-11-23",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Here’s How Many Shares of Coca-Cola You’d Need for $10,000 in Yearly Dividends.",
+    "url": "https://www.nasdaq.com/articles/heres-how-many-shares-coca-cola-youd-need-10000-yearly-dividends-0",
+    "date": "2026-11-22",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
     "paywall": false,
     "isNew": false
    },
@@ -473,51 +509,6 @@
     "title": "Here's How Many Shares of Coca-Cola You'd Need for $1,000 in Monthly Income",
     "url": "https://www.nasdaq.com/articles/heres-how-many-shares-coca-cola-youd-need-1000-monthly-income",
     "date": "2026-11-21",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Turn Your Roth IRA Into a Tax-Free Dividend Income Machine With These 3 Simple Moves",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/turn-roth-ira-tax-free-165742082.html",
-    "date": "2026-11-21",
-    "publisher": "24/7 Wall St.",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "3 Reasons Dividend Aristocrats Belong in Your Roth IRA Before You Retire",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-dividend-aristocrats-belong-153132678.html",
-    "date": "2026-11-21",
-    "publisher": "24/7 Wall St.",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Is Coca-Cola (KO) the Best Stock to Own During a Market Sell-Off?",
-    "url": "https://www.nasdaq.com/articles/coca-cola-ko-best-stock-own-during-market-sell",
-    "date": "2026-11-20",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Is Coca-Cola a Millionaire-Maker Stock?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-millionaire-maker-stock-222500261.html",
-    "date": "2026-11-20",
-    "publisher": "Motley Fool",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Warren Buffett Has Backed This Consumer Stock for Decades, and Greg Abel Is Still Holding It. Here's Why It's a Buy in November.",
-    "url": "https://www.nasdaq.com/articles/warren-buffett-has-backed-consumer-stock-decades-and-greg-abel-still-holding-it-heres-why",
-    "date": "2026-11-19",
     "publisher": "The Motley Fool",
     "via": "Nasdaq",
     "paywall": false,
@@ -560,13 +551,13 @@
     "isNew": false
    },
    {
-    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/ko-20261027.htm",
+    "title": "Tuesday, October 27, 2026: Cramer wants to buy this shipping giant's stock",
+    "url": "https://www.cnbc.com/investingclub/video/2026/10/27/tuesday-october-27-2026-cramer-wants-to-buy-this-shipping-giants-stock.html",
     "date": "2026-10-27",
-    "publisher": "SEC",
-    "via": "SEC",
+    "publisher": "CNBC",
+    "via": "CNBC",
     "paywall": false,
-    "isNew": false
+    "isNew": true
    },
    {
     "title": "Tuesday's stock stories: What’s likely to move the market in the next session",
@@ -588,14 +579,14 @@
    }
   ],
   "sources": {
-   "nasdaq": 5,
+   "nasdaq": 7,
    "cnbc": 8,
-   "yahoo": 5,
+   "yahoo": 4,
    "sec": 8
   }
  },
  "GRVY": {
-  "updated": "2026-11-22T22:20:08.187Z",
+  "updated": "2026-11-24T04:39:33.707Z",
   "items": [
    {
     "title": "Gravity Q3 Earnings Climb 7.7%",
@@ -624,7 +615,7 @@
   }
  },
  "GHC": {
-  "updated": "2026-11-22T22:20:10.093Z",
+  "updated": "2026-11-24T04:39:39.032Z",
   "items": [
    {
     "title": "Kaplan Earns 2027 Military Friendly® Employer Gold and Military Spouse Friendly® Employer Designations",
@@ -699,24 +690,6 @@
     "isNew": false
    },
    {
-    "title": "STARFISH & KAPLAN COLLABORATE TO PROVIDE ACCESSIBLE EDUCATION PATHWAYS FOR YOUTHS",
-    "url": "https://finance.yahoo.com/small-business/articles/starfish-kaplan-collaborate-accessible-education-041600569.html",
-    "date": "2026-11-10",
-    "publisher": "PR Newswire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Albany State University Partners with Kaplan to Offer All Students Free Comprehensive Test Prep and Skills Development Courses",
-    "url": "https://finance.yahoo.com/small-business/articles/albany-state-university-partners-kaplan-135500698.html",
-    "date": "2026-11-09",
-    "publisher": "Business Wire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
     "title": "Robert J. Mylod, Jr. Elected to Board of Directors of Graham Holdings Company on November 5, 2026",
     "url": "https://www.nasdaq.com/articles/robert-j-mylod-jr-elected-board-directors-graham-holdings-company-november-5-2026",
     "date": "2026-11-06",
@@ -747,13 +720,22 @@
   "sources": {
    "nasdaq": 10,
    "cnbc": 0,
-   "yahoo": 10,
+   "yahoo": 8,
    "sec": 8
   }
  },
  "VIK": {
-  "updated": "2026-11-22T22:20:12.006Z",
+  "updated": "2026-11-24T04:39:42.494Z",
   "items": [
+   {
+    "title": "RCL or VIK: Which Is the Better Value Stock Right Now?",
+    "url": "https://www.nasdaq.com/articles/rcl-or-vik-which-better-value-stock-right-now",
+    "date": "2026-11-23",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
    {
     "title": "Viking Holdings Insider Sold Shares Worth $7,410,348, According to a Recent SEC Filing",
     "url": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-insider-sold-shares-082822091.html",
@@ -854,24 +836,6 @@
     "isNew": false
    },
    {
-    "title": "Viking Holdings Ltd Q3 2026 Earnings Call Summary",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-ltd-q3-2026-215023724.html",
-    "date": "2026-11-17",
-    "publisher": "Moby",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Viking Holdings Ltd (VIK) Q3 2026 Earnings Call Highlights: Revenue Climbs 9.2% to $2. ...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-ltd-vik-q3-210043987.html",
-    "date": "2026-11-17",
-    "publisher": "GuruFocus.com",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
     "title": "This cruise stock is set for smoother sailing. Buy it now, Mizuho says",
     "url": "https://www.cnbc.com/2026/11/16/this-cruise-stock-is-set-for-smooth-sailing-buy-it-now-mizuho-says-.html",
     "date": "2026-11-16",
@@ -944,15 +908,6 @@
     "isNew": false
    },
    {
-    "title": "ATAT vs. VIK: Which Stock Is the Better Value Option?",
-    "url": "https://www.nasdaq.com/articles/atat-vs-vik-which-stock-better-value-option",
-    "date": "2026-10-20",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
     "title": "Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, AT&T",
     "url": "https://www.cnbc.com/2026/10/13/tuesday-big-wall-street-analyst-calls-like-nvidia.html",
     "date": "2026-10-13",
@@ -965,13 +920,22 @@
   "sources": {
    "nasdaq": 14,
    "cnbc": 4,
-   "yahoo": 9,
+   "yahoo": 7,
    "sec": 0
   }
  },
  "JJSF": {
-  "updated": "2026-11-22T22:20:14.716Z",
+  "updated": "2026-11-24T04:39:47.305Z",
   "items": [
+   {
+    "title": "3 Top Dividend Stocks To Watch With Up To 4% Yield",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-dividend-stocks-watch-011410337.html",
+    "date": "2026-11-24",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
    {
     "title": "J&J Snack Foods: 3 Key Takeaways for Long-Term Investors",
     "url": "https://www.nasdaq.com/articles/jj-snack-foods-3-key-takeaways-long-term-investors",
@@ -1063,15 +1027,6 @@
     "isNew": false
    },
    {
-    "title": "J & J Snack Foods Fiscal Q4 Adjusted Earnings, Net Sales Decline",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/j-j-snack-foods-fiscal-122304805.html",
-    "date": "2026-11-18",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
     "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
     "url": "https://www.sec.gov/Archives/edgar/data/785956/000143774926037473/jjsf20261117_8k.htm",
     "date": "2026-11-18",
@@ -1098,8 +1053,44 @@
   }
  },
  "PDD": {
-  "updated": "2026-11-22T22:20:15.817Z",
+  "updated": "2026-11-24T04:39:52.271Z",
   "items": [
+   {
+    "title": "Why PDD Holdings Stock Was Bumping Higher Today",
+    "url": "https://www.nasdaq.com/articles/why-pdd-holdings-stock-was-bumping-higher-today",
+    "date": "2026-11-23",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "PDD Holdings Inc. Sponsored ADR (PDD) is Attracting Investor Attention: Here is What You Should Know",
+    "url": "https://www.nasdaq.com/articles/pdd-holdings-inc-sponsored-adr-pdd-attracting-investor-attention-here-what-you-should-know",
+    "date": "2026-11-23",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Bernstein gets bullish on PDD, calls it a \"vote for defensive growth\"",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-gets-bullish-pdd-calls-153056542.html",
+    "date": "2026-11-23",
+    "publisher": "Investing.com",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Why PDD Holdings (PDD) is Suddenly Winning Despite Market Bloodbath",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-pdd-holdings-pdd-suddenly-041653071.html",
+    "date": "2026-11-23",
+    "publisher": "Insider Monkey",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
    {
     "title": "Wall Street Analysts Think PDD Holdings Inc. Sponsored ADR (PDD) Could Surge 28.92%: Read This Before Placing a Bet",
     "url": "https://www.nasdaq.com/articles/wall-street-analysts-think-pdd-holdings-inc-sponsored-adr-pdd-could-surge-2892-read",
@@ -1209,53 +1200,8 @@
     "isNew": false
    },
    {
-    "title": "PDD Holdings Inc (PDD) (Q3 2026) Earnings Call Highlights: Flat Revenue, 30% Non-GAAP Operating ...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-pdd-q3-210045175.html",
-    "date": "2026-11-19",
-    "publisher": "GuruFocus.com",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "PDD earnings analysis: questions answered and next catalysts",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-earnings-analysis-questions-answered-210021782.html",
-    "date": "2026-11-19",
-    "publisher": "Investing.com",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-stocks-jump-11-10-170738876.html",
-    "date": "2026-11-19",
-    "publisher": "GuruFocus.com",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
     "title": "PDD or EBAY: Which Is the Better Value Stock Right Now?",
     "url": "https://www.nasdaq.com/articles/pdd-or-ebay-which-better-value-stock-right-now",
-    "date": "2026-11-12",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Are Investors Undervaluing PDD Holdings Inc. Sponsored ADR (PDD) Right Now?",
-    "url": "https://www.nasdaq.com/articles/are-investors-undervaluing-pdd-holdings-inc-sponsored-adr-pdd-right-now",
-    "date": "2026-11-12",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "NextPlat Corp. (NXPL) Reports Q3 Loss, Lags Revenue Estimates",
-    "url": "https://www.nasdaq.com/articles/nextplat-corp-nxpl-reports-q3-loss-lags-revenue-estimates",
     "date": "2026-11-12",
     "publisher": "Zacks",
     "via": "Nasdaq",
@@ -1266,7 +1212,7 @@
   "sources": {
    "nasdaq": 11,
    "cnbc": 1,
-   "yahoo": 9,
+   "yahoo": 7,
    "sec": 0
   }
  }

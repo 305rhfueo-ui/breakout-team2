@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T22:19:58.649Z",
- "label": "2026-11-22",
+ "updated": "2026-11-24T04:39:13.199Z",
+ "label": "2026-11-23",
  "session": "2026-11-20",
  "regime": {
   "green": false,
@@ -10,7 +10,7 @@
   "verdict": "red"
  },
  "scan": {
-  "universe": 1109,
+  "universe": 1108,
   "prefilter": 80,
   "prevDate": "2026-11-20"
  },
