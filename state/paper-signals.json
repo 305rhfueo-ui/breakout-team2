@@ -15,6 +15,14 @@
    "agent": [
     "cat"
    ]
+  },
+  {
+   "ticker": "KYMR",
+   "session": "2026-11-23",
+   "star": false,
+   "agent": [
+    "rs"
+   ]
   }
  ]
 }

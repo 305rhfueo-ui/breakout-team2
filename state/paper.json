@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T04:39:55.711Z",
- "session": "2026-11-20",
+ "updated": "2026-11-25T04:43:48.732Z",
+ "session": "2026-11-23",
  "main": {
   "positions": [
    {
@@ -12,16 +12,21 @@
     "adr": 2.6915410179658816,
     "stop": 84.75,
     "hi": 125.36000061035156,
-    "left": 1,
-    "steps": [],
+    "left": 0,
+    "steps": [
+     {
+      "date": "2026-11-23",
+      "why": "손절(ADR 종가)",
+      "frac": 1,
+      "px": 86.47000122070312,
+      "retPct": -0.71
+     }
+    ],
     "s1": false,
     "s20": false,
     "s50": false,
-    "open": true,
-    "pending": {
-     "frac": 1,
-     "why": "손절(ADR 종가)"
-    },
+    "open": false,
+    "pending": null,
     "catalyst": true,
     "mode": "adrClose",
     "agent": [
@@ -29,10 +34,11 @@
     ],
     "star": false,
     "riskPct": 0.5,
-    "last": 83.68000030517578,
-    "lastDate": "2026-11-20",
-    "retPct": -3.92,
-    "acctPct": -0.728
+    "exitDate": "2026-11-23",
+    "last": 87.13999938964844,
+    "lastDate": "2026-11-23",
+    "retPct": -0.71,
+    "acctPct": -0.132
    }
   ],
   "skipped": [
@@ -44,15 +50,24 @@
      "rs"
     ],
     "why": "시장 빨간불 · 관망"
+   },
+   {
+    "ticker": "KYMR",
+    "session": "2026-11-23",
+    "star": false,
+    "agent": [
+     "rs"
+    ],
+    "why": "매수 대기 (다음 장 시가)"
    }
   ],
   "total": {
    "n": 1,
-   "open": 1,
-   "closed": 0,
-   "win": null,
-   "acctPct": -0.73,
-   "stopRate": null
+   "open": 0,
+   "closed": 1,
+   "win": 0,
+   "acctPct": -0.13,
+   "stopRate": 100
   },
   "rs": {
    "n": 0,
@@ -64,11 +79,11 @@
   },
   "cat": {
    "n": 1,
-   "open": 1,
-   "closed": 0,
-   "win": null,
-   "acctPct": -0.73,
-   "stopRate": null
+   "open": 0,
+   "closed": 1,
+   "win": 0,
+   "acctPct": -0.13,
+   "stopRate": 100
   },
   "star": {
    "n": 0,
@@ -78,7 +93,7 @@
    "acctPct": 0,
    "stopRate": null
   },
-  "openRisk": 0.5
+  "openRisk": 0
  },
  "cmp": {
   "adrIntraday": {
@@ -94,7 +109,7 @@
    "open": 1,
    "closed": 0,
    "win": null,
-   "acctPct": -0.73,
+   "acctPct": 0.01,
    "stopRate": null
   }
  },

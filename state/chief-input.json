@@ -1,10 +1,10 @@
 {
- "session": "2026-11-20",
+ "session": "2026-11-23",
  "regime": {
   "green": false,
-  "ma10": 664.43,
-  "ma20": 678.53,
-  "ko": "🔴 10일선이 20일선 아래 24일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
+  "ma10": 661.59,
+  "ma20": 675.47,
+  "ko": "🔴 10일선이 20일선 아래 25일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
   "verdict": "red"
  },
  "rule": {
@@ -18,5 +18,119 @@
   "riskRed": 0.5,
   "riskSum": 6
  },
- "candidates": []
+ "candidates": [
+  {
+   "codeRank": 1,
+   "ticker": "KYMR",
+   "tier": "RS 2%",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "rsTop": {
+    "m1": 0.7,
+    "m3": 1.1,
+    "m6": 0.5
+   },
+   "ret": {
+    "m1": 30.94,
+    "m3": 27.27,
+    "m6": 105.4
+   },
+   "base": {
+    "days": 15,
+    "weeks": 3,
+    "depthPct": 20,
+    "priorPct": 40.5,
+    "pivot": 142.92,
+    "pivotDate": "2026-11-10",
+    "breakDate": "2026-11-23"
+   },
+   "volX": 7.41,
+   "bbw": "0.222→0.261",
+   "checklist": "7/9",
+   "grades": [
+    "B1",
+    "D1"
+   ],
+   "gradeSummary": "KT-621 2b 전 용량 목표 달성, 직후 대규모 증자",
+   "minus": [
+    "결과 발표 직후 순수입 19.27억 달러 규모 증자 — 희석",
+    "첫 3상 시작이 2027년 중반, 매출까지 거리가 멀다",
+    "2027년 매출 컨센서스 4,055만 달러로 전년 대비 -59.4%, 연간 EPS 컨센서스 -5.10달러(90일간 하향)",
+    "2026-09-30 분기 EPS -1.32달러로 컨센서스 -1.27달러 미달(-4.3%)"
+   ],
+   "plus": [
+    "전 용량에서 1·2차 평가변수 모두 충족, 위약 보정 45%p",
+    "복수 재료 동시 — 임상 결과 + 목표가 상향 19건(입력 ratings)",
+    "경구제로 주사제 대비 투여 편의"
+   ],
+   "nextEarnings": null,
+   "plan": null,
+   "watchOnly": true,
+   "odds": {
+    "sameRule": {
+     "n": 57,
+     "d5": {
+      "n": 56,
+      "win": 50,
+      "med": 0,
+      "avg": 0.9
+     },
+     "d20": {
+      "n": 50,
+      "win": 50,
+      "med": 0.4,
+      "avg": 4.4
+     },
+     "d60": {
+      "n": 40,
+      "win": 65,
+      "med": 11.4,
+      "avg": 15.8
+     },
+     "rule": {
+      "n": 54,
+      "win": 39,
+      "med": -3.8,
+      "avg": 1
+     },
+     "stopRate": 35
+    },
+    "ticker": [
+     {
+      "d": "2025-09-18",
+      "rs2": false,
+      "r20": 16.72,
+      "r60": 67.15,
+      "rule": 6.34
+     },
+     {
+      "d": "2025-12-08",
+      "rs2": true,
+      "r20": -17.35,
+      "r60": -6.26,
+      "rule": -8.11
+     },
+     {
+      "d": "2026-10-27",
+      "rs2": false,
+      "r20": null,
+      "r60": null,
+      "rule": 6
+     }
+    ]
+   },
+   "headlines": [
+    "2026-11-24 BNK Invest: KYMR Crosses Above Average Analyst Target",
+    "2026-11-24 RTTNews: Kymera (KYMR) Prices Upsized $1.75 Billion Stock Offering Following Positive Clinical Data",
+    "2026-11-24 Zacks: Kymera Shares Soar 30% After Positive Atopic Dermatitis Drug Data",
+    "2026-11-24 MT Newswires: UBS Adjusts Price Target on Kymera Therapeutics to $205 From $128, Maintains Buy Rating",
+    "2026-11-24 GuruFocus.com: Why Is Kymera (KYMR) Stock Up Today? Analysts Raise Price Targets",
+    "2026-11-24 MT Newswires: Oppenheimer Adjusts Price Target on Kymera Therapeutics to $200 From $140, Maintains Outperform Rating",
+    "2026-11-24 MT Newswires: Morgan Stanley Adjusts Kymera Therapeutics Price Target to $198 From $150, Maintains Overweight Rating",
+    "2026-11-24 MT Newswires: Deutsche Bank Raises Price Target on Kymera Therapeutics to $155 From $120, Keeps Hold Rating",
+    "2026-11-24 Simply Wall St.: Kymera Therapeutics (KYMR) Stock Could Look Stretched Despite Positive KT 621 Data",
+    "2026-11-24 Clinical Trials Arena: Kymera Therapeutics’ stock up on Phase IIb oral atopic dermatitis drug data"
+   ]
+  }
+ ]
 }

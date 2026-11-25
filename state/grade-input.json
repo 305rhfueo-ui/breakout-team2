@@ -1,5 +1,1399 @@
 {
- "session": "2026-11-20",
+ "session": "2026-11-23",
  "rubric": "docs/catalysts-v3.md",
- "items": []
+ "items": [
+  {
+   "ticker": "KYMR",
+   "why": "new",
+   "session": "2026-11-23",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "price": 150.37,
+   "ret": {
+    "m1": 30.94,
+    "m3": 27.27,
+    "m6": 105.4
+   },
+   "rsTop": {
+    "m1": 0.7,
+    "m3": 1.1,
+    "m6": 0.5
+   },
+   "quarters": [
+    {
+     "end": "2026-09-30",
+     "revenue": 0,
+     "profit": -147232000,
+     "margin": null,
+     "yoy": {
+      "revenue": -100,
+      "profit": -59.1,
+      "netIncome": -60.6,
+      "priorEnd": "2025-09-30"
+     },
+     "label": "영업이익"
+    },
+    {
+     "end": "2026-06-30",
+     "revenue": 65000000,
+     "profit": -75607000,
+     "margin": -116.3,
+     "yoy": {
+      "revenue": 466.4,
+      "profit": 10.6,
+      "netIncome": 20.1,
+      "priorEnd": "2025-06-30"
+     },
+     "label": "영업이익"
+    },
+    {
+     "end": "2026-03-31",
+     "revenue": 34365000,
+     "profit": -84154000,
+     "margin": -244.9,
+     "yoy": {
+      "revenue": 55.5,
+      "profit": -13.1,
+      "netIncome": -5.6,
+      "priorEnd": "2025-03-31"
+     },
+     "label": "영업이익"
+    },
+    {
+     "end": "2025-12-31",
+     "revenue": 2870000,
+     "profit": -97896000,
+     "margin": -3411,
+     "yoy": {
+      "revenue": -61.2,
+      "profit": -21.2,
+      "netIncome": 42.1,
+      "priorEnd": "2024-12-31"
+     },
+     "label": "영업이익"
+    },
+    {
+     "end": "2025-09-30",
+     "revenue": 2764000,
+     "profit": -92521000,
+     "margin": -3347.4,
+     "yoy": {
+      "revenue": -26.1,
+      "profit": -28.3,
+      "netIncome": -31.5,
+      "priorEnd": "2024-09-30"
+     },
+     "label": "영업이익"
+    },
+    {
+     "end": "2025-06-30",
+     "revenue": 11476000,
+     "profit": -84557000,
+     "margin": -736.8,
+     "yoy": {
+      "revenue": -55.3,
+      "profit": -66,
+      "netIncome": -82.1,
+      "priorEnd": "2024-06-30"
+     },
+     "label": "영업이익"
+    }
+   ],
+   "quartersNote": null,
+   "estimates": {
+    "ticker": "KYMR",
+    "url": "https://finance.yahoo.com/quote/KYMR/analysis/",
+    "fetchedAt": "2026-11-25",
+    "source": "Yahoo Finance",
+    "periods": [
+     {
+      "period": "0q",
+      "endDate": "2026-12-31",
+      "eps": -1.28,
+      "epsLow": -1.54,
+      "epsHigh": -0.78,
+      "epsYearAgo": -0.98,
+      "epsAnalysts": 22,
+      "epsGrowth": -30.4,
+      "epsCur": "USD",
+      "rev": 1265880,
+      "revAnalysts": 17,
+      "revYearAgo": 2870000,
+      "revGrowth": -55.9,
+      "revCur": "USD"
+     },
+     {
+      "period": "+1q",
+      "endDate": "2027-03-31",
+      "eps": -1.35,
+      "epsLow": -1.52,
+      "epsHigh": -1.08,
+      "epsYearAgo": -0.71,
+      "epsAnalysts": 7,
+      "epsGrowth": -90.1,
+      "epsCur": "USD",
+      "rev": 7000000,
+      "revAnalysts": 6,
+      "revYearAgo": 34365000,
+      "revGrowth": -79.6,
+      "revCur": "USD"
+     },
+     {
+      "period": "0y",
+      "endDate": "2026-12-31",
+      "eps": -3.92,
+      "epsLow": -4.21,
+      "epsHigh": -3.13,
+      "epsYearAgo": -3.69,
+      "epsAnalysts": 22,
+      "epsGrowth": -6.3,
+      "epsCur": "USD",
+      "rev": 99870000,
+      "revAnalysts": 22,
+      "revYearAgo": 39211000,
+      "revGrowth": 154.7,
+      "revCur": "USD"
+     },
+     {
+      "period": "+1y",
+      "endDate": "2027-12-31",
+      "eps": -5.1,
+      "epsLow": -7.08,
+      "epsHigh": -3.55,
+      "epsYearAgo": -3.92,
+      "epsAnalysts": 22,
+      "epsGrowth": -30.1,
+      "epsCur": "USD",
+      "rev": 40545160,
+      "revAnalysts": 22,
+      "revYearAgo": 99870000,
+      "revGrowth": -59.4,
+      "revCur": "USD"
+     }
+    ],
+    "changes": [
+     {
+      "period": "0q",
+      "endDate": "2026-12-31",
+      "cur": "USD",
+      "now": -1.28,
+      "d7": 0.6,
+      "d30": -2.1,
+      "d90": -1.8,
+      "ago90": -1.26,
+      "up7": 4,
+      "up30": 4,
+      "down7": 6,
+      "down30": 6
+     },
+     {
+      "period": "+1q",
+      "endDate": "2027-03-31",
+      "cur": "USD",
+      "now": -1.35,
+      "d7": 0,
+      "d30": 0.4,
+      "d90": -4.7,
+      "ago90": -1.29,
+      "up7": 1,
+      "up30": 1,
+      "down7": 1,
+      "down30": 1
+     },
+     {
+      "period": "0y",
+      "endDate": "2026-12-31",
+      "cur": "USD",
+      "now": -3.92,
+      "d7": 0.1,
+      "d30": -1.9,
+      "d90": -3.3,
+      "ago90": -3.8,
+      "up7": 2,
+      "up30": 2,
+      "down7": 8,
+      "down30": 8
+     },
+     {
+      "period": "+1y",
+      "endDate": "2027-12-31",
+      "cur": "USD",
+      "now": -5.1,
+      "d7": 0.3,
+      "d30": -0.1,
+      "d90": -2.9,
+      "ago90": -4.96,
+      "up7": 4,
+      "up30": 5,
+      "down7": 7,
+      "down30": 7
+     }
+    ],
+    "surprises": [
+     {
+      "quarter": "2026-09-30",
+      "actual": -1.32,
+      "estimate": -1.27,
+      "surprisePct": -4.3,
+      "cur": "USD"
+     },
+     {
+      "quarter": "2026-06-30",
+      "actual": -0.62,
+      "estimate": -0.74,
+      "surprisePct": 16,
+      "cur": "USD"
+     },
+     {
+      "quarter": "2026-03-31",
+      "actual": -0.71,
+      "estimate": -0.86,
+      "surprisePct": 17.1,
+      "cur": "USD"
+     },
+     {
+      "quarter": "2025-12-31",
+      "actual": -0.98,
+      "estimate": -0.77,
+      "surprisePct": -27.1,
+      "cur": "USD"
+     }
+    ],
+    "beats": 2,
+    "ratings": {
+     "upgrades": 1,
+     "downgrades": 0,
+     "initiations": 1,
+     "ptRaised": 19,
+     "ptLowered": 0,
+     "total": 21,
+     "recent": [
+      {
+       "date": "2026-11-24",
+       "firm": "Canaccord Genuity",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Raises",
+       "pt": 175,
+       "ptPrior": 129
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "UBS",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Raises",
+       "pt": 205,
+       "ptPrior": 128
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "Wells Fargo",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Raises",
+       "pt": 191,
+       "ptPrior": 151
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "Oppenheimer",
+       "action": "reit",
+       "from": "Outperform",
+       "to": "Outperform",
+       "ptAction": "Raises",
+       "pt": 200,
+       "ptPrior": 140
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "RBC Capital",
+       "action": "main",
+       "from": "Sector Perform",
+       "to": "Sector Perform",
+       "ptAction": "Raises",
+       "pt": 145,
+       "ptPrior": 116
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "Guggenheim",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Raises",
+       "pt": 235,
+       "ptPrior": 170
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "Morgan Stanley",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Raises",
+       "pt": 198,
+       "ptPrior": 150
+      },
+      {
+       "date": "2026-11-24",
+       "firm": "BTIG",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Raises",
+       "pt": 201,
+       "ptPrior": 139
+      },
+      {
+       "date": "2026-11-23",
+       "firm": "Truist Securities",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Raises",
+       "pt": 165,
+       "ptPrior": 150
+      },
+      {
+       "date": "2026-11-02",
+       "firm": "Barclays",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Raises",
+       "pt": 170,
+       "ptPrior": 139
+      }
+     ]
+    },
+    "nextEarnings": {
+     "date": "2026-10-29",
+     "upcoming": false,
+     "estimated": false
+    }
+   },
+   "news": [
+    {
+     "date": "2026-11-24",
+     "via": "Nasdaq",
+     "publisher": "BNK Invest",
+     "title": "KYMR Crosses Above Average Analyst Target",
+     "url": "https://www.nasdaq.com/articles/kymr-crosses-above-average-analyst-target",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Nasdaq",
+     "publisher": "RTTNews",
+     "title": "Kymera (KYMR) Prices Upsized $1.75 Billion Stock Offering Following Positive Clinical Data",
+     "url": "https://www.nasdaq.com/articles/kymera-kymr-prices-upsized-175-billion-stock-offering-following-positive-clinical-data",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Kymera Shares Soar 30% After Positive Atopic Dermatitis Drug Data",
+     "url": "https://www.nasdaq.com/articles/kymera-shares-soar-30-after-positive-atopic-dermatitis-drug-data",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "UBS Adjusts Price Target on Kymera Therapeutics to $205 From $128, Maintains Buy Rating",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-adjusts-price-target-kymera-150948111.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "GuruFocus.com",
+     "title": "Why Is Kymera (KYMR) Stock Up Today? Analysts Raise Price Targets",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/why-kymera-kymr-stock-today-150110352.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "Oppenheimer Adjusts Price Target on Kymera Therapeutics to $200 From $140, Maintains Outperform Rating",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-kymera-133350103.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "Morgan Stanley Adjusts Kymera Therapeutics Price Target to $198 From $150, Maintains Overweight Rating",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-kymera-therapeutics-132011706.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "Deutsche Bank Raises Price Target on Kymera Therapeutics to $155 From $120, Keeps Hold Rating",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-121823199.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "Simply Wall St.",
+     "title": "Kymera Therapeutics (KYMR) Stock Could Look Stretched Despite Positive KT 621 Data",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/kymera-therapeutics-kymr-stock-could-121127362.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "Clinical Trials Arena",
+     "title": "Kymera Therapeutics’ stock up on Phase IIb oral atopic dermatitis drug data",
+     "url": "https://finance.yahoo.com/healthcare/articles/kymera-therapeutics-stock-phase-iib-115507874.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "RBC Raises Price Target on Kymera Therapeutics to $145 From $119, Keeps Sector Perform, Speculative Risk",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-kymera-113241841.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "Kymera Prices Upsized $1.75 Billion Stock Offering",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/kymera-prices-upsized-1-75-092220918.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-24",
+     "via": "SEC",
+     "publisher": "SEC",
+     "title": "SEC 8-K · 중요 계약 체결, 기타 중요사건, 재무제표·첨부",
+     "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526476205/d94169d8k.htm",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Nasdaq",
+     "publisher": "Fintel",
+     "title": "Kymera Therapeutics, Inc. Announces Results from the BROADEN2 Phase 2b Atopic Dermatitis Trial of KT-621",
+     "url": "https://www.nasdaq.com/articles/kymera-therapeutics-inc-announces-results-broaden2-phase-2b-atopic-dermatitis-trial-kt-621",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Nasdaq",
+     "publisher": "Fintel",
+     "title": "Kymera Therapeutics Announces Positive Results from BROADEN2 Phase 2b Clinical Trial of KT-621, a First-in-Class, Oral STAT6 Degrader, in Patients with Moderate to Severe Atopic Dermatitis",
+     "url": "https://www.nasdaq.com/articles/kymera-therapeutics-announces-positive-results-broaden2-phase-2b-clinical-trial-kt-621",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Nasdaq",
+     "publisher": "RTTNews",
+     "title": "Kymera's KT-621 Posts Strong Phase 2 Results In Eczema, Advances Toward Phase 3; Stock Up",
+     "url": "https://www.nasdaq.com/articles/kymeras-kt-621-posts-strong-phase-2-results-eczema-advances-toward-phase-3-stock",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "SEC",
+     "publisher": "SEC",
+     "title": "SEC 8-K · Reg FD 공시, 재무제표·첨부",
+     "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526470995/d159818d8k.htm",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-29",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "Kymera (KYMR) Q3 2026 Earnings Call Transcript",
+     "url": "https://www.nasdaq.com/articles/kymera-kymr-q3-2026-earnings-call-transcript",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-29",
+     "via": "Nasdaq",
+     "publisher": "MarketBeat",
+     "title": "Kymera Therapeutics Q3 Earnings Call Highlights",
+     "url": "https://www.nasdaq.com/articles/kymera-therapeutics-q3-earnings-call-highlights",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-29",
+     "via": "Nasdaq",
+     "publisher": "Fintel",
+     "title": "Kymera Therapeutics, Inc. Reports Third Quarter 2026 Financial Results and Positive KT-579 Phase 1 Trial Data",
+     "url": "https://www.nasdaq.com/articles/kymera-therapeutics-inc-reports-third-quarter-2026-financial-results-and-positive-kt-579",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-26",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Will Axsome Therapeutics (AXSM) Report Negative Earnings Next Week? What You Should Know",
+     "url": "https://www.nasdaq.com/articles/will-axsome-therapeutics-axsm-report-negative-earnings-next-week-what-you-should-know",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-19",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Can KYMR's Targeted Protein Degradation Pipeline Drive Future Growth?",
+     "url": "https://www.nasdaq.com/articles/can-kymrs-targeted-protein-degradation-pipeline-drive-future-growth",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "ticker": "VIK",
+   "why": "new",
+   "session": "2026-11-23",
+   "sector": "Consumer Cyclical",
+   "industry": "Travel Services",
+   "price": 100.47,
+   "ret": {
+    "m1": 18.65,
+    "m3": 13.53,
+    "m6": 13.35
+   },
+   "rsTop": {
+    "m1": 2.3,
+    "m3": 8.3,
+    "m6": 30.8
+   },
+   "quarters": null,
+   "quartersNote": null,
+   "estimates": {
+    "ticker": "VIK",
+    "url": "https://finance.yahoo.com/quote/VIK/analysis/",
+    "fetchedAt": "2026-11-25",
+    "source": "Yahoo Finance",
+    "periods": [
+     {
+      "period": "0q",
+      "endDate": "2026-12-31",
+      "eps": 0.62,
+      "epsLow": 0.49,
+      "epsHigh": 0.69,
+      "epsYearAgo": 0.67,
+      "epsAnalysts": 14,
+      "epsGrowth": -8.1,
+      "epsCur": "USD",
+      "rev": 1847073270,
+      "revAnalysts": 14,
+      "revYearAgo": 1724358000,
+      "revGrowth": 7.1,
+      "revCur": "USD"
+     },
+     {
+      "period": "+1q",
+      "endDate": "2027-03-31",
+      "eps": -0.05,
+      "epsLow": -0.09,
+      "epsHigh": 0.05,
+      "epsYearAgo": -0.11,
+      "epsAnalysts": 10,
+      "epsGrowth": 52.7,
+      "epsCur": "USD",
+      "rev": 1282520440,
+      "revAnalysts": 9,
+      "revYearAgo": 1053741000,
+      "revGrowth": 21.7,
+      "revCur": "USD"
+     },
+     {
+      "period": "0y",
+      "endDate": "2026-12-31",
+      "eps": 2.96,
+      "epsLow": 2.79,
+      "epsHigh": 3.13,
+      "epsYearAgo": 2.61,
+      "epsAnalysts": 17,
+      "epsGrowth": 13.4,
+      "epsCur": "USD",
+      "rev": 7283201690,
+      "revAnalysts": 17,
+      "revYearAgo": 6501419000,
+      "revGrowth": 12,
+      "revCur": "USD"
+     },
+     {
+      "period": "+1y",
+      "endDate": "2027-12-31",
+      "eps": 4.08,
+      "epsLow": 3.82,
+      "epsHigh": 4.45,
+      "epsYearAgo": 2.96,
+      "epsAnalysts": 18,
+      "epsGrowth": 38,
+      "epsCur": "USD",
+      "rev": 8805395740,
+      "revAnalysts": 19,
+      "revYearAgo": 7283201690,
+      "revGrowth": 20.9,
+      "revCur": "USD"
+     }
+    ],
+    "changes": [
+     {
+      "period": "0q",
+      "endDate": "2026-12-31",
+      "cur": "USD",
+      "now": 0.62,
+      "d7": -13.5,
+      "d30": -15.9,
+      "d90": -18.2,
+      "ago90": 0.75,
+      "up7": 1,
+      "up30": 2,
+      "down7": 1,
+      "down30": 5
+     },
+     {
+      "period": "+1q",
+      "endDate": "2027-03-31",
+      "cur": "USD",
+      "now": -0.05,
+      "d7": -23.2,
+      "d30": -30,
+      "d90": -316,
+      "ago90": -0.01,
+      "up7": 1,
+      "up30": 1,
+      "down7": 1,
+      "down30": 3
+     },
+     {
+      "period": "0y",
+      "endDate": "2026-12-31",
+      "cur": "USD",
+      "now": 2.96,
+      "d7": -7.6,
+      "d30": -8.2,
+      "d90": -9.7,
+      "ago90": 3.28,
+      "up7": 0,
+      "up30": 1,
+      "down7": 2,
+      "down30": 8
+     },
+     {
+      "period": "+1y",
+      "endDate": "2027-12-31",
+      "cur": "USD",
+      "now": 4.08,
+      "d7": -5,
+      "d30": -6.5,
+      "d90": -7.9,
+      "ago90": 4.43,
+      "up7": 0,
+      "up30": 1,
+      "down7": 1,
+      "down30": 7
+     }
+    ],
+    "surprises": [
+     {
+      "quarter": "2026-09-30",
+      "actual": 1.11,
+      "estimate": 1.26,
+      "surprisePct": -12.1,
+      "cur": "USD"
+     },
+     {
+      "quarter": "2026-06-30",
+      "actual": 1.31,
+      "estimate": 1.24,
+      "surprisePct": 5.4,
+      "cur": "USD"
+     },
+     {
+      "quarter": "2026-03-31",
+      "actual": -0.11,
+      "estimate": -0.11,
+      "surprisePct": -1.6,
+      "cur": "USD"
+     },
+     {
+      "quarter": "2025-12-31",
+      "actual": 0.67,
+      "estimate": 0.55,
+      "surprisePct": 21.9,
+      "cur": "USD"
+     }
+    ],
+    "beats": 2,
+    "ratings": {
+     "upgrades": 1,
+     "downgrades": 0,
+     "initiations": 1,
+     "ptRaised": 7,
+     "ptLowered": 7,
+     "total": 15,
+     "recent": [
+      {
+       "date": "2026-11-19",
+       "firm": "StoneX",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Raises",
+       "pt": 106,
+       "ptPrior": 99
+      },
+      {
+       "date": "2026-11-19",
+       "firm": "Mizuho",
+       "action": "main",
+       "from": "Outperform",
+       "to": "Outperform",
+       "ptAction": "Raises",
+       "pt": 122,
+       "ptPrior": 120
+      },
+      {
+       "date": "2026-11-19",
+       "firm": "Citigroup",
+       "action": "main",
+       "from": "Buy",
+       "to": "Buy",
+       "ptAction": "Lowers",
+       "pt": 111,
+       "ptPrior": 113
+      },
+      {
+       "date": "2026-11-18",
+       "firm": "JP Morgan",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Lowers",
+       "pt": 122,
+       "ptPrior": 131
+      },
+      {
+       "date": "2026-11-18",
+       "firm": "Wells Fargo",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Raises",
+       "pt": 120,
+       "ptPrior": 118
+      },
+      {
+       "date": "2026-11-18",
+       "firm": "Barclays",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Raises",
+       "pt": 111,
+       "ptPrior": 102
+      },
+      {
+       "date": "2026-11-18",
+       "firm": "Morgan Stanley",
+       "action": "main",
+       "from": "Equal-Weight",
+       "to": "Equal-Weight",
+       "ptAction": "Raises",
+       "pt": 100,
+       "ptPrior": 92
+      },
+      {
+       "date": "2026-11-09",
+       "firm": "Wells Fargo",
+       "action": "main",
+       "from": "Overweight",
+       "to": "Overweight",
+       "ptAction": "Lowers",
+       "pt": 118,
+       "ptPrior": 128
+      },
+      {
+       "date": "2026-10-22",
+       "firm": "Morgan Stanley",
+       "action": "main",
+       "from": "Equal-Weight",
+       "to": "Equal-Weight",
+       "ptAction": "Raises",
+       "pt": 94,
+       "ptPrior": 93
+      },
+      {
+       "date": "2026-10-20",
+       "firm": "Susquehanna",
+       "action": "main",
+       "from": "Positive",
+       "to": "Positive",
+       "ptAction": "Lowers",
+       "pt": 100,
+       "ptPrior": 105
+      }
+     ]
+    },
+    "nextEarnings": {
+     "date": "2026-11-17",
+     "upcoming": false,
+     "estimated": false
+    }
+   },
+   "news": [
+    {
+     "date": "2026-11-23",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "RCL or VIK: Which Is the Better Value Stock Right Now?",
+     "url": "https://www.nasdaq.com/articles/rcl-or-vik-which-better-value-stock-right-now",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Yahoo",
+     "publisher": "MT Newswires",
+     "title": "Viking Holdings Insider Sold Shares Worth $7,410,348, According to a Recent SEC Filing",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-insider-sold-shares-082822091.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "Yahoo",
+     "publisher": "Simply Wall St.",
+     "title": "Viking Holdings Stock Earnings Miss After River Cruise Disruptions##",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-stock-earnings-miss-101958710.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-18",
+     "via": "Nasdaq",
+     "publisher": "MarketBeat",
+     "title": "Viking’s Low-Water Miss Looks Like a Buy-the-Dip Opportunity",
+     "url": "https://www.nasdaq.com/articles/vikings-low-water-miss-looks-buy-dip-opportunity",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-18",
+     "via": "Yahoo",
+     "publisher": "Business Wire",
+     "title": "Viking Takes Delivery of Newest River Ship in Europe",
+     "url": "https://finance.yahoo.com/media-advertising/articles/viking-takes-delivery-newest-river-211500935.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-18",
+     "via": "Yahoo",
+     "publisher": "Simply Wall St.",
+     "title": "Viking (VIK) Stock May Be 19% Undervalued On Earnings Miss",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/viking-vik-stock-may-19-151556057.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-18",
+     "via": "Yahoo",
+     "publisher": "Simply Wall St.",
+     "title": "Viking Holdings (VIK) Shares Climbed, What Is Drawing Attention Now?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-vik-shares-climbed-131156087.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-17",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "Viking (VIK) Q3 2026 Earnings Call Transcript",
+     "url": "https://www.nasdaq.com/articles/viking-vik-q3-2026-earnings-call-transcript",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-17",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Viking (VIK) Reports Q3 Earnings: What Key Metrics Have to Say",
+     "url": "https://www.nasdaq.com/articles/viking-vik-reports-q3-earnings-what-key-metrics-have-say",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-17",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Viking Holdings (VIK) Q3 Earnings Miss Estimates",
+     "url": "https://www.nasdaq.com/articles/viking-holdings-vik-q3-earnings-miss-estimates",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-17",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "Viking: 3 Key Takeaways for Long-Term Investors",
+     "url": "https://www.nasdaq.com/articles/viking-3-key-takeaways-long-term-investors",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-17",
+     "via": "Nasdaq",
+     "publisher": "MarketBeat",
+     "title": "Viking Q3 Earnings Call Highlights",
+     "url": "https://www.nasdaq.com/articles/viking-q3-earnings-call-highlights",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-16",
+     "via": "CNBC",
+     "publisher": "CNBC",
+     "title": "This cruise stock is set for smoother sailing. Buy it now, Mizuho says",
+     "url": "https://www.cnbc.com/2026/11/16/this-cruise-stock-is-set-for-smooth-sailing-buy-it-now-mizuho-says-.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-12",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Stay Ahead of the Game With Viking (VIK) Q3 Earnings: Wall Street's Insights on Key Metrics",
+     "url": "https://www.nasdaq.com/articles/stay-ahead-game-viking-vik-q3-earnings-wall-streets-insights-key-metrics",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-10",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Viking Holdings (VIK) Reports Next Week: Wall Street Expects Earnings Growth",
+     "url": "https://www.nasdaq.com/articles/viking-holdings-vik-reports-next-week-wall-street-expects-earnings-growth-0",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-07",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "2 Soaring Stocks to Hold for the Next 20 Years",
+     "url": "https://www.nasdaq.com/articles/2-soaring-stocks-hold-next-20-years",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-06",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "MSG Knickerbockers (MSGK) Reports Q1 Loss, Tops Revenue Estimates",
+     "url": "https://www.nasdaq.com/articles/msg-knickerbockers-msgk-reports-q1-loss-tops-revenue-estimates",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-05",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "ATAT or VIK: Which Is the Better Value Stock Right Now?",
+     "url": "https://www.nasdaq.com/articles/atat-or-vik-which-better-value-stock-right-now",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-05",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "United Parks & Resorts (PRKS) Misses Q3 Earnings and Revenue Estimates",
+     "url": "https://www.nasdaq.com/articles/united-parks-resorts-prks-misses-q3-earnings-and-revenue-estimates",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-29",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Marcus (MCS) Q3 Earnings Lag Estimates",
+     "url": "https://www.nasdaq.com/articles/marcus-mcs-q3-earnings-lag-estimates",
+     "paywall": false
+    },
+    {
+     "date": "2026-10-13",
+     "via": "CNBC",
+     "publisher": "CNBC",
+     "title": "Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, AT&T",
+     "url": "https://www.cnbc.com/2026/10/13/tuesday-big-wall-street-analyst-calls-like-nvidia.html",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "ticker": "PDD",
+   "why": "new",
+   "session": "2026-11-23",
+   "sector": "Consumer Cyclical",
+   "industry": "Internet Retail",
+   "price": 87.14,
+   "ret": {
+    "m1": 11.53,
+    "m3": 1.69,
+    "m6": 2.04
+   },
+   "rsTop": {
+    "m1": 8.2,
+    "m3": 33,
+    "m6": 52.4
+   },
+   "quarters": null,
+   "quartersNote": "SEC 재무가 오래됨(마지막 분기 2020-12-31) — 외국 기업(6-K·20-F) 등. 실적은 뉴스·회사 발표 원문으로 확인",
+   "estimates": {
+    "ticker": "PDD",
+    "url": "https://finance.yahoo.com/quote/PDD/analysis/",
+    "fetchedAt": "2026-11-25",
+    "source": "Yahoo Finance",
+    "periods": [
+     {
+      "period": "0q",
+      "endDate": "2026-12-31",
+      "eps": 21.68,
+      "epsLow": 18.52,
+      "epsHigh": 24.7,
+      "epsYearAgo": 17.69,
+      "epsAnalysts": 10,
+      "epsGrowth": 22.5,
+      "epsCur": "CNY",
+      "rev": 121458065960,
+      "revAnalysts": 12,
+      "revYearAgo": 123912194000,
+      "revGrowth": -2,
+      "revCur": "CNY"
+     },
+     {
+      "period": "+1q",
+      "endDate": "2027-03-31",
+      "eps": 18.17,
+      "epsLow": 15.91,
+      "epsHigh": 20.74,
+      "epsYearAgo": 9.51,
+      "epsAnalysts": 4,
+      "epsGrowth": 91.1,
+      "epsCur": "CNY",
+      "rev": 110611846560,
+      "revAnalysts": 3,
+      "revYearAgo": 106229000000,
+      "revGrowth": 4.1,
+      "revCur": "CNY"
+     },
+     {
+      "period": "0y",
+      "endDate": "2026-12-31",
+      "eps": 72.01,
+      "epsLow": 68.05,
+      "epsHigh": 79.96,
+      "epsYearAgo": 72.38,
+      "epsAnalysts": 27,
+      "epsGrowth": -0.5,
+      "epsCur": "CNY",
+      "rev": 449983468190,
+      "revAnalysts": 29,
+      "revYearAgo": 431845713000,
+      "revGrowth": 4.2,
+      "revCur": "CNY"
+     },
+     {
+      "period": "+1y",
+      "endDate": "2027-12-31",
+      "eps": 84.07,
+      "epsLow": 61.95,
+      "epsHigh": 97.64,
+      "epsYearAgo": 72.01,
+      "epsAnalysts": 30,
+      "epsGrowth": 16.8,
+      "epsCur": "CNY",
+      "rev": 483955172650,
+      "revAnalysts": 34,
+      "revYearAgo": 449983468190,
+      "revGrowth": 7.6,
+      "revCur": "CNY"
+     }
+    ],
+    "changes": [
+     {
+      "period": "0q",
+      "endDate": "2026-12-31",
+      "cur": "CNY",
+      "now": 21.68,
+      "d7": 6.9,
+      "d30": 6.9,
+      "d90": 6.2,
+      "ago90": 20.42,
+      "up7": 1,
+      "up30": 5,
+      "down7": 1,
+      "down30": 4
+     },
+     {
+      "period": "+1q",
+      "endDate": "2027-03-31",
+      "cur": "CNY",
+      "now": 18.17,
+      "d7": 15.5,
+      "d30": 15.5,
+      "d90": 6.1,
+      "ago90": 17.13,
+      "up7": 0,
+      "up30": 1,
+      "down7": 1,
+      "down30": 2
+     },
+     {
+      "period": "0y",
+      "endDate": "2026-12-31",
+      "cur": "CNY",
+      "now": 72.01,
+      "d7": 5.4,
+      "d30": 5,
+      "d90": 4.1,
+      "ago90": 69.15,
+      "up7": 0,
+      "up30": 0,
+      "down7": 1,
+      "down30": 1
+     },
+     {
+      "period": "+1y",
+      "endDate": "2027-12-31",
+      "cur": "CNY",
+      "now": 84.07,
+      "d7": 1.9,
+      "d30": 1.8,
+      "d90": 1,
+      "ago90": 83.27,
+      "up7": 0,
+      "up30": 0,
+      "down7": 1,
+      "down30": 1
+     }
+    ],
+    "surprises": [
+     {
+      "quarter": "2026-09-30",
+      "actual": 21.04,
+      "estimate": 18.84,
+      "surprisePct": 11.7,
+      "cur": "CNY"
+     },
+     {
+      "quarter": "2026-06-30",
+      "actual": 19.33,
+      "estimate": 18.35,
+      "surprisePct": 5.3,
+      "cur": "CNY"
+     },
+     {
+      "quarter": "2026-03-31",
+      "actual": 9.51,
+      "estimate": 16.37,
+      "surprisePct": -41.9,
+      "cur": "CNY"
+     },
+     {
+      "quarter": "2025-12-31",
+      "actual": 17.69,
+      "estimate": 21.02,
+      "surprisePct": -15.8,
+      "cur": "CNY"
+     }
+    ],
+    "beats": 2,
+    "ratings": {
+     "upgrades": 2,
+     "downgrades": 1,
+     "initiations": 0,
+     "ptRaised": 1,
+     "ptLowered": 2,
+     "total": 4,
+     "recent": [
+      {
+       "date": "2026-11-23",
+       "firm": "Bernstein",
+       "action": "up",
+       "from": "Market Perform",
+       "to": "Outperform",
+       "ptAction": "Maintains",
+       "pt": 110,
+       "ptPrior": 110
+      },
+      {
+       "date": "2026-11-20",
+       "firm": "Macquarie",
+       "action": "up",
+       "from": "Neutral",
+       "to": "Outperform",
+       "ptAction": "Raises",
+       "pt": 106,
+       "ptPrior": 98
+      },
+      {
+       "date": "2026-11-09",
+       "firm": "Morgan Stanley",
+       "action": "down",
+       "from": "Overweight",
+       "to": "Equal-Weight",
+       "ptAction": "Lowers",
+       "pt": 90,
+       "ptPrior": 129
+      },
+      {
+       "date": "2026-09-10",
+       "firm": "JP Morgan",
+       "action": "main",
+       "from": "Neutral",
+       "to": "Neutral",
+       "ptAction": "Lowers",
+       "pt": 95,
+       "ptPrior": 110
+      }
+     ]
+    },
+    "nextEarnings": {
+     "date": "2026-11-19",
+     "upcoming": false,
+     "estimated": false
+    }
+   },
+   "news": [
+    {
+     "date": "2026-11-24",
+     "via": "Nasdaq",
+     "publisher": "Fintel",
+     "title": "PDD Holdings Inc. Announces Notice of Annual General Meeting",
+     "url": "https://www.nasdaq.com/articles/pdd-holdings-inc-announces-notice-annual-general-meeting",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "Why PDD Holdings Stock Was Bumping Higher Today",
+     "url": "https://www.nasdaq.com/articles/why-pdd-holdings-stock-was-bumping-higher-today",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "PDD Holdings Inc. Sponsored ADR (PDD) is Attracting Investor Attention: Here is What You Should Know",
+     "url": "https://www.nasdaq.com/articles/pdd-holdings-inc-sponsored-adr-pdd-attracting-investor-attention-here-what-you-should-know",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Yahoo",
+     "publisher": "Investing.com",
+     "title": "Bernstein gets bullish on PDD, calls it a \"vote for defensive growth\"",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-gets-bullish-pdd-calls-153056542.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-23",
+     "via": "Yahoo",
+     "publisher": "Insider Monkey",
+     "title": "Why PDD Holdings (PDD) is Suddenly Winning Despite Market Bloodbath",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/why-pdd-holdings-pdd-suddenly-041653071.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "Wall Street Analysts Think PDD Holdings Inc. Sponsored ADR (PDD) Could Surge 28.92%: Read This Before Placing a Bet",
+     "url": "https://www.nasdaq.com/articles/wall-street-analysts-think-pdd-holdings-inc-sponsored-adr-pdd-could-surge-2892-read",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "PDD Holdings Inc. Sponsored ADR (PDD) Recently Broke Out Above the 20-Day Moving Average",
+     "url": "https://www.nasdaq.com/articles/pdd-holdings-inc-sponsored-adr-pdd-recently-broke-out-above-20-day-moving-average",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "PDD Holdings Inc. Sponsored ADR (PDD) Just Overtook the 50-Day Moving Average",
+     "url": "https://www.nasdaq.com/articles/pdd-holdings-inc-sponsored-adr-pdd-just-overtook-50-day-moving-average",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Yahoo",
+     "publisher": "GuruFocus.com",
+     "title": "PDD Holdings Stocks Surge 11.04% as Operating Profit Jumps 25% on Flat Revenue",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-stocks-surge-11-175843499.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Yahoo",
+     "publisher": "Simply Wall St.",
+     "title": "What Does PDD Holdings (PDD) Face After EU Charges Over Illegal Products?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/does-pdd-holdings-pdd-face-081312953.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-20",
+     "via": "Yahoo",
+     "publisher": "Insider Monkey",
+     "title": "PDD Holdings (PDD) Is Making a Big Move. Here’s What’s Happening",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-making-big-024534781.html",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "Nasdaq",
+     "publisher": "Fintel",
+     "title": "PDD Holdings Announces Third Quarter 2026 Unaudited Financial Results",
+     "url": "https://www.nasdaq.com/articles/pdd-holdings-announces-third-quarter-2026-unaudited-financial-results",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "Why PDD Holdings Stock Jumped Today",
+     "url": "https://www.nasdaq.com/articles/why-pdd-holdings-stock-jumped-today",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "Nasdaq",
+     "publisher": "The Motley Fool",
+     "title": "PDD (PDD) Q3 2026 Earnings Call Transcript",
+     "url": "https://www.nasdaq.com/articles/pdd-pdd-q3-2026-earnings-call-transcript",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "Nasdaq",
+     "publisher": "MarketBeat",
+     "title": "PDD Q3 Earnings Call Highlights",
+     "url": "https://www.nasdaq.com/articles/pdd-q3-earnings-call-highlights",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "Nasdaq",
+     "publisher": "Zacks",
+     "title": "PDD Holdings Inc. Sponsored ADR (PDD) Surpasses Q3 Earnings Estimates",
+     "url": "https://www.nasdaq.com/articles/pdd-holdings-inc-sponsored-adr-pdd-surpasses-q3-earnings-estimates",
+     "paywall": false
+    },
+    {
+     "date": "2026-11-19",
+     "via": "CNBC",
+     "publisher": "CNBC",
+     "title": "More long-only investors building positions in us despite strong AI spending",
+     "url": "https://www.cnbc.com/video/2026/11/19/more-long-only-investors-building-positions-in-us-despite-ai-spending.html",
+     "paywall": false
+    }
+   ]
+  }
+ ]
 }
