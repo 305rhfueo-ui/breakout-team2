@@ -1,183 +1,73 @@
 {
- "MIRM": {
-  "updated": "2026-11-26T04:37:32.295Z",
+ "CHKP": {
+  "updated": "2026-11-26T22:36:35.913Z",
   "items": [
    {
-    "title": "Mirum Pharmaceuticals (MIRM) Stock Gets Fair Value Bump After Phase 3 Wins And Target Hikes",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-mirm-stock-gets-001708102.html",
-    "date": "2026-11-25",
+    "title": "How Investors Are Reacting To Check Point Stock As FedRAMP Approval Supports 2027 Growth Plan",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-check-point-stock-001604410.html",
+    "date": "2026-11-24",
     "publisher": "Simply Wall St.",
     "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Mirum Pharmaceuticals Insider Sold Shares Worth $1,940,094, According to a Recent SEC Filing",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-insider-sold-shares-214026825.html",
+    "title": "Check Point Software Technologies Sees Product Revenue Returning to Growth in Q2 2027",
+    "url": "https://www.nasdaq.com/articles/check-point-software-technologies-sees-product-revenue-returning-growth-q2-2027",
     "date": "2026-11-23",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals to Participate in Upcoming Investor Conferences",
-    "url": "https://finance.yahoo.com/healthcare/articles/mirum-pharmaceuticals-participate-upcoming-investor-210100556.html",
-    "date": "2026-11-23",
-    "publisher": "Business Wire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-reports-inducement-grants-210100769.html",
-    "date": "2026-11-12",
-    "publisher": "Business Wire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals' Brelovitug Meets Primary Endpoint In Phase 3 AZURE-4 Study",
-    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-brelovitug-meets-primary-endpoint-phase-3-azure-4-study",
-    "date": "2026-11-10",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "SEC 8-K · 기타 중요사건",
-    "url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/mirm-20261110.htm",
-    "date": "2026-11-10",
-    "publisher": "SEC",
-    "via": "SEC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum (MIRM) Q3 2026 Earnings Call Transcript",
-    "url": "https://www.nasdaq.com/articles/mirum-mirm-q3-2026-earnings-call-transcript",
-    "date": "2026-11-04",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals Q3 Earnings Call Highlights",
-    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-q3-earnings-call-highlights",
-    "date": "2026-11-04",
     "publisher": "MarketBeat",
     "via": "Nasdaq",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Here's What Key Metrics Tell Us About Mirum Pharmaceuticals (MIRM) Q3 Earnings",
-    "url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-mirum-pharmaceuticals-mirm-q3-earnings",
-    "date": "2026-11-03",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals, Inc. (MIRM) Reports Q3 Loss, Tops Revenue Estimates",
-    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-inc-mirm-reports-q3-loss-tops-revenue-estimates",
-    "date": "2026-11-03",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals Reports Q3 2026 Financial Results and Raises Full-Year Sales Guidance",
-    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-reports-q3-2026-financial-results-and-raises-full-year-sales",
-    "date": "2026-11-03",
-    "publisher": "Fintel",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Recursion Pharmaceuticals (RXRX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-    "url": "https://www.nasdaq.com/articles/recursion-pharmaceuticals-rxrx-expected-beat-earnings-estimates-what-know-ahead-q3-release",
-    "date": "2026-10-28",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Pharmaceuticals, Inc. (MIRM) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-inc-mirm-expected-beat-earnings-estimates-what-know-ahead-q3-release",
-    "date": "2026-10-27",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum's ATEBRIOZ Reduces Bone Lesion Volume In Younger Children With FOP; Stock Up",
-    "url": "https://www.nasdaq.com/articles/mirums-atebrioz-reduces-bone-lesion-volume-younger-children-fop-stock",
-    "date": "2026-10-26",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mirum Reports Positive ATEBRIOZ Results In Younger Children With FOP",
-    "url": "https://www.nasdaq.com/articles/mirum-reports-positive-atebrioz-results-younger-children-fop",
-    "date": "2026-10-26",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   }
-  ],
-  "sources": {
-   "nasdaq": 10,
-   "cnbc": 0,
-   "yahoo": 4,
-   "sec": 8
-  }
- },
- "DNTH": {
-  "updated": "2026-11-26T04:37:33.013Z",
-  "items": [
-   {
-    "title": "How Much Upside is Left in Dianthus Therapeutics, Inc. (DNTH)? Wall Street Analysts Think 37.15%",
-    "url": "https://www.nasdaq.com/articles/how-much-upside-left-dianthus-therapeutics-inc-dnth-wall-street-analysts-think-3715",
-    "date": "2026-11-25",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Why Is Dick’s Sporting Goods Stock Rising 13.9% Today?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-dick-sporting-goods-stock-134906175.html",
-    "date": "2026-11-24",
-    "publisher": "InvestorsHub",
+    "title": "Scotiabank Cut, Stifel Raised: What Split the Views on Check Point (CHKP)?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/scotiabank-cut-stifel-raised-split-000011561.html",
+    "date": "2026-11-22",
+    "publisher": "Insider Monkey",
     "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Dianthus Therapeutics Insider Sold Shares Worth $11,228,720, According to a Recent SEC Filing",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/dianthus-therapeutics-insider-sold-shares-223935184.html",
-    "date": "2026-11-12",
+    "title": "Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-intel-deepen-azure-partnership-182105848.html",
+    "date": "2026-11-18",
+    "publisher": "Stocktwits",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Check Point Scales Its SASE Platform on Microsoft Azure for Global Enterprise Deployment",
+    "url": "https://finance.yahoo.com/technology/ai/articles/check-point-scales-sase-platform-140000411.html",
+    "date": "2026-11-18",
+    "publisher": "PR Newswire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Check Point Software Technologies Insider Sold Shares Worth $638,735, According to a Recent SEC Filing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-technologies-insider-122102552.html",
+    "date": "2026-11-18",
     "publisher": "MT Newswires",
     "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Wall Street Analysts See a 61.23% Upside in Dianthus Therapeutics, Inc. (DNTH): Can the Stock Really Move This High?",
-    "url": "https://www.nasdaq.com/articles/wall-street-analysts-see-6123-upside-dianthus-therapeutics-inc-dnth-can-stock-really-move",
+    "title": "Can Software Firewall Demand Boost PANW's Network Security Growth?",
+    "url": "https://www.nasdaq.com/articles/can-software-firewall-demand-boost-panws-network-security-growth",
+    "date": "2026-11-11",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Implied Volatility Surging for Check Point Software Technologies Stock Options",
+    "url": "https://www.nasdaq.com/articles/implied-volatility-surging-check-point-software-technologies-stock-options",
     "date": "2026-11-09",
     "publisher": "Zacks",
     "via": "Nasdaq",
@@ -185,737 +75,112 @@
     "isNew": true
    },
    {
-    "title": "Dianthus Therapeutics, Inc. Reports Q3 2026 Financial Results and Highlights Clinical Progress",
-    "url": "https://www.nasdaq.com/articles/dianthus-therapeutics-inc-reports-q3-2026-financial-results-and-highlights-clinical",
-    "date": "2026-11-05",
-    "publisher": "Fintel",
+    "title": "Check Point's Turnaround Could Be Closer Than Investors Think",
+    "url": "https://www.nasdaq.com/articles/check-points-turnaround-could-be-closer-investors-think",
+    "date": "2026-11-03",
+    "publisher": "MarketBeat",
     "via": "Nasdaq",
     "paywall": false,
     "isNew": true
-   },
+   }
+  ],
+  "sources": {
+   "nasdaq": 4,
+   "cnbc": 2,
+   "yahoo": 6,
+   "sec": 0
+  }
+ },
+ "COKE": {
+  "updated": "2026-11-26T22:36:39.978Z",
+  "items": [
    {
-    "title": "Dianthus Therapeutics, Inc. (DNTH) Reports Q3 Loss, Beats Revenue Estimates",
-    "url": "https://www.nasdaq.com/articles/dianthus-therapeutics-inc-dnth-reports-q3-loss-beats-revenue-estimates",
-    "date": "2026-11-04",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
+    "title": "Coca Cola Consolidated (COKE) Stock Looks Expensive As Its 269% Five Year Run Continues",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-consolidated-coke-stock-090844698.html",
+    "date": "2026-11-19",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
     "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1690585/000169058526000039/dnth-20261104.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/317540/000162828026070164/coke-20261104.htm",
     "date": "2026-11-04",
     "publisher": "SEC",
     "via": "SEC",
     "paywall": false,
     "isNew": true
-   },
+   }
+  ],
+  "sources": {
+   "nasdaq": 4,
+   "cnbc": 0,
+   "yahoo": 1,
+   "sec": 8
+  }
+ },
+ "NPK": {
+  "updated": "2026-11-26T22:36:43.158Z",
+  "items": [
    {
-    "title": "Regeneron (REGN) Q3 Earnings and Revenues Beat Estimates",
-    "url": "https://www.nasdaq.com/articles/regeneron-regn-q3-earnings-and-revenues-beat-estimates",
-    "date": "2026-10-30",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
+    "title": "Learn Why The Bull Case For National Presto Industries Stock Could Change Following Strong Earnings Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-national-100740960.html",
+    "date": "2026-11-21",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Halozyme Therapeutics (HALO) Reports Next Week: Wall Street Expects Earnings Growth",
-    "url": "https://www.nasdaq.com/articles/halozyme-therapeutics-halo-reports-next-week-wall-street-expects-earnings-growth",
-    "date": "2026-10-29",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
+    "title": "National Presto Industries (NPK) Earnings Jump Leaves The Valuation Question Open",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/national-presto-industries-npk-earnings-090910822.html",
+    "date": "2026-11-20",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Dianthus Therapeutics Enters Oversold Territory (DNTH)",
-    "url": "https://www.nasdaq.com/articles/dianthus-therapeutics-enters-oversold-territory-dnth",
-    "date": "2026-10-22",
+    "title": "National Presto Industries (NPK) Stock Looks Near Fair Value Despite Its 105% Run",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/national-presto-industries-npk-stock-021602740.html",
+    "date": "2026-11-19",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "NPK Crosses Below Key Moving Average Level",
+    "url": "https://www.nasdaq.com/articles/npk-crosses-below-key-moving-average-level",
+    "date": "2026-11-16",
     "publisher": "BNK Invest",
     "via": "Nasdaq",
     "paywall": false,
     "isNew": true
-   }
-  ],
-  "sources": {
-   "nasdaq": 10,
-   "cnbc": 0,
-   "yahoo": 2,
-   "sec": 8
-  }
- },
- "BIIB": {
-  "updated": "2026-11-26T04:37:36.720Z",
-  "items": [
+   },
    {
-    "title": "Michael Kreppel-Friedbichler Appointed New COO of AOP Health",
-    "url": "https://finance.yahoo.com/healthcare/articles/michael-kreppel-friedbichler-appointed-coo-080000924.html",
-    "date": "2026-11-25",
-    "publisher": "Business Wire",
+    "title": "National Presto: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/national-presto-q3-earnings-snapshot-211910145.html",
+    "date": "2026-11-13",
+    "publisher": "Associated Press",
     "via": "Yahoo",
     "paywall": false,
     "isNew": true
    },
    {
-    "title": "Stoke Therapeutics (STOK) Stock Looks Pricey Following Fresh Dravet Data",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stoke-therapeutics-stok-stock-looks-061126377.html",
-    "date": "2026-11-25",
-    "publisher": "Simply Wall St.",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Stoke Therapeutics and Biogen Announce Presentations of Long-Term Clinical Data for Zorevunersen, an Investigational Medicine for the Treatment of Dravet Syndrome, at the 2026 American Epilepsy Society Annual Meeting",
-    "url": "https://finance.yahoo.com/healthcare/articles/stoke-therapeutics-biogen-announce-presentations-130000066.html",
-    "date": "2026-11-23",
-    "publisher": "Business Wire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Mizuho Securities Adjusts Biogen Price Target to $271 From $241, Maintains Outperform Rating",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-securities-adjusts-biogen-price-145623258.html",
-    "date": "2026-11-20",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Are Wall Street Analysts Predicting Biogen Stock Will Climb or Sink?",
-    "url": "https://finance.yahoo.com/healthcare/articles/wall-street-analysts-predicting-biogen-142100702.html",
-    "date": "2026-11-20",
-    "publisher": "Barchart",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Biogen, Eisai Reports Three-Year Real-World LEQEMBI Data Showing Slower Alzheimer's Progression",
-    "url": "https://www.nasdaq.com/articles/biogen-eisai-reports-three-year-real-world-leqembi-data-showing-slower-alzheimers",
-    "date": "2026-11-19",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Clarity AD CSF Substudy Findings on Lecanemab Treatment and α-Synuclein Co-Pathology Presented at CTAD 2026",
-    "url": "https://finance.yahoo.com/healthcare/articles/clarity-ad-csf-substudy-findings-183500053.html",
-    "date": "2026-11-19",
-    "publisher": "GlobeNewswire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "PRISM MarketView Highlights Four Small Caps Working on Alzheimer’s Disease for National Alzheimer’s Disease Awareness Month",
-    "url": "https://finance.yahoo.com/healthcare/articles/prism-marketview-highlights-four-small-170800291.html",
-    "date": "2026-11-19",
-    "publisher": "GlobeNewswire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Biogen Reports Two-Year Data Showing Continued Benefit Of Dianersen In Early Alzheimer's Disease",
-    "url": "https://www.nasdaq.com/articles/biogen-reports-two-year-data-showing-continued-benefit-dianersen-early-alzheimers-disease",
-    "date": "2026-11-18",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Biogen Prepares Joint Lupus Trial Results as It Targets First Revenue Growth Since 2019",
-    "url": "https://www.nasdaq.com/articles/biogen-prepares-joint-lupus-trial-results-it-targets-first-revenue-growth-2019",
-    "date": "2026-11-17",
-    "publisher": "MarketBeat",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Biogen: 3 Key Takeaways for Long-Term Investors",
-    "url": "https://www.nasdaq.com/articles/biogen-3-key-takeaways-long-term-investors",
-    "date": "2026-11-17",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "How Did AbbVie's Neuroscience Franchise Perform in Q3?",
-    "url": "https://www.nasdaq.com/articles/how-did-abbvies-neuroscience-franchise-perform-q3",
-    "date": "2026-11-17",
+    "title": "NPK Stock Declines 7% Despite Defense-Led Q3 Earnings Growth",
+    "url": "https://www.nasdaq.com/articles/npk-stock-declines-7-despite-defense-led-q3-earnings-growth",
+    "date": "2026-11-06",
     "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Biogen, TRIMTECH Enter Neurodegenerative Disease Research Collaboration",
-    "url": "https://www.nasdaq.com/articles/biogen-trimtech-enter-neurodegenerative-disease-research-collaboration",
-    "date": "2026-11-17",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Eisai, Biogen Present Long-Term Leqembi Data Showing Sustained Alzheimer's Benefits",
-    "url": "https://www.nasdaq.com/articles/eisai-biogen-present-long-term-leqembi-data-showing-sustained-alzheimers-benefits",
-    "date": "2026-11-17",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Eisai, Biogen Report Five-Year Leqembi Data Showing Sustained Alzheimer's Benefit",
-    "url": "https://www.nasdaq.com/articles/eisai-biogen-report-five-year-leqembi-data-showing-sustained-alzheimers-benefit",
-    "date": "2026-11-17",
-    "publisher": "RTTNews",
     "via": "Nasdaq",
     "paywall": false,
     "isNew": true
    },
    {
     "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/biib-20261028.htm",
-    "date": "2026-10-28",
-    "publisher": "SEC",
-    "via": "SEC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen",
-    "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
-    "date": "2026-10-12",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Biogen is set for big gains on slate of trial data releases, JPMorgan says",
-    "url": "https://www.cnbc.com/2026/10/12/biogen-is-set-to-rally-on-slate-of-trial-data-releases-jpmorgan-says.html",
-    "date": "2026-10-12",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   }
-  ],
-  "sources": {
-   "nasdaq": 8,
-   "cnbc": 8,
-   "yahoo": 9,
-   "sec": 8
-  }
- },
- "A": {
-  "updated": "2026-11-26T04:37:41.183Z",
-  "items": [
-   {
-    "title": "Agilent and Chulalongkorn University Open First Experience Center in Thailand",
-    "url": "https://finance.yahoo.com/healthcare/articles/agilent-chulalongkorn-university-open-first-023000059.html",
-    "date": "2026-11-26",
-    "publisher": "PR Newswire",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent: 3 Key Takeaways for Long-Term Investors",
-    "url": "https://www.nasdaq.com/articles/agilent-3-key-takeaways-long-term-investors",
-    "date": "2026-11-25",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Deutsche Bank Raises Price Target on Agilent Technologies to $210 From $190, Keeps Buy Rating",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-125858124.html",
-    "date": "2026-11-25",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "HSBC Adjusts Price Target on Agilent Technologies to $205 From $190",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-adjusts-price-target-agilent-123238243.html",
-    "date": "2026-11-25",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent (A) Q4 2026 Earnings Call Transcript",
-    "url": "https://www.nasdaq.com/articles/agilent-q4-2026-earnings-call-transcript",
-    "date": "2026-11-24",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "What Agilent Technologies (A) Said on Its Q4 Earnings Call",
-    "url": "https://www.nasdaq.com/articles/what-agilent-technologies-said-its-q4-earnings-call",
-    "date": "2026-11-24",
-    "publisher": "MarketBeat",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent Q4 Earnings Call Maps Out Growth From Lab Upgrades",
-    "url": "https://www.nasdaq.com/articles/agilent-q4-earnings-call-maps-out-growth-lab-upgrades",
-    "date": "2026-11-24",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent CEO Padraig McDonnell goes one-on-one with Jim Cramer",
-    "url": "https://www.cnbc.com/investingclub/video/2026/11/24/agilent-ceo-padraig-mcdonnell-goes-one-on-one-with-jim-cramer.html",
-    "date": "2026-11-24",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Tuesday, November 24, 2026: Cramer admits he wants to now buy this aerospace stock",
-    "url": "https://www.cnbc.com/investingclub/video/2026/11/24/tuesday-november-24-2026-cramer-admits-he-wants-to-now-buy-this-aerospace-stock.html",
-    "date": "2026-11-24",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent (A) Stock Looks Rich Even After Strong Demand Update",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/agilent-stock-looks-rich-even-190733736.html",
-    "date": "2026-11-24",
-    "publisher": "Simply Wall St.",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent earnings analysis: questions answered and next catalysts",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/agilent-earnings-analysis-questions-answered-182934756.html",
-    "date": "2026-11-24",
-    "publisher": "Investing.com",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Piper Sandler Adjusts Agilent Technologies Price Target to $190 From $160",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-adjusts-agilent-technologies-172958134.html",
-    "date": "2026-11-24",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Rothschild & Co Redburn Adjusts Agilent Technologies Price Target to $205 From $180",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-adjusts-agilent-172821091.html",
-    "date": "2026-11-24",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent (A) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "url": "https://www.nasdaq.com/articles/agilent-q4-earnings-taking-look-key-metrics-versus-estimates",
-    "date": "2026-11-23",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent Technologies (A) Tops Q4 Earnings and Revenue Estimates",
-    "url": "https://www.nasdaq.com/articles/agilent-technologies-tops-q4-earnings-and-revenue-estimates",
-    "date": "2026-11-23",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent Technologies Q4 Profit Rises; Issues FY27 Outlook",
-    "url": "https://www.nasdaq.com/articles/agilent-technologies-q4-profit-rises-issues-fy27-outlook",
-    "date": "2026-11-23",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/a-20261123.htm",
-    "date": "2026-11-23",
-    "publisher": "SEC",
-    "via": "SEC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent Technologies, Inc. Announces Retirement of Board Member George A. Scangos, Ph.D.",
-    "url": "https://www.nasdaq.com/articles/agilent-technologies-inc-announces-retirement-board-member-george-scangos-phd",
-    "date": "2026-11-21",
-    "publisher": "Fintel",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Will Agilent (A) Beat Estimates Again in Its Next Earnings Report?",
-    "url": "https://www.nasdaq.com/articles/will-agilent-beat-estimates-again-its-next-earnings-report",
-    "date": "2026-11-18",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent (A) Q4 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-    "url": "https://www.nasdaq.com/articles/agilent-q4-earnings-preview-what-you-should-know-beyond-headline-estimates",
-    "date": "2026-11-18",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Agilent Technologies (A) Reports Next Week: Wall Street Expects Earnings Growth",
-    "url": "https://www.nasdaq.com/articles/agilent-technologies-reports-next-week-wall-street-expects-earnings-growth",
-    "date": "2026-11-16",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates",
-    "url": "https://www.nasdaq.com/articles/nrx-pharmaceuticals-inc-nrxp-reports-q3-loss-misses-revenue-estimates",
-    "date": "2026-11-16",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Aveanna Healthcare (AVAH) Q3 Earnings and Revenues Beat Estimates",
-    "url": "https://www.nasdaq.com/articles/aveanna-healthcare-avah-q3-earnings-and-revenues-beat-estimates",
-    "date": "2026-11-12",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Jim Cramer shares his favorite names in the life sciences space",
-    "url": "https://www.cnbc.com/investingclub/video/2026/11/03/jim-cramer-shares-his-favorite-names-in-the-life-sciences-space.html",
-    "date": "2026-11-03",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   }
-  ],
-  "sources": {
-   "nasdaq": 13,
-   "cnbc": 4,
-   "yahoo": 8,
-   "sec": 8
-  }
- },
- "ABBV": {
-  "updated": "2026-11-26T04:37:45.266Z",
-  "items": [
-   {
-    "title": "Buy This Pharma Stock for Shelter From the AI Storm",
-    "url": "https://finance.yahoo.com/m/d89537c9-bf7b-3753-9c05-b211c5d9aacb/buy-this-pharma-stock-for.html",
-    "date": "2026-11-25",
-    "publisher": "Barrons.com",
-    "via": "Yahoo",
-    "paywall": true,
-    "isNew": true
-   },
-   {
-    "title": "What Could Still Lift AbbVie Stock?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/could-still-lift-abbvie-stock-115704924.html",
-    "date": "2026-11-25",
-    "publisher": "Trefis",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "AbbVie's (ABBV) RINVOQ Becomes First FDA-Approved Systemic Treatment For Vitiligo",
-    "url": "https://www.nasdaq.com/articles/abbvies-abbv-rinvoq-becomes-first-fda-approved-systemic-treatment-vitiligo",
-    "date": "2026-11-24",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "AbbVie Gets FDA Approval for Rinvoq in Nonsegmental Vitiligo",
-    "url": "https://www.nasdaq.com/articles/abbvie-gets-fda-approval-rinvoq-nonsegmental-vitiligo",
-    "date": "2026-11-24",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "AbbVie (ABBV) Stock Just Got a 5.2% Dividend Increase. Here's How Many Shares You Need to Generate $1,000 a Year.",
-    "url": "https://www.nasdaq.com/articles/abbvie-abbv-stock-just-got-52-dividend-increase-heres-how-many-shares-you-need-generate",
-    "date": "2026-11-21",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy for 2027?",
-    "url": "https://www.nasdaq.com/articles/abbvie-vs-eli-lilly-which-healthcare-stock-better-buy-2027",
-    "date": "2026-11-20",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "PFE Inks $2.6B Licensing Deal With Chinese Biotech for CAR-T Therapies",
-    "url": "https://www.nasdaq.com/articles/pfe-inks-26b-licensing-deal-chinese-biotech-car-t-therapies",
-    "date": "2026-11-19",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "AbbVie, DISCO Partner On Solid Tumor Therapies; Deal Includes Up To $2.5 Bln In Milestones",
-    "url": "https://www.nasdaq.com/articles/abbvie-disco-partner-solid-tumor-therapies-deal-includes-25-bln-milestones",
-    "date": "2026-11-19",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "DISCO Pharmaceuticals, AbbVie Announce Up To $2.5 Bln Cancer Drug Collaboration",
-    "url": "https://www.nasdaq.com/articles/disco-pharmaceuticals-abbvie-announce-25-bln-cancer-drug-collaboration",
-    "date": "2026-11-19",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Final Trades: Berkshire Hathaway, Amazon, AbbVie and Marriott",
-    "url": "https://www.cnbc.com/video/2026/11/17/final-trades-berkshire-hathaway-amazon-abbvie-marriott.html",
-    "date": "2026-11-17",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "A biotech’s high-stakes cancer bet just paid off and its shares doubled",
-    "url": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
-    "date": "2026-11-03",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "SEC 8-K · 임원 변동",
-    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/tm2628215d1_8k.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/80172/000143774926034432/npk20261102_8k.htm",
     "date": "2026-11-02",
-    "publisher": "SEC",
-    "via": "SEC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Final Trades: AbbVie, eBay, FTAI and the GPIQ",
-    "url": "https://www.cnbc.com/video/2026/10/30/final-trades-abbvie-ebay-ftai-and-the-gpiq.html",
-    "date": "2026-10-30",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "I just bought this pharma stock for its next generation of blockbuster drugs",
-    "url": "https://www.cnbc.com/2026/10/27/kevin-simpson-is-buying-abbvie.html",
-    "date": "2026-10-27",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "This pharma stock successfully pivoted from its blockbuster drug. Here's why it might be a buy",
-    "url": "https://www.cnbc.com/video/2026/10/27/this-pharma-stock-successfully-pivoted-from-its-blockbuster-drug-heres-why-it-might-be-a-buy.html",
-    "date": "2026-10-27",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Trade Tracker: Kevin Simpson buys AbbVie",
-    "url": "https://www.cnbc.com/video/2026/10/16/trade-tracker-kevin-simpson-buys-abbvie.html",
-    "date": "2026-10-16",
-    "publisher": "CNBC",
-    "via": "CNBC",
-    "paywall": false,
-    "isNew": true
-   }
-  ],
-  "sources": {
-   "nasdaq": 7,
-   "cnbc": 8,
-   "yahoo": 2,
-   "sec": 8
-  }
- },
- "KRYS": {
-  "updated": "2026-11-26T04:37:48.787Z",
-  "items": [
-   {
-    "title": "Krystal Biotech Readout on Hailey-Hailey Disease Treatment Seen Offering Upside, RBC Says",
-    "url": "https://finance.yahoo.com/healthcare/articles/krystal-biotech-readout-hailey-hailey-174855391.html",
-    "date": "2026-11-25",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "RBC Raises Price Target on Krystal Biotech to $385 From $375, Keeps Outperform Rating",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-krystal-121409247.html",
-    "date": "2026-11-25",
-    "publisher": "MT Newswires",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal Biotech (KRYS) Q3 2026 Earnings Call Transcript",
-    "url": "https://www.nasdaq.com/articles/krystal-biotech-krys-q3-2026-earnings-call-transcript",
-    "date": "2026-11-02",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal Biotech, Inc. (KRYS) Surpasses Q3 Earnings and Revenue Estimates",
-    "url": "https://www.nasdaq.com/articles/krystal-biotech-inc-krys-surpasses-q3-earnings-and-revenue-estimates",
-    "date": "2026-11-02",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal's Q3 Profit Declines As Clinical Portfolio Advances; Stock Dips By Over 12%",
-    "url": "https://www.nasdaq.com/articles/krystals-q3-profit-declines-clinical-portfolio-advances-stock-dips-over-12",
-    "date": "2026-11-02",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal Biotech Q3 Earnings Call Highlights",
-    "url": "https://www.nasdaq.com/articles/krystal-biotech-q3-earnings-call-highlights",
-    "date": "2026-11-02",
-    "publisher": "MarketBeat",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal Biotech, Inc. Q3 Profit Retreats",
-    "url": "https://www.nasdaq.com/articles/krystal-biotech-inc-q3-profit-retreats",
-    "date": "2026-11-02",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000072/krys-20261102.htm",
-    "date": "2026-11-02",
-    "publisher": "SEC",
-    "via": "SEC",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Amgen (AMGN) Reports Next Week: Wall Street Expects Earnings Growth",
-    "url": "https://www.nasdaq.com/articles/amgen-amgn-reports-next-week-wall-street-expects-earnings-growth",
-    "date": "2026-10-27",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Analysts Estimate Krystal Biotech, Inc. (KRYS) to Report a Decline in Earnings: What to Look Out for",
-    "url": "https://www.nasdaq.com/articles/analysts-estimate-krystal-biotech-inc-krys-report-decline-earnings-what-look-out",
-    "date": "2026-10-26",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal Biotech Sees Broad Antitumor Activity With KB113 In Gorlin Syndrome; Stock Up",
-    "url": "https://www.nasdaq.com/articles/krystal-biotech-sees-broad-antitumor-activity-kb113-gorlin-syndrome-stock",
-    "date": "2026-10-15",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "Krystal Biotech Reports Over 80% Lesion Regression With KB113 In Gorlin Syndrome",
-    "url": "https://www.nasdaq.com/articles/krystal-biotech-reports-over-80-lesion-regression-kb113-gorlin-syndrome",
-    "date": "2026-10-15",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": true
-   },
-   {
-    "title": "SEC 8-K · Reg FD 공시, 재무제표·첨부",
-    "url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000064/krys-20261015.htm",
-    "date": "2026-10-15",
     "publisher": "SEC",
     "via": "SEC",
     "paywall": false,
@@ -925,95 +190,12 @@
   "sources": {
    "nasdaq": 11,
    "cnbc": 0,
-   "yahoo": 2,
-   "sec": 8
-  }
- },
- "NRP": {
-  "updated": "2026-11-26T04:37:53.366Z",
-  "items": [
-   {
-    "title": "Coal Still Powers the Grid and the Steel Mills, and $90,000 Across These 3 Coal Stocks Pays More Than $5,000 a Year",
-    "url": "https://finance.yahoo.com/energy/articles/coal-still-powers-grid-steel-205450259.html",
-    "date": "2026-11-21",
-    "publisher": "24/7 Wall St.",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Natural Resources Partners LP's Dividend Analysis",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/natural-resources-partners-lps-dividend-100524534.html",
-    "date": "2026-11-17",
-    "publisher": "GuruFocus.com",
-    "via": "Yahoo",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Natural Resource Partners Q3 Earnings Call Highlights",
-    "url": "https://www.nasdaq.com/articles/natural-resource-partners-q3-earnings-call-highlights",
-    "date": "2026-11-08",
-    "publisher": "MarketBeat",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "NRP Stock Gains Marginally Despite Y/Y Earnings Decline in Q3",
-    "url": "https://www.nasdaq.com/articles/nrp-stock-gains-marginally-despite-y-y-earnings-decline-q3",
-    "date": "2026-11-06",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Natural Resource (NRP) Q3 2026 Earnings Call Transcript",
-    "url": "https://www.nasdaq.com/articles/natural-resource-nrp-q3-2026-earnings-call-transcript",
-    "date": "2026-11-04",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Natural Resource Partners L.P. Reports Third Quarter 2026 Results and Declares Third Quarter 2026 Distribution of $2.34 per Common Unit",
-    "url": "https://www.nasdaq.com/articles/natural-resource-partners-lp-reports-third-quarter-2026-results-and-declares-third-quarter",
-    "date": "2026-11-04",
-    "publisher": "Fintel",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1171486/000143774926034767/nrp20260813_8k.htm",
-    "date": "2026-11-04",
-    "publisher": "SEC",
-    "via": "SEC",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "NRP Gains 16.9% in a Year: Should Investors Buy the Stock Now?",
-    "url": "https://www.nasdaq.com/articles/nrp-gains-169-year-should-investors-buy-stock-now",
-    "date": "2026-10-28",
-    "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   }
-  ],
-  "sources": {
-   "nasdaq": 13,
-   "cnbc": 0,
-   "yahoo": 2,
+   "yahoo": 4,
    "sec": 8
   }
  },
  "LNTH": {
-  "updated": "2026-11-26T04:37:58.026Z",
+  "updated": "2026-11-26T22:36:43.168Z",
   "items": [
    {
     "title": "Lantheus Presents Data from Two Pivotal Phase 3 Studies of TAUKLARIFY (Florquinitau F 18 Injection) PET Imaging in Early Alzheimer’s Disease",
@@ -1060,7 +242,7 @@
   }
  },
  "STN": {
-  "updated": "2026-11-26T04:38:01.887Z",
+  "updated": "2026-11-26T22:36:45.749Z",
   "items": [
    {
     "title": "Stantec Secures $75 Million Dam Modernization Project From City of San Diego",
@@ -1197,7 +379,7 @@
   }
  },
  "COR": {
-  "updated": "2026-11-26T04:38:05.961Z",
+  "updated": "2026-11-26T22:36:45.758Z",
   "items": [
    {
     "title": "Cencora (COR) Stock Looks Reasonable Following Its 217% Five Year Run",
@@ -1206,7 +388,7 @@
     "publisher": "Simply Wall St.",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Solventum Appoints Two New Independent Directors to Its Board of Directors",
@@ -1215,7 +397,7 @@
     "publisher": "PR Newswire",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "FTC Sues To Block Covetrus' $3.5 Bln Acquisition Of MWI Veterinary Supply",
@@ -1325,8 +507,44 @@
   }
  },
  "KO": {
-  "updated": "2026-11-26T04:38:09.506Z",
+  "updated": "2026-11-26T22:36:47.467Z",
   "items": [
+   {
+    "title": "Coca-Cola (KO) Up 6.4% Since Last Earnings Report: Can It Continue?",
+    "url": "https://www.nasdaq.com/articles/coca-cola-ko-64-last-earnings-report-can-it-continue",
+    "date": "2026-11-26",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Forget the Market's Hottest Stocks. This Boring Dividend Stock Is Where I'd Put $1,000 Before 2027.",
+    "url": "https://www.nasdaq.com/articles/forget-markets-hottest-stocks-boring-dividend-stock-where-id-put-1000-2027-0",
+    "date": "2026-11-26",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Coca-Cola vs. Keurig Dr Pepper: Which Beverage Stock Looks Stronger?",
+    "url": "https://www.nasdaq.com/articles/coca-cola-vs-keurig-dr-pepper-which-beverage-stock-looks-stronger",
+    "date": "2026-11-26",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
+   {
+    "title": "Coca-Cola Is the Most Boring Stock I Own. After 64 Years of Dividend Raises, I'll Never Sell.",
+    "url": "https://www.nasdaq.com/articles/coca-cola-most-boring-stock-i-own-after-64-years-dividend-raises-ill-never-sell-0",
+    "date": "2026-11-26",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
    {
     "title": "3 US Consumer Staples Stocks Built For Sticky Inflation",
     "url": "https://finance.yahoo.com/markets/stocks/articles/3-us-consumer-staples-stocks-011434558.html",
@@ -1334,7 +552,7 @@
     "publisher": "Simply Wall St.",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Coca-Cola (KO) Just Reclaimed the 20-Day Moving Average",
@@ -1343,7 +561,7 @@
     "publisher": "Zacks",
     "via": "Nasdaq",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Here’s How Many Coca-Cola Shares It Takes to Earn $1,300 Every Quarter in Dividends",
@@ -1352,7 +570,7 @@
     "publisher": "The Motley Fool",
     "via": "Nasdaq",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Coca-Cola Has Raised Its Dividend 64 Straight Years. Here's What $10,000 Will Pay You in 2027.",
@@ -1361,7 +579,7 @@
     "publisher": "The Motley Fool",
     "via": "Nasdaq",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Prediction: Coca-Cola Stock Will Close 2026 Over $100 per Share. Here’s Why It’s a No-Brainer Buy for 2027.",
@@ -1370,7 +588,7 @@
     "publisher": "The Motley Fool",
     "via": "Nasdaq",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "These low-volatility stocks are shining in November as markets shudder",
@@ -1379,7 +597,7 @@
     "publisher": "CNBC",
     "via": "CNBC",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Prediction: Here's What $10,000 in Coca-Cola Could Pay You in Dividends by 2036",
@@ -1404,42 +622,6 @@
     "url": "https://www.nasdaq.com/articles/pepsico-sacrificing-pricing-power-regain-snack-volumes",
     "date": "2026-11-24",
     "publisher": "Zacks",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Coca-Cola at $95 or PepsiCo at $140: Which Dividend King Could Turn $1,000 Into More Money by 2036?",
-    "url": "https://www.nasdaq.com/articles/coca-cola-95-or-pepsico-140-which-dividend-king-could-turn-1000-more-money-2036",
-    "date": "2026-11-24",
-    "publisher": "The Motley Fool",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "Coca-Cola Taps Bristol Myers Squibb's David Elkins As CFO To Succeed John Murphy, Effective April 2",
-    "url": "https://www.nasdaq.com/articles/coca-cola-taps-bristol-myers-squibbs-david-elkins-cfo-succeed-john-murphy-effective-april",
-    "date": "2026-11-24",
-    "publisher": "RTTNews",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "The Coca-Cola Company Announces David V. Elkins Will Succeed John Murphy as Chief Financial Officer, Effective April 2, 2027",
-    "url": "https://www.nasdaq.com/articles/coca-cola-company-announces-david-v-elkins-will-succeed-john-murphy-chief-financial",
-    "date": "2026-11-23",
-    "publisher": "Fintel",
-    "via": "Nasdaq",
-    "paywall": false,
-    "isNew": false
-   },
-   {
-    "title": "If a Recession Hits in 2027, This Is the Dividend Stock I Want to Own",
-    "url": "https://www.nasdaq.com/articles/if-recession-hits-2027-dividend-stock-i-want-own-0",
-    "date": "2026-11-23",
-    "publisher": "The Motley Fool",
     "via": "Nasdaq",
     "paywall": false,
     "isNew": false
@@ -1525,7 +707,7 @@
   }
  },
  "GRVY": {
-  "updated": "2026-11-26T04:38:13.835Z",
+  "updated": "2026-11-26T22:36:49.764Z",
   "items": [
    {
     "title": "Gravity Q3 Earnings Climb 7.7%",
@@ -1554,7 +736,7 @@
   }
  },
  "GHC": {
-  "updated": "2026-11-26T04:38:17.635Z",
+  "updated": "2026-11-26T22:36:51.789Z",
   "items": [
    {
     "title": "Kaplan Earns 2027 Military Friendly® Employer Gold and Military Spouse Friendly® Employer Designations",
@@ -1655,7 +837,7 @@
   }
  },
  "VIK": {
-  "updated": "2026-11-26T04:38:21.575Z",
+  "updated": "2026-11-26T22:36:53.916Z",
   "items": [
    {
     "title": "Viking Takes Delivery of Newest Ocean Ship",
@@ -1664,7 +846,7 @@
     "publisher": "Business Wire",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "RCL or VIK: Which Is the Better Value Stock Right Now?",
@@ -1846,7 +1028,7 @@
   }
  },
  "JJSF": {
-  "updated": "2026-11-26T04:38:25.104Z",
+  "updated": "2026-11-26T22:36:56.279Z",
   "items": [
    {
     "title": "3 Top Dividend Stocks To Watch With Up To 4% Yield",
@@ -1974,8 +1156,17 @@
   }
  },
  "PDD": {
-  "updated": "2026-11-26T04:38:28.924Z",
+  "updated": "2026-11-26T22:36:58.536Z",
   "items": [
+   {
+    "title": "PDD: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.nasdaq.com/articles/pdd-3-key-takeaways-long-term-investors",
+    "date": "2026-11-26",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": true
+   },
    {
     "title": "Shein Profit Rises Despite Lower Revenue as It Adapts to Trade Challenges",
     "url": "https://finance.yahoo.com/m/8cbf1f29-f2ce-39fc-871c-a0362e186f67/shein-profit-rises-despite.html",
@@ -1983,7 +1174,7 @@
     "publisher": "The Wall Street Journal",
     "via": "Yahoo",
     "paywall": true,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "PDD Holdings Inc. Announces Notice of Annual General Meeting",
@@ -2001,7 +1192,7 @@
     "publisher": "24/7 Wall St.",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Why PDD Holdings Stock Was Bumping Higher Today",
@@ -2131,14 +1322,14 @@
    }
   ],
   "sources": {
-   "nasdaq": 11,
+   "nasdaq": 12,
    "cnbc": 1,
    "yahoo": 7,
    "sec": 0
   }
  },
  "KYMR": {
-  "updated": "2026-11-26T04:38:32.934Z",
+  "updated": "2026-11-26T22:37:00.417Z",
   "items": [
    {
     "title": "Kymera Therapeutics, Inc. Enters into Underwriting Agreement for Common Stock Offering",
@@ -2147,7 +1338,7 @@
     "publisher": "Fintel",
     "via": "Nasdaq",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "What Did Kymera Stock Investors Miss Before The Run?",
@@ -2156,7 +1347,7 @@
     "publisher": "Trefis",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Kymera Therapeutics Announces Closing of Upsized $1.75 Billion Public Offering and Full Exercise of Underwriters’ Option to Purchase Additional Shares",
@@ -2165,7 +1356,7 @@
     "publisher": "GlobeNewswire",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Kymera Therapeutics (KYMR) Gets a Massive 16% Lift From Wall Street",
@@ -2174,7 +1365,7 @@
     "publisher": "Insider Monkey",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "KYMR Crosses Above Average Analyst Target",
@@ -2210,7 +1401,7 @@
     "publisher": "MT Newswires",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "GILD, KYMR Stocks Hit Record Highs – Wall Street Backs Gilead's Resilience, Kymera's Eczema Data",
@@ -2219,7 +1410,7 @@
     "publisher": "Stocktwits",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Kymera Therapeutics Posts 'Solid Win' in Phase 2b Results, But Upside Likely Priced In, RBC Says",
@@ -2228,7 +1419,7 @@
     "publisher": "MT Newswires",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Kymera Therapeutics' Phase 2b Results for Atopic Dermatitis Treatment a 'De-Risking Event,' Morgan Stanley Says",
@@ -2237,7 +1428,7 @@
     "publisher": "MT Newswires",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "Kymera stock soars as eczema pill takes aim at Dupixent",
@@ -2246,7 +1437,7 @@
     "publisher": "TheStreet",
     "via": "Yahoo",
     "paywall": false,
-    "isNew": true
+    "isNew": false
    },
    {
     "title": "SEC 8-K · 중요 계약 체결, 기타 중요사건, 재무제표·첨부",
@@ -2343,6 +1534,936 @@
    "nasdaq": 13,
    "cnbc": 0,
    "yahoo": 9,
+   "sec": 8
+  }
+ },
+ "MIRM": {
+  "updated": "2026-11-26T22:37:00.425Z",
+  "items": [
+   {
+    "title": "Mirum Pharmaceuticals (MIRM) Stock Gets Fair Value Bump After Phase 3 Wins And Target Hikes",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-mirm-stock-gets-001708102.html",
+    "date": "2026-11-25",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals Insider Sold Shares Worth $1,940,094, According to a Recent SEC Filing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-insider-sold-shares-214026825.html",
+    "date": "2026-11-23",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals to Participate in Upcoming Investor Conferences",
+    "url": "https://finance.yahoo.com/healthcare/articles/mirum-pharmaceuticals-participate-upcoming-investor-210100556.html",
+    "date": "2026-11-23",
+    "publisher": "Business Wire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mirum-pharmaceuticals-reports-inducement-grants-210100769.html",
+    "date": "2026-11-12",
+    "publisher": "Business Wire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals' Brelovitug Meets Primary Endpoint In Phase 3 AZURE-4 Study",
+    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-brelovitug-meets-primary-endpoint-phase-3-azure-4-study",
+    "date": "2026-11-10",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · 기타 중요사건",
+    "url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/mirm-20261110.htm",
+    "date": "2026-11-10",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum (MIRM) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.nasdaq.com/articles/mirum-mirm-q3-2026-earnings-call-transcript",
+    "date": "2026-11-04",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals Q3 Earnings Call Highlights",
+    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-q3-earnings-call-highlights",
+    "date": "2026-11-04",
+    "publisher": "MarketBeat",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Here's What Key Metrics Tell Us About Mirum Pharmaceuticals (MIRM) Q3 Earnings",
+    "url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-mirum-pharmaceuticals-mirm-q3-earnings",
+    "date": "2026-11-03",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals, Inc. (MIRM) Reports Q3 Loss, Tops Revenue Estimates",
+    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-inc-mirm-reports-q3-loss-tops-revenue-estimates",
+    "date": "2026-11-03",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals Reports Q3 2026 Financial Results and Raises Full-Year Sales Guidance",
+    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-reports-q3-2026-financial-results-and-raises-full-year-sales",
+    "date": "2026-11-03",
+    "publisher": "Fintel",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Recursion Pharmaceuticals (RXRX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
+    "url": "https://www.nasdaq.com/articles/recursion-pharmaceuticals-rxrx-expected-beat-earnings-estimates-what-know-ahead-q3-release",
+    "date": "2026-10-28",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Pharmaceuticals, Inc. (MIRM) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
+    "url": "https://www.nasdaq.com/articles/mirum-pharmaceuticals-inc-mirm-expected-beat-earnings-estimates-what-know-ahead-q3-release",
+    "date": "2026-10-27",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum's ATEBRIOZ Reduces Bone Lesion Volume In Younger Children With FOP; Stock Up",
+    "url": "https://www.nasdaq.com/articles/mirums-atebrioz-reduces-bone-lesion-volume-younger-children-fop-stock",
+    "date": "2026-10-26",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mirum Reports Positive ATEBRIOZ Results In Younger Children With FOP",
+    "url": "https://www.nasdaq.com/articles/mirum-reports-positive-atebrioz-results-younger-children-fop",
+    "date": "2026-10-26",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   }
+  ],
+  "sources": {
+   "nasdaq": 10,
+   "cnbc": 0,
+   "yahoo": 4,
+   "sec": 8
+  }
+ },
+ "DNTH": {
+  "updated": "2026-11-26T22:37:00.431Z",
+  "items": [
+   {
+    "title": "How Much Upside is Left in Dianthus Therapeutics, Inc. (DNTH)? Wall Street Analysts Think 37.15%",
+    "url": "https://www.nasdaq.com/articles/how-much-upside-left-dianthus-therapeutics-inc-dnth-wall-street-analysts-think-3715",
+    "date": "2026-11-25",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Why Is Dick’s Sporting Goods Stock Rising 13.9% Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-dick-sporting-goods-stock-134906175.html",
+    "date": "2026-11-24",
+    "publisher": "InvestorsHub",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Dianthus Therapeutics Insider Sold Shares Worth $11,228,720, According to a Recent SEC Filing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dianthus-therapeutics-insider-sold-shares-223935184.html",
+    "date": "2026-11-12",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Wall Street Analysts See a 61.23% Upside in Dianthus Therapeutics, Inc. (DNTH): Can the Stock Really Move This High?",
+    "url": "https://www.nasdaq.com/articles/wall-street-analysts-see-6123-upside-dianthus-therapeutics-inc-dnth-can-stock-really-move",
+    "date": "2026-11-09",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Dianthus Therapeutics, Inc. Reports Q3 2026 Financial Results and Highlights Clinical Progress",
+    "url": "https://www.nasdaq.com/articles/dianthus-therapeutics-inc-reports-q3-2026-financial-results-and-highlights-clinical",
+    "date": "2026-11-05",
+    "publisher": "Fintel",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Dianthus Therapeutics, Inc. (DNTH) Reports Q3 Loss, Beats Revenue Estimates",
+    "url": "https://www.nasdaq.com/articles/dianthus-therapeutics-inc-dnth-reports-q3-loss-beats-revenue-estimates",
+    "date": "2026-11-04",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1690585/000169058526000039/dnth-20261104.htm",
+    "date": "2026-11-04",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Regeneron (REGN) Q3 Earnings and Revenues Beat Estimates",
+    "url": "https://www.nasdaq.com/articles/regeneron-regn-q3-earnings-and-revenues-beat-estimates",
+    "date": "2026-10-30",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Halozyme Therapeutics (HALO) Reports Next Week: Wall Street Expects Earnings Growth",
+    "url": "https://www.nasdaq.com/articles/halozyme-therapeutics-halo-reports-next-week-wall-street-expects-earnings-growth",
+    "date": "2026-10-29",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Dianthus Therapeutics Enters Oversold Territory (DNTH)",
+    "url": "https://www.nasdaq.com/articles/dianthus-therapeutics-enters-oversold-territory-dnth",
+    "date": "2026-10-22",
+    "publisher": "BNK Invest",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   }
+  ],
+  "sources": {
+   "nasdaq": 10,
+   "cnbc": 0,
+   "yahoo": 2,
+   "sec": 8
+  }
+ },
+ "BIIB": {
+  "updated": "2026-11-26T22:37:02.510Z",
+  "items": [
+   {
+    "title": "Michael Kreppel-Friedbichler Appointed New COO of AOP Health",
+    "url": "https://finance.yahoo.com/healthcare/articles/michael-kreppel-friedbichler-appointed-coo-080000924.html",
+    "date": "2026-11-25",
+    "publisher": "Business Wire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Stoke Therapeutics (STOK) Stock Looks Pricey Following Fresh Dravet Data",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stoke-therapeutics-stok-stock-looks-061126377.html",
+    "date": "2026-11-25",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Stoke Therapeutics and Biogen Announce Presentations of Long-Term Clinical Data for Zorevunersen, an Investigational Medicine for the Treatment of Dravet Syndrome, at the 2026 American Epilepsy Society Annual Meeting",
+    "url": "https://finance.yahoo.com/healthcare/articles/stoke-therapeutics-biogen-announce-presentations-130000066.html",
+    "date": "2026-11-23",
+    "publisher": "Business Wire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Mizuho Securities Adjusts Biogen Price Target to $271 From $241, Maintains Outperform Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-securities-adjusts-biogen-price-145623258.html",
+    "date": "2026-11-20",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Are Wall Street Analysts Predicting Biogen Stock Will Climb or Sink?",
+    "url": "https://finance.yahoo.com/healthcare/articles/wall-street-analysts-predicting-biogen-142100702.html",
+    "date": "2026-11-20",
+    "publisher": "Barchart",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Biogen, Eisai Reports Three-Year Real-World LEQEMBI Data Showing Slower Alzheimer's Progression",
+    "url": "https://www.nasdaq.com/articles/biogen-eisai-reports-three-year-real-world-leqembi-data-showing-slower-alzheimers",
+    "date": "2026-11-19",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Clarity AD CSF Substudy Findings on Lecanemab Treatment and α-Synuclein Co-Pathology Presented at CTAD 2026",
+    "url": "https://finance.yahoo.com/healthcare/articles/clarity-ad-csf-substudy-findings-183500053.html",
+    "date": "2026-11-19",
+    "publisher": "GlobeNewswire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "PRISM MarketView Highlights Four Small Caps Working on Alzheimer’s Disease for National Alzheimer’s Disease Awareness Month",
+    "url": "https://finance.yahoo.com/healthcare/articles/prism-marketview-highlights-four-small-170800291.html",
+    "date": "2026-11-19",
+    "publisher": "GlobeNewswire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Biogen Reports Two-Year Data Showing Continued Benefit Of Dianersen In Early Alzheimer's Disease",
+    "url": "https://www.nasdaq.com/articles/biogen-reports-two-year-data-showing-continued-benefit-dianersen-early-alzheimers-disease",
+    "date": "2026-11-18",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Biogen Prepares Joint Lupus Trial Results as It Targets First Revenue Growth Since 2019",
+    "url": "https://www.nasdaq.com/articles/biogen-prepares-joint-lupus-trial-results-it-targets-first-revenue-growth-2019",
+    "date": "2026-11-17",
+    "publisher": "MarketBeat",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Biogen: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.nasdaq.com/articles/biogen-3-key-takeaways-long-term-investors",
+    "date": "2026-11-17",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "How Did AbbVie's Neuroscience Franchise Perform in Q3?",
+    "url": "https://www.nasdaq.com/articles/how-did-abbvies-neuroscience-franchise-perform-q3",
+    "date": "2026-11-17",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Biogen, TRIMTECH Enter Neurodegenerative Disease Research Collaboration",
+    "url": "https://www.nasdaq.com/articles/biogen-trimtech-enter-neurodegenerative-disease-research-collaboration",
+    "date": "2026-11-17",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Eisai, Biogen Present Long-Term Leqembi Data Showing Sustained Alzheimer's Benefits",
+    "url": "https://www.nasdaq.com/articles/eisai-biogen-present-long-term-leqembi-data-showing-sustained-alzheimers-benefits",
+    "date": "2026-11-17",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Eisai, Biogen Report Five-Year Leqembi Data Showing Sustained Alzheimer's Benefit",
+    "url": "https://www.nasdaq.com/articles/eisai-biogen-report-five-year-leqembi-data-showing-sustained-alzheimers-benefit",
+    "date": "2026-11-17",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
+    "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/biib-20261028.htm",
+    "date": "2026-10-28",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen",
+    "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+    "date": "2026-10-12",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Biogen is set for big gains on slate of trial data releases, JPMorgan says",
+    "url": "https://www.cnbc.com/2026/10/12/biogen-is-set-to-rally-on-slate-of-trial-data-releases-jpmorgan-says.html",
+    "date": "2026-10-12",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   }
+  ],
+  "sources": {
+   "nasdaq": 8,
+   "cnbc": 8,
+   "yahoo": 9,
+   "sec": 8
+  }
+ },
+ "A": {
+  "updated": "2026-11-26T22:37:05.069Z",
+  "items": [
+   {
+    "title": "Agilent and Chulalongkorn University Open First Experience Center in Thailand",
+    "url": "https://finance.yahoo.com/healthcare/articles/agilent-chulalongkorn-university-open-first-023000059.html",
+    "date": "2026-11-26",
+    "publisher": "PR Newswire",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.nasdaq.com/articles/agilent-3-key-takeaways-long-term-investors",
+    "date": "2026-11-25",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Deutsche Bank Raises Price Target on Agilent Technologies to $210 From $190, Keeps Buy Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-raises-price-target-125858124.html",
+    "date": "2026-11-25",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "HSBC Adjusts Price Target on Agilent Technologies to $205 From $190",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-adjusts-price-target-agilent-123238243.html",
+    "date": "2026-11-25",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent (A) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.nasdaq.com/articles/agilent-q4-2026-earnings-call-transcript",
+    "date": "2026-11-24",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "What Agilent Technologies (A) Said on Its Q4 Earnings Call",
+    "url": "https://www.nasdaq.com/articles/what-agilent-technologies-said-its-q4-earnings-call",
+    "date": "2026-11-24",
+    "publisher": "MarketBeat",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent Q4 Earnings Call Maps Out Growth From Lab Upgrades",
+    "url": "https://www.nasdaq.com/articles/agilent-q4-earnings-call-maps-out-growth-lab-upgrades",
+    "date": "2026-11-24",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent CEO Padraig McDonnell goes one-on-one with Jim Cramer",
+    "url": "https://www.cnbc.com/investingclub/video/2026/11/24/agilent-ceo-padraig-mcdonnell-goes-one-on-one-with-jim-cramer.html",
+    "date": "2026-11-24",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Tuesday, November 24, 2026: Cramer admits he wants to now buy this aerospace stock",
+    "url": "https://www.cnbc.com/investingclub/video/2026/11/24/tuesday-november-24-2026-cramer-admits-he-wants-to-now-buy-this-aerospace-stock.html",
+    "date": "2026-11-24",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent (A) Stock Looks Rich Even After Strong Demand Update",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/agilent-stock-looks-rich-even-190733736.html",
+    "date": "2026-11-24",
+    "publisher": "Simply Wall St.",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent earnings analysis: questions answered and next catalysts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/agilent-earnings-analysis-questions-answered-182934756.html",
+    "date": "2026-11-24",
+    "publisher": "Investing.com",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Piper Sandler Adjusts Agilent Technologies Price Target to $190 From $160",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-adjusts-agilent-technologies-172958134.html",
+    "date": "2026-11-24",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Rothschild & Co Redburn Adjusts Agilent Technologies Price Target to $205 From $180",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-adjusts-agilent-172821091.html",
+    "date": "2026-11-24",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent (A) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "url": "https://www.nasdaq.com/articles/agilent-q4-earnings-taking-look-key-metrics-versus-estimates",
+    "date": "2026-11-23",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent Technologies (A) Tops Q4 Earnings and Revenue Estimates",
+    "url": "https://www.nasdaq.com/articles/agilent-technologies-tops-q4-earnings-and-revenue-estimates",
+    "date": "2026-11-23",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent Technologies Q4 Profit Rises; Issues FY27 Outlook",
+    "url": "https://www.nasdaq.com/articles/agilent-technologies-q4-profit-rises-issues-fy27-outlook",
+    "date": "2026-11-23",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/a-20261123.htm",
+    "date": "2026-11-23",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent Technologies, Inc. Announces Retirement of Board Member George A. Scangos, Ph.D.",
+    "url": "https://www.nasdaq.com/articles/agilent-technologies-inc-announces-retirement-board-member-george-scangos-phd",
+    "date": "2026-11-21",
+    "publisher": "Fintel",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Will Agilent (A) Beat Estimates Again in Its Next Earnings Report?",
+    "url": "https://www.nasdaq.com/articles/will-agilent-beat-estimates-again-its-next-earnings-report",
+    "date": "2026-11-18",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent (A) Q4 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+    "url": "https://www.nasdaq.com/articles/agilent-q4-earnings-preview-what-you-should-know-beyond-headline-estimates",
+    "date": "2026-11-18",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Agilent Technologies (A) Reports Next Week: Wall Street Expects Earnings Growth",
+    "url": "https://www.nasdaq.com/articles/agilent-technologies-reports-next-week-wall-street-expects-earnings-growth",
+    "date": "2026-11-16",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates",
+    "url": "https://www.nasdaq.com/articles/nrx-pharmaceuticals-inc-nrxp-reports-q3-loss-misses-revenue-estimates",
+    "date": "2026-11-16",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Aveanna Healthcare (AVAH) Q3 Earnings and Revenues Beat Estimates",
+    "url": "https://www.nasdaq.com/articles/aveanna-healthcare-avah-q3-earnings-and-revenues-beat-estimates",
+    "date": "2026-11-12",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Jim Cramer shares his favorite names in the life sciences space",
+    "url": "https://www.cnbc.com/investingclub/video/2026/11/03/jim-cramer-shares-his-favorite-names-in-the-life-sciences-space.html",
+    "date": "2026-11-03",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   }
+  ],
+  "sources": {
+   "nasdaq": 13,
+   "cnbc": 4,
+   "yahoo": 8,
+   "sec": 8
+  }
+ },
+ "ABBV": {
+  "updated": "2026-11-26T22:37:06.731Z",
+  "items": [
+   {
+    "title": "Buy This Pharma Stock for Shelter From the AI Storm",
+    "url": "https://finance.yahoo.com/m/d89537c9-bf7b-3753-9c05-b211c5d9aacb/buy-this-pharma-stock-for.html",
+    "date": "2026-11-25",
+    "publisher": "Barrons.com",
+    "via": "Yahoo",
+    "paywall": true,
+    "isNew": false
+   },
+   {
+    "title": "What Could Still Lift AbbVie Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-still-lift-abbvie-stock-115704924.html",
+    "date": "2026-11-25",
+    "publisher": "Trefis",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "AbbVie's (ABBV) RINVOQ Becomes First FDA-Approved Systemic Treatment For Vitiligo",
+    "url": "https://www.nasdaq.com/articles/abbvies-abbv-rinvoq-becomes-first-fda-approved-systemic-treatment-vitiligo",
+    "date": "2026-11-24",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "AbbVie Gets FDA Approval for Rinvoq in Nonsegmental Vitiligo",
+    "url": "https://www.nasdaq.com/articles/abbvie-gets-fda-approval-rinvoq-nonsegmental-vitiligo",
+    "date": "2026-11-24",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "AbbVie (ABBV) Stock Just Got a 5.2% Dividend Increase. Here's How Many Shares You Need to Generate $1,000 a Year.",
+    "url": "https://www.nasdaq.com/articles/abbvie-abbv-stock-just-got-52-dividend-increase-heres-how-many-shares-you-need-generate",
+    "date": "2026-11-21",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy for 2027?",
+    "url": "https://www.nasdaq.com/articles/abbvie-vs-eli-lilly-which-healthcare-stock-better-buy-2027",
+    "date": "2026-11-20",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "PFE Inks $2.6B Licensing Deal With Chinese Biotech for CAR-T Therapies",
+    "url": "https://www.nasdaq.com/articles/pfe-inks-26b-licensing-deal-chinese-biotech-car-t-therapies",
+    "date": "2026-11-19",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "AbbVie, DISCO Partner On Solid Tumor Therapies; Deal Includes Up To $2.5 Bln In Milestones",
+    "url": "https://www.nasdaq.com/articles/abbvie-disco-partner-solid-tumor-therapies-deal-includes-25-bln-milestones",
+    "date": "2026-11-19",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "DISCO Pharmaceuticals, AbbVie Announce Up To $2.5 Bln Cancer Drug Collaboration",
+    "url": "https://www.nasdaq.com/articles/disco-pharmaceuticals-abbvie-announce-25-bln-cancer-drug-collaboration",
+    "date": "2026-11-19",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Final Trades: Berkshire Hathaway, Amazon, AbbVie and Marriott",
+    "url": "https://www.cnbc.com/video/2026/11/17/final-trades-berkshire-hathaway-amazon-abbvie-marriott.html",
+    "date": "2026-11-17",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "A biotech’s high-stakes cancer bet just paid off and its shares doubled",
+    "url": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
+    "date": "2026-11-03",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · 임원 변동",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/tm2628215d1_8k.htm",
+    "date": "2026-11-02",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Final Trades: AbbVie, eBay, FTAI and the GPIQ",
+    "url": "https://www.cnbc.com/video/2026/10/30/final-trades-abbvie-ebay-ftai-and-the-gpiq.html",
+    "date": "2026-10-30",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "I just bought this pharma stock for its next generation of blockbuster drugs",
+    "url": "https://www.cnbc.com/2026/10/27/kevin-simpson-is-buying-abbvie.html",
+    "date": "2026-10-27",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "This pharma stock successfully pivoted from its blockbuster drug. Here's why it might be a buy",
+    "url": "https://www.cnbc.com/video/2026/10/27/this-pharma-stock-successfully-pivoted-from-its-blockbuster-drug-heres-why-it-might-be-a-buy.html",
+    "date": "2026-10-27",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Trade Tracker: Kevin Simpson buys AbbVie",
+    "url": "https://www.cnbc.com/video/2026/10/16/trade-tracker-kevin-simpson-buys-abbvie.html",
+    "date": "2026-10-16",
+    "publisher": "CNBC",
+    "via": "CNBC",
+    "paywall": false,
+    "isNew": false
+   }
+  ],
+  "sources": {
+   "nasdaq": 7,
+   "cnbc": 8,
+   "yahoo": 2,
+   "sec": 8
+  }
+ },
+ "KRYS": {
+  "updated": "2026-11-26T22:37:09.702Z",
+  "items": [
+   {
+    "title": "Krystal Biotech Readout on Hailey-Hailey Disease Treatment Seen Offering Upside, RBC Says",
+    "url": "https://finance.yahoo.com/healthcare/articles/krystal-biotech-readout-hailey-hailey-174855391.html",
+    "date": "2026-11-25",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "RBC Raises Price Target on Krystal Biotech to $385 From $375, Keeps Outperform Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-raises-price-target-krystal-121409247.html",
+    "date": "2026-11-25",
+    "publisher": "MT Newswires",
+    "via": "Yahoo",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal Biotech (KRYS) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.nasdaq.com/articles/krystal-biotech-krys-q3-2026-earnings-call-transcript",
+    "date": "2026-11-02",
+    "publisher": "The Motley Fool",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal Biotech, Inc. (KRYS) Surpasses Q3 Earnings and Revenue Estimates",
+    "url": "https://www.nasdaq.com/articles/krystal-biotech-inc-krys-surpasses-q3-earnings-and-revenue-estimates",
+    "date": "2026-11-02",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal's Q3 Profit Declines As Clinical Portfolio Advances; Stock Dips By Over 12%",
+    "url": "https://www.nasdaq.com/articles/krystals-q3-profit-declines-clinical-portfolio-advances-stock-dips-over-12",
+    "date": "2026-11-02",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal Biotech Q3 Earnings Call Highlights",
+    "url": "https://www.nasdaq.com/articles/krystal-biotech-q3-earnings-call-highlights",
+    "date": "2026-11-02",
+    "publisher": "MarketBeat",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal Biotech, Inc. Q3 Profit Retreats",
+    "url": "https://www.nasdaq.com/articles/krystal-biotech-inc-q3-profit-retreats",
+    "date": "2026-11-02",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000072/krys-20261102.htm",
+    "date": "2026-11-02",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Amgen (AMGN) Reports Next Week: Wall Street Expects Earnings Growth",
+    "url": "https://www.nasdaq.com/articles/amgen-amgn-reports-next-week-wall-street-expects-earnings-growth",
+    "date": "2026-10-27",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Analysts Estimate Krystal Biotech, Inc. (KRYS) to Report a Decline in Earnings: What to Look Out for",
+    "url": "https://www.nasdaq.com/articles/analysts-estimate-krystal-biotech-inc-krys-report-decline-earnings-what-look-out",
+    "date": "2026-10-26",
+    "publisher": "Zacks",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal Biotech Sees Broad Antitumor Activity With KB113 In Gorlin Syndrome; Stock Up",
+    "url": "https://www.nasdaq.com/articles/krystal-biotech-sees-broad-antitumor-activity-kb113-gorlin-syndrome-stock",
+    "date": "2026-10-15",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "Krystal Biotech Reports Over 80% Lesion Regression With KB113 In Gorlin Syndrome",
+    "url": "https://www.nasdaq.com/articles/krystal-biotech-reports-over-80-lesion-regression-kb113-gorlin-syndrome",
+    "date": "2026-10-15",
+    "publisher": "RTTNews",
+    "via": "Nasdaq",
+    "paywall": false,
+    "isNew": false
+   },
+   {
+    "title": "SEC 8-K · Reg FD 공시, 재무제표·첨부",
+    "url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000064/krys-20261015.htm",
+    "date": "2026-10-15",
+    "publisher": "SEC",
+    "via": "SEC",
+    "paywall": false,
+    "isNew": false
+   }
+  ],
+  "sources": {
+   "nasdaq": 11,
+   "cnbc": 0,
+   "yahoo": 2,
    "sec": 8
   }
  }

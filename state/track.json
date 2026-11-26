@@ -1,32 +1,18 @@
 {
- "updated": "2026-11-26T04:37:31.836Z",
+ "updated": "2026-11-26T22:36:35.355Z",
  "items": [
-  {
-   "ticker": "NRP",
-   "session": "2026-11-10",
-   "close": 122.68,
-   "rs2": false,
-   "status": "active",
-   "days": 10,
-   "volUpDays": 0,
-   "retPct": -5.8,
-   "above50": true,
-   "above150": true,
-   "lastSession": "2026-11-24",
-   "grades": []
-  },
   {
    "ticker": "LNTH",
    "session": "2026-11-10",
    "close": 101.62,
    "rs2": false,
    "status": "active",
-   "days": 10,
+   "days": 11,
    "volUpDays": 1,
-   "retPct": 0.2,
+   "retPct": 0.5,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -35,12 +21,12 @@
    "close": 85.69,
    "rs2": false,
    "status": "active",
-   "days": 7,
-   "volUpDays": 2,
-   "retPct": 0.1,
+   "days": 8,
+   "volUpDays": 3,
+   "retPct": 1,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -49,12 +35,12 @@
    "close": 359.03,
    "rs2": false,
    "status": "active",
-   "days": 7,
-   "volUpDays": 1,
-   "retPct": -2.6,
+   "days": 8,
+   "volUpDays": 2,
+   "retPct": -1.4,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -63,12 +49,12 @@
    "close": 99.25,
    "rs2": false,
    "status": "active",
-   "days": 7,
+   "days": 8,
    "volUpDays": 3,
-   "retPct": -1.6,
+   "retPct": -1.7,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -77,12 +63,12 @@
    "close": 70.8,
    "rs2": false,
    "status": "active",
-   "days": 7,
+   "days": 8,
    "volUpDays": 4,
-   "retPct": 1,
+   "retPct": 0.9,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -91,12 +77,12 @@
    "close": 1288.78,
    "rs2": false,
    "status": "active",
-   "days": 6,
+   "days": 7,
    "volUpDays": 2,
-   "retPct": -2,
+   "retPct": -2.4,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -105,12 +91,12 @@
    "close": 94.28,
    "rs2": false,
    "status": "active",
-   "days": 5,
+   "days": 6,
    "volUpDays": 2,
-   "retPct": 7,
+   "retPct": 5.2,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "D1"
    ]
@@ -121,12 +107,12 @@
    "close": 99.23,
    "rs2": false,
    "status": "active",
-   "days": 4,
+   "days": 5,
    "volUpDays": 1,
-   "retPct": -5,
+   "retPct": -4.2,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": []
   },
   {
@@ -135,12 +121,12 @@
    "close": 86,
    "rs2": false,
    "status": "active",
-   "days": 3,
-   "volUpDays": 2,
-   "retPct": 1.4,
+   "days": 4,
+   "volUpDays": 3,
+   "retPct": 1.7,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "B2",
     "D1"
@@ -152,12 +138,12 @@
    "close": 150.37,
    "rs2": true,
    "status": "active",
-   "days": 1,
+   "days": 2,
    "volUpDays": 1,
-   "retPct": 15.7,
+   "retPct": 15.6,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "B1",
     "D1"
@@ -169,12 +155,12 @@
    "close": 109.71,
    "rs2": true,
    "status": "active",
-   "days": 0,
+   "days": 1,
    "volUpDays": 0,
-   "retPct": 0,
+   "retPct": -0.5,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "B1"
    ]
@@ -185,12 +171,12 @@
    "close": 101.14,
    "rs2": true,
    "status": "active",
-   "days": 0,
+   "days": 1,
    "volUpDays": 0,
-   "retPct": 0,
+   "retPct": -2.1,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "D1"
    ]
@@ -201,12 +187,12 @@
    "close": 269.11,
    "rs2": false,
    "status": "active",
-   "days": 0,
+   "days": 1,
    "volUpDays": 0,
-   "retPct": 0,
+   "retPct": -2.9,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "B1",
     "D1"
@@ -218,12 +204,12 @@
    "close": 183.52,
    "rs2": false,
    "status": "active",
-   "days": 0,
+   "days": 1,
    "volUpDays": 0,
-   "retPct": 0,
+   "retPct": -2.8,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "D1"
    ]
@@ -234,12 +220,12 @@
    "close": 300.28,
    "rs2": false,
    "status": "active",
-   "days": 0,
+   "days": 1,
    "volUpDays": 0,
-   "retPct": 0,
+   "retPct": -1.9,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
     "B1"
    ]
@@ -250,16 +236,79 @@
    "close": 344.42,
    "rs2": false,
    "status": "active",
+   "days": 1,
+   "volUpDays": 0,
+   "retPct": 0.2,
+   "above50": true,
+   "above150": true,
+   "lastSession": "2026-11-25",
+   "grades": [
+    "B1",
+    "D1"
+   ]
+  },
+  {
+   "ticker": "CHKP",
+   "session": "2026-11-25",
+   "close": 163.77,
+   "rs2": false,
+   "status": "active",
    "days": 0,
    "volUpDays": 0,
    "retPct": 0,
    "above50": true,
    "above150": true,
-   "lastSession": "2026-11-24",
+   "lastSession": "2026-11-25",
    "grades": [
-    "B1",
-    "D1"
+    "A2",
+    "B1"
    ]
+  },
+  {
+   "ticker": "COKE",
+   "session": "2026-11-25",
+   "close": 218.64,
+   "rs2": false,
+   "status": "active",
+   "days": 0,
+   "volUpDays": 0,
+   "retPct": 0,
+   "above50": true,
+   "above150": true,
+   "lastSession": "2026-11-25",
+   "grades": []
+  },
+  {
+   "ticker": "NPK",
+   "session": "2026-11-25",
+   "close": 161,
+   "rs2": false,
+   "status": "active",
+   "days": 0,
+   "volUpDays": 0,
+   "retPct": 0,
+   "above50": true,
+   "above150": true,
+   "lastSession": "2026-11-25",
+   "grades": [
+    "S2"
+   ]
+  },
+  {
+   "ticker": "NRP",
+   "session": "2026-11-10",
+   "close": 122.68,
+   "rs2": false,
+   "status": "ended",
+   "days": 11,
+   "volUpDays": 0,
+   "retPct": -7.1,
+   "above50": false,
+   "above150": true,
+   "lastSession": "2026-11-25",
+   "grades": [],
+   "endReason": "50일선 아래 마감",
+   "endSession": "2026-11-25"
   },
   {
    "ticker": "MLAB",

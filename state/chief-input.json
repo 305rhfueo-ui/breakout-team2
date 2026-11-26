@@ -1,10 +1,10 @@
 {
- "session": "2026-11-24",
+ "session": "2026-11-25",
  "regime": {
   "green": false,
-  "ma10": 657.93,
-  "ma20": 671.31,
-  "ko": "🔴 10일선이 20일선 아래 26일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
+  "ma10": 652.28,
+  "ma20": 666.73,
+  "ko": "🔴 10일선이 20일선 아래 27일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
   "verdict": "red"
  },
  "rule": {
@@ -21,241 +21,199 @@
  "candidates": [
   {
    "codeRank": 1,
-   "ticker": "MIRM",
-   "tier": "RS 2%",
-   "sector": "Healthcare",
-   "industry": "Biotechnology",
+   "ticker": "CHKP",
+   "tier": "S/A 만",
+   "sector": "Technology",
+   "industry": "Software - Infrastructure",
    "rsTop": {
-    "m1": 1.1,
-    "m3": 13.2,
-    "m6": 24.7
+    "m1": 27.2,
+    "m3": 4.5,
+    "m6": 23.1
    },
    "ret": {
-    "m1": 28.23,
-    "m3": 11.89,
-    "m6": 18.62
+    "m1": 5.51,
+    "m3": 21.79,
+    "m6": 20.58
    },
    "base": null,
-   "volX": 1.24,
-   "bbw": "0.186→0.242",
-   "checklist": "2/9",
+   "volX": 1.06,
+   "bbw": "0.145→0.165",
+   "checklist": "1/9",
    "grades": [
+    "A2",
     "B1"
    ],
-   "gradeSummary": "브렐로비투그 3상 성공 + FOP 2상 긍정 + 가이던스 상향",
+   "gradeSummary": "방화벽 12~20% 인상·구독 +11%, 그러나 매출 -1%·컨센서스 하향",
    "minus": [
-    "연간 가이던스 중간값 7억 1,750만 달러가 컨센서스 7억 1,765만 달러와 같은 수준 — 가이던스 서프라이즈가 아니어서 S등급 불가",
-    "3분기 영업손실 5,975만 달러, 영업이익률 -32.2%(전년 +2.0%)",
-    "분기 EPS가 4분기 연속 컨센서스 미달(이번 -0.3%)",
-    "다음 분기 EPS 컨센서스가 7일간 -103%",
-    "내부자 매도 공시(11-23)"
+    "전체 매출 -1%, 제품 매출 1억550만 달러로 부진",
+    "회사가 제품 매출 회복 속도가 당초 예상보다 느리다고 인정, 대형 교체 프로젝트가 2027년으로 이연",
+    "컨센서스 EPS 하향(당분기 30일 -4.9%, 하향 28명 대 상향 3명)",
+    "성장의 상당 부분이 가격 인상 효과일 수 있음"
    ],
    "plus": [
-    "복수 촉매 — 3상 성공(11-10) + FOP 코호트 2 데이터(10-26) + 연간 가이던스 상향(11-03)이 한 달 안에 몰렸다",
-    "분기 매출 전년 대비 +39.6%, 6분기 연속 매출 증가",
-    "목표가 상향 16건 대 하향 1건, 등급 하향 0건",
-    "2027년 EPS 컨센서스 0.32달러로 90일간 +852.9% 상향(적자 → 흑자 전환 전망)"
+    "보안 구독 매출 +11%로 전체의 51% 차지",
+    "가격 인상(12~20%)이 이미 10월 4일부터 적용",
+    "FedRAMP 인증으로 공공부문 판매 경로 확보"
    ],
    "nextEarnings": null,
-   "plan": null,
-   "watchOnly": true,
+   "plan": {
+    "riskPct": 0.5,
+    "weightPct": 13,
+    "capped": false,
+    "stopPct": 3.9,
+    "realRiskPct": 0.5
+   },
+   "watchOnly": false,
    "odds": {
     "sameRule": {
-     "n": 57,
+     "n": 3327,
      "d5": {
-      "n": 56,
-      "win": 50,
-      "med": 0,
-      "avg": 0.9
+      "n": 3307,
+      "win": 54,
+      "med": 0.4,
+      "avg": 0.7
      },
      "d20": {
-      "n": 50,
-      "win": 50,
-      "med": 0.4,
-      "avg": 4.4
+      "n": 3085,
+      "win": 55,
+      "med": 1.1,
+      "avg": 2.1
      },
      "d60": {
-      "n": 40,
-      "win": 65,
-      "med": 11.4,
-      "avg": 15.8
+      "n": 2746,
+      "win": 59,
+      "med": 3.3,
+      "avg": 6.9
      },
      "rule": {
-      "n": 54,
-      "win": 39,
-      "med": -3.8,
-      "avg": 1
+      "n": 3222,
+      "win": 36,
+      "med": -1.9,
+      "avg": 0.8
      },
-     "stopRate": 35
+     "stopRate": 43
     },
     "ticker": [
      {
-      "d": "2025-08-07",
+      "d": "2026-10-21",
       "rs2": false,
-      "r20": 30.15,
-      "r60": 19.16,
-      "rule": 20.09
-     },
-     {
-      "d": "2025-12-19",
-      "rs2": false,
-      "r20": 25.06,
-      "r60": 15.26,
-      "rule": 13.76
-     },
-     {
-      "d": "2026-05-04",
-      "rs2": false,
-      "r20": -14.13,
-      "r60": -0.94,
-      "rule": -8.35
-     },
-     {
-      "d": "2026-06-18",
-      "rs2": false,
-      "r20": 7.53,
-      "r60": -10.55,
-      "rule": 8.33
+      "r20": 7.19,
+      "r60": null,
+      "rule": -2.61
      }
     ]
    },
    "headlines": [
-    "2026-11-25 Simply Wall St.: Mirum Pharmaceuticals (MIRM) Stock Gets Fair Value Bump After Phase 3 Wins And Target Hikes",
-    "2026-11-23 MT Newswires: Mirum Pharmaceuticals Insider Sold Shares Worth $1,940,094, According to a Recent SEC Filing",
-    "2026-11-23 Business Wire: Mirum Pharmaceuticals to Participate in Upcoming Investor Conferences",
-    "2026-11-12 Business Wire: Mirum Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-    "2026-11-10 RTTNews: Mirum Pharmaceuticals' Brelovitug Meets Primary Endpoint In Phase 3 AZURE-4 Study",
-    "2026-11-10 SEC: SEC 8-K · 기타 중요사건",
-    "2026-11-04 The Motley Fool: Mirum (MIRM) Q3 2026 Earnings Call Transcript",
-    "2026-11-04 MarketBeat: Mirum Pharmaceuticals Q3 Earnings Call Highlights",
-    "2026-11-03 Zacks: Here's What Key Metrics Tell Us About Mirum Pharmaceuticals (MIRM) Q3 Earnings",
-    "2026-11-03 Zacks: Mirum Pharmaceuticals, Inc. (MIRM) Reports Q3 Loss, Tops Revenue Estimates"
+    "2026-11-24 Simply Wall St.: How Investors Are Reacting To Check Point Stock As FedRAMP Approval Supports 2027 Growth Plan",
+    "2026-11-23 MarketBeat: Check Point Software Technologies Sees Product Revenue Returning to Growth in Q2 2027",
+    "2026-11-22 Insider Monkey: Scotiabank Cut, Stifel Raised: What Split the Views on Check Point (CHKP)?",
+    "2026-11-18 Stocktwits: Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
+    "2026-11-18 PR Newswire: Check Point Scales Its SASE Platform on Microsoft Azure for Global Enterprise Deployment",
+    "2026-11-18 MT Newswires: Check Point Software Technologies Insider Sold Shares Worth $638,735, According to a Recent SEC Filing",
+    "2026-11-11 Zacks: Can Software Firewall Demand Boost PANW's Network Security Growth?",
+    "2026-11-09 Zacks: Implied Volatility Surging for Check Point Software Technologies Stock Options",
+    "2026-11-03 MarketBeat: Check Point's Turnaround Could Be Closer Than Investors Think"
    ]
   },
   {
    "codeRank": 2,
-   "ticker": "DNTH",
-   "tier": "RS 2%",
-   "sector": "Healthcare",
-   "industry": "Biotechnology",
+   "ticker": "NPK",
+   "tier": "S/A 만",
+   "sector": "Industrials",
+   "industry": "Aerospace & Defense",
    "rsTop": {
-    "m1": 1.3,
-    "m3": 50.6,
-    "m6": 22.4
+    "m1": 22.8,
+    "m3": 22,
+    "m6": 22.5
    },
    "ret": {
-    "m1": 27.19,
-    "m3": -4.23,
-    "m6": 20.22
+    "m1": 6.78,
+    "m3": 9.57,
+    "m6": 21.41
    },
    "base": {
-    "days": 18,
-    "weeks": 3.6,
-    "depthPct": 17.6,
-    "priorPct": 35.1,
-    "pivot": 93.81,
-    "pivotDate": "2026-11-16",
-    "breakDate": "2026-11-24"
+    "days": 40,
+    "weeks": 8,
+    "depthPct": 13.1,
+    "priorPct": 29.7,
+    "pivot": 155.3,
+    "pivotDate": "2026-10-29",
+    "breakDate": "2026-11-25"
    },
-   "volX": 1.05,
-   "bbw": "0.178→0.221",
-   "checklist": "4/9",
+   "volX": 1.97,
+   "bbw": "0.13→0.16",
+   "checklist": "5/9",
    "grades": [
-    "D1"
+    "S2"
    ],
-   "gradeSummary": "60일 안 새 재료 없음 — 실적·커버리지 개시뿐",
+   "gradeSummary": "방산 +31%로 영업이익률 5.6%→17.1%, 흑자분 상당은 관세 환급",
    "minus": [
-    "회사 고유 재료가 없다 — 1개월 +27.2%는 실적·임상 발표와 시점이 맞지 않는다",
-    "2027년 매출 컨센서스 -21.2%, EPS 컨센서스 -20.2%",
-    "내부자 매도 공시 1,122만 달러(11-12)",
-    "3개월 수익률 -4.2%로 1개월 상승만 있다"
+    "EPS 서프라이즈의 상당 부분이 일회성 관세 환급(생활가전 영업이익 810만 달러)에서 나옴 — 제외하면 컨센서스 수준",
+    "가이던스 없음 · 커버리지 애널리스트 1명(2026-10-01 Freedom Broker Hold, 목표가 162달러)",
+    "60일 안의 신규 수주 공시 없음 (최근 8-K는 11-02 실적뿐, 1억5,910만 달러 수주는 2026-08-14)"
    ],
    "plus": [
-    "분기 EPS가 4분기 중 3번 컨센서스 상회(이번 +14.6%)",
-    "당분기·연간 EPS 컨센서스가 30일간 +7~13% 상향, 상향 4건 대 하향 0건",
-    "커버리지 개시 3건(시티 Buy 156달러 9-04, JP모건 Overweight 135달러 9-11, Roth Buy 113달러 10-27)"
+    "전사 영업이익률 5.6%→17.1% (관세 환급 제외해도 약 11.5%로 2배)",
+    "영업이익 증가율 2분기 연속 가속 (2026-07-05 +218.5% → 2026-10-04 +285.6%)",
+    "매출 증가가 가격이 아니라 방산 수주잔고 출하에서 나옴",
+    "EPS 2.79달러 대 컨센서스 1.97달러 (+41.6%)"
    ],
    "nextEarnings": null,
-   "plan": null,
-   "watchOnly": true,
+   "plan": {
+    "riskPct": 0.5,
+    "weightPct": 13.9,
+    "capped": false,
+    "stopPct": 3.6,
+    "realRiskPct": 0.5
+   },
+   "watchOnly": false,
    "odds": {
     "sameRule": {
-     "n": 57,
+     "n": 3327,
      "d5": {
-      "n": 56,
-      "win": 50,
-      "med": 0,
-      "avg": 0.9
+      "n": 3307,
+      "win": 54,
+      "med": 0.4,
+      "avg": 0.7
      },
      "d20": {
-      "n": 50,
-      "win": 50,
-      "med": 0.4,
-      "avg": 4.4
+      "n": 3085,
+      "win": 55,
+      "med": 1.1,
+      "avg": 2.1
      },
      "d60": {
-      "n": 40,
-      "win": 65,
-      "med": 11.4,
-      "avg": 15.8
+      "n": 2746,
+      "win": 59,
+      "med": 3.3,
+      "avg": 6.9
      },
      "rule": {
-      "n": 54,
-      "win": 39,
-      "med": -3.8,
-      "avg": 1
+      "n": 3222,
+      "win": 36,
+      "med": -1.9,
+      "avg": 0.8
      },
-     "stopRate": 35
+     "stopRate": 43
     },
     "ticker": [
      {
-      "d": "2025-11-14",
-      "rs2": true,
-      "r20": 1.35,
-      "r60": 16.03,
-      "rule": 3.4
-     },
-     {
-      "d": "2026-01-14",
+      "d": "2026-08-03",
       "rs2": false,
-      "r20": 2.4,
-      "r60": 105.03,
-      "rule": 2.03
-     },
-     {
-      "d": "2026-03-04",
-      "rs2": false,
-      "r20": 41.22,
-      "r60": 46.88,
-      "rule": 40.81
-     },
-     {
-      "d": "2026-04-14",
-      "rs2": true,
-      "r20": -9.63,
-      "r60": 3.96,
-      "rule": -5.88
-     },
-     {
-      "d": "2026-05-29",
-      "rs2": false,
-      "r20": 6.05,
-      "r60": 20.5,
-      "rule": -10.24
+      "r20": 7.28,
+      "r60": 10.08,
+      "rule": 7.82
      }
     ]
    },
    "headlines": [
-    "2026-11-25 Zacks: How Much Upside is Left in Dianthus Therapeutics, Inc. (DNTH)? Wall Street Analysts Think 37.15%",
-    "2026-11-24 InvestorsHub: Why Is Dick’s Sporting Goods Stock Rising 13.9% Today?",
-    "2026-11-12 MT Newswires: Dianthus Therapeutics Insider Sold Shares Worth $11,228,720, According to a Recent SEC Filing",
-    "2026-11-09 Zacks: Wall Street Analysts See a 61.23% Upside in Dianthus Therapeutics, Inc. (DNTH): Can the Stock Really Move This High?",
-    "2026-11-05 Fintel: Dianthus Therapeutics, Inc. Reports Q3 2026 Financial Results and Highlights Clinical Progress",
-    "2026-11-04 Zacks: Dianthus Therapeutics, Inc. (DNTH) Reports Q3 Loss, Beats Revenue Estimates",
-    "2026-11-04 SEC: SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
-    "2026-10-30 Zacks: Regeneron (REGN) Q3 Earnings and Revenues Beat Estimates",
-    "2026-10-29 Zacks: Halozyme Therapeutics (HALO) Reports Next Week: Wall Street Expects Earnings Growth",
-    "2026-10-22 BNK Invest: Dianthus Therapeutics Enters Oversold Territory (DNTH)"
+    "2026-11-21 Simply Wall St.: Learn Why The Bull Case For National Presto Industries Stock Could Change Following Strong Earnings Report",
+    "2026-11-20 Simply Wall St.: National Presto Industries (NPK) Earnings Jump Leaves The Valuation Question Open",
+    "2026-11-19 Simply Wall St.: National Presto Industries (NPK) Stock Looks Near Fair Value Despite Its 105% Run",
+    "2026-11-16 BNK Invest: NPK Crosses Below Key Moving Average Level",
+    "2026-11-13 Associated Press: National Presto: Q3 Earnings Snapshot",
+    "2026-11-06 Zacks: NPK Stock Declines 7% Despite Defense-Led Q3 Earnings Growth",
+    "2026-11-02 SEC: SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)"
    ]
   }
  ]

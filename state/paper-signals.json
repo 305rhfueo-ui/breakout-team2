@@ -39,6 +39,22 @@
    "agent": [
     "rs"
    ]
+  },
+  {
+   "ticker": "CHKP",
+   "session": "2026-11-25",
+   "star": false,
+   "agent": [
+    "cat"
+   ]
+  },
+  {
+   "ticker": "NPK",
+   "session": "2026-11-25",
+   "star": false,
+   "agent": [
+    "cat"
+   ]
   }
  ]
 }

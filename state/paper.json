@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T04:46:14.653Z",
- "session": "2026-11-24",
+ "updated": "2026-11-26T22:45:52.084Z",
+ "session": "2026-11-25",
  "main": {
   "positions": [
    {
@@ -35,8 +35,8 @@
     "star": false,
     "riskPct": 0.5,
     "exitDate": "2026-11-23",
-    "last": 87.22000122070312,
-    "lastDate": "2026-11-24",
+    "last": 87.41999816894531,
+    "lastDate": "2026-11-25",
     "retPct": -0.71,
     "acctPct": -0.132
    }
@@ -67,7 +67,7 @@
     "agent": [
      "rs"
     ],
-    "why": "매수 대기 (다음 장 시가)"
+    "why": "시장 빨간불 · 관망"
    },
    {
     "ticker": "DNTH",
@@ -75,6 +75,24 @@
     "star": false,
     "agent": [
      "rs"
+    ],
+    "why": "시장 빨간불 · 관망"
+   },
+   {
+    "ticker": "CHKP",
+    "session": "2026-11-25",
+    "star": false,
+    "agent": [
+     "cat"
+    ],
+    "why": "매수 대기 (다음 장 시가)"
+   },
+   {
+    "ticker": "NPK",
+    "session": "2026-11-25",
+    "star": false,
+    "agent": [
+     "cat"
     ],
     "why": "매수 대기 (다음 장 시가)"
    }
@@ -127,7 +145,7 @@
    "open": 1,
    "closed": 0,
    "win": null,
-   "acctPct": 0.03,
+   "acctPct": 0.07,
    "stopRate": null
   }
  },

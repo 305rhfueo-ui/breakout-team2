@@ -1,3 +1,17 @@
 {
- "items": []
+ "items": [
+  {
+   "session": "2026-11-25",
+   "ticker": "NPK",
+   "codeRank": 2,
+   "changed": true,
+   "plan": {
+    "riskPct": 0.5,
+    "weightPct": 13.9,
+    "capped": false,
+    "stopPct": 3.6,
+    "realRiskPct": 0.5
+   }
+  }
+ ]
 }
