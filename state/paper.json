@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T04:43:48.732Z",
- "session": "2026-11-23",
+ "updated": "2026-11-26T04:46:14.653Z",
+ "session": "2026-11-24",
  "main": {
   "positions": [
    {
@@ -35,8 +35,8 @@
     "star": false,
     "riskPct": 0.5,
     "exitDate": "2026-11-23",
-    "last": 87.13999938964844,
-    "lastDate": "2026-11-23",
+    "last": 87.22000122070312,
+    "lastDate": "2026-11-24",
     "retPct": -0.71,
     "acctPct": -0.132
    }
@@ -54,6 +54,24 @@
    {
     "ticker": "KYMR",
     "session": "2026-11-23",
+    "star": false,
+    "agent": [
+     "rs"
+    ],
+    "why": "시장 빨간불 · 관망"
+   },
+   {
+    "ticker": "MIRM",
+    "session": "2026-11-24",
+    "star": false,
+    "agent": [
+     "rs"
+    ],
+    "why": "매수 대기 (다음 장 시가)"
+   },
+   {
+    "ticker": "DNTH",
+    "session": "2026-11-24",
     "star": false,
     "agent": [
      "rs"
@@ -109,7 +127,7 @@
    "open": 1,
    "closed": 0,
    "win": null,
-   "acctPct": 0.01,
+   "acctPct": 0.03,
    "stopRate": null
   }
  },

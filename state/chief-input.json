@@ -1,10 +1,10 @@
 {
- "session": "2026-11-23",
+ "session": "2026-11-24",
  "regime": {
   "green": false,
-  "ma10": 661.59,
-  "ma20": 675.47,
-  "ko": "🔴 10일선이 20일선 아래 25일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
+  "ma10": 657.93,
+  "ma20": 671.31,
+  "ko": "🔴 10일선이 20일선 아래 26일째(2026-10-19부터) — 새로 사지 않고, 들고 있는 것도 정리 검토",
   "verdict": "red"
  },
  "rule": {
@@ -21,47 +21,40 @@
  "candidates": [
   {
    "codeRank": 1,
-   "ticker": "KYMR",
+   "ticker": "MIRM",
    "tier": "RS 2%",
    "sector": "Healthcare",
    "industry": "Biotechnology",
    "rsTop": {
-    "m1": 0.7,
-    "m3": 1.1,
-    "m6": 0.5
+    "m1": 1.1,
+    "m3": 13.2,
+    "m6": 24.7
    },
    "ret": {
-    "m1": 30.94,
-    "m3": 27.27,
-    "m6": 105.4
+    "m1": 28.23,
+    "m3": 11.89,
+    "m6": 18.62
    },
-   "base": {
-    "days": 15,
-    "weeks": 3,
-    "depthPct": 20,
-    "priorPct": 40.5,
-    "pivot": 142.92,
-    "pivotDate": "2026-11-10",
-    "breakDate": "2026-11-23"
-   },
-   "volX": 7.41,
-   "bbw": "0.222→0.261",
-   "checklist": "7/9",
+   "base": null,
+   "volX": 1.24,
+   "bbw": "0.186→0.242",
+   "checklist": "2/9",
    "grades": [
-    "B1",
-    "D1"
+    "B1"
    ],
-   "gradeSummary": "KT-621 2b 전 용량 목표 달성, 직후 대규모 증자",
+   "gradeSummary": "브렐로비투그 3상 성공 + FOP 2상 긍정 + 가이던스 상향",
    "minus": [
-    "결과 발표 직후 순수입 19.27억 달러 규모 증자 — 희석",
-    "첫 3상 시작이 2027년 중반, 매출까지 거리가 멀다",
-    "2027년 매출 컨센서스 4,055만 달러로 전년 대비 -59.4%, 연간 EPS 컨센서스 -5.10달러(90일간 하향)",
-    "2026-09-30 분기 EPS -1.32달러로 컨센서스 -1.27달러 미달(-4.3%)"
+    "연간 가이던스 중간값 7억 1,750만 달러가 컨센서스 7억 1,765만 달러와 같은 수준 — 가이던스 서프라이즈가 아니어서 S등급 불가",
+    "3분기 영업손실 5,975만 달러, 영업이익률 -32.2%(전년 +2.0%)",
+    "분기 EPS가 4분기 연속 컨센서스 미달(이번 -0.3%)",
+    "다음 분기 EPS 컨센서스가 7일간 -103%",
+    "내부자 매도 공시(11-23)"
    ],
    "plus": [
-    "전 용량에서 1·2차 평가변수 모두 충족, 위약 보정 45%p",
-    "복수 재료 동시 — 임상 결과 + 목표가 상향 19건(입력 ratings)",
-    "경구제로 주사제 대비 투여 편의"
+    "복수 촉매 — 3상 성공(11-10) + FOP 코호트 2 데이터(10-26) + 연간 가이던스 상향(11-03)이 한 달 안에 몰렸다",
+    "분기 매출 전년 대비 +39.6%, 6분기 연속 매출 증가",
+    "목표가 상향 16건 대 하향 1건, 등급 하향 0건",
+    "2027년 EPS 컨센서스 0.32달러로 90일간 +852.9% 상향(적자 → 흑자 전환 전망)"
    ],
    "nextEarnings": null,
    "plan": null,
@@ -97,39 +90,172 @@
     },
     "ticker": [
      {
-      "d": "2025-09-18",
+      "d": "2025-08-07",
       "rs2": false,
-      "r20": 16.72,
-      "r60": 67.15,
-      "rule": 6.34
+      "r20": 30.15,
+      "r60": 19.16,
+      "rule": 20.09
      },
      {
-      "d": "2025-12-08",
-      "rs2": true,
-      "r20": -17.35,
-      "r60": -6.26,
-      "rule": -8.11
+      "d": "2025-12-19",
+      "rs2": false,
+      "r20": 25.06,
+      "r60": 15.26,
+      "rule": 13.76
      },
      {
-      "d": "2026-10-27",
+      "d": "2026-05-04",
       "rs2": false,
-      "r20": null,
-      "r60": null,
-      "rule": 6
+      "r20": -14.13,
+      "r60": -0.94,
+      "rule": -8.35
+     },
+     {
+      "d": "2026-06-18",
+      "rs2": false,
+      "r20": 7.53,
+      "r60": -10.55,
+      "rule": 8.33
      }
     ]
    },
    "headlines": [
-    "2026-11-24 BNK Invest: KYMR Crosses Above Average Analyst Target",
-    "2026-11-24 RTTNews: Kymera (KYMR) Prices Upsized $1.75 Billion Stock Offering Following Positive Clinical Data",
-    "2026-11-24 Zacks: Kymera Shares Soar 30% After Positive Atopic Dermatitis Drug Data",
-    "2026-11-24 MT Newswires: UBS Adjusts Price Target on Kymera Therapeutics to $205 From $128, Maintains Buy Rating",
-    "2026-11-24 GuruFocus.com: Why Is Kymera (KYMR) Stock Up Today? Analysts Raise Price Targets",
-    "2026-11-24 MT Newswires: Oppenheimer Adjusts Price Target on Kymera Therapeutics to $200 From $140, Maintains Outperform Rating",
-    "2026-11-24 MT Newswires: Morgan Stanley Adjusts Kymera Therapeutics Price Target to $198 From $150, Maintains Overweight Rating",
-    "2026-11-24 MT Newswires: Deutsche Bank Raises Price Target on Kymera Therapeutics to $155 From $120, Keeps Hold Rating",
-    "2026-11-24 Simply Wall St.: Kymera Therapeutics (KYMR) Stock Could Look Stretched Despite Positive KT 621 Data",
-    "2026-11-24 Clinical Trials Arena: Kymera Therapeutics’ stock up on Phase IIb oral atopic dermatitis drug data"
+    "2026-11-25 Simply Wall St.: Mirum Pharmaceuticals (MIRM) Stock Gets Fair Value Bump After Phase 3 Wins And Target Hikes",
+    "2026-11-23 MT Newswires: Mirum Pharmaceuticals Insider Sold Shares Worth $1,940,094, According to a Recent SEC Filing",
+    "2026-11-23 Business Wire: Mirum Pharmaceuticals to Participate in Upcoming Investor Conferences",
+    "2026-11-12 Business Wire: Mirum Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+    "2026-11-10 RTTNews: Mirum Pharmaceuticals' Brelovitug Meets Primary Endpoint In Phase 3 AZURE-4 Study",
+    "2026-11-10 SEC: SEC 8-K · 기타 중요사건",
+    "2026-11-04 The Motley Fool: Mirum (MIRM) Q3 2026 Earnings Call Transcript",
+    "2026-11-04 MarketBeat: Mirum Pharmaceuticals Q3 Earnings Call Highlights",
+    "2026-11-03 Zacks: Here's What Key Metrics Tell Us About Mirum Pharmaceuticals (MIRM) Q3 Earnings",
+    "2026-11-03 Zacks: Mirum Pharmaceuticals, Inc. (MIRM) Reports Q3 Loss, Tops Revenue Estimates"
+   ]
+  },
+  {
+   "codeRank": 2,
+   "ticker": "DNTH",
+   "tier": "RS 2%",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "rsTop": {
+    "m1": 1.3,
+    "m3": 50.6,
+    "m6": 22.4
+   },
+   "ret": {
+    "m1": 27.19,
+    "m3": -4.23,
+    "m6": 20.22
+   },
+   "base": {
+    "days": 18,
+    "weeks": 3.6,
+    "depthPct": 17.6,
+    "priorPct": 35.1,
+    "pivot": 93.81,
+    "pivotDate": "2026-11-16",
+    "breakDate": "2026-11-24"
+   },
+   "volX": 1.05,
+   "bbw": "0.178→0.221",
+   "checklist": "4/9",
+   "grades": [
+    "D1"
+   ],
+   "gradeSummary": "60일 안 새 재료 없음 — 실적·커버리지 개시뿐",
+   "minus": [
+    "회사 고유 재료가 없다 — 1개월 +27.2%는 실적·임상 발표와 시점이 맞지 않는다",
+    "2027년 매출 컨센서스 -21.2%, EPS 컨센서스 -20.2%",
+    "내부자 매도 공시 1,122만 달러(11-12)",
+    "3개월 수익률 -4.2%로 1개월 상승만 있다"
+   ],
+   "plus": [
+    "분기 EPS가 4분기 중 3번 컨센서스 상회(이번 +14.6%)",
+    "당분기·연간 EPS 컨센서스가 30일간 +7~13% 상향, 상향 4건 대 하향 0건",
+    "커버리지 개시 3건(시티 Buy 156달러 9-04, JP모건 Overweight 135달러 9-11, Roth Buy 113달러 10-27)"
+   ],
+   "nextEarnings": null,
+   "plan": null,
+   "watchOnly": true,
+   "odds": {
+    "sameRule": {
+     "n": 57,
+     "d5": {
+      "n": 56,
+      "win": 50,
+      "med": 0,
+      "avg": 0.9
+     },
+     "d20": {
+      "n": 50,
+      "win": 50,
+      "med": 0.4,
+      "avg": 4.4
+     },
+     "d60": {
+      "n": 40,
+      "win": 65,
+      "med": 11.4,
+      "avg": 15.8
+     },
+     "rule": {
+      "n": 54,
+      "win": 39,
+      "med": -3.8,
+      "avg": 1
+     },
+     "stopRate": 35
+    },
+    "ticker": [
+     {
+      "d": "2025-11-14",
+      "rs2": true,
+      "r20": 1.35,
+      "r60": 16.03,
+      "rule": 3.4
+     },
+     {
+      "d": "2026-01-14",
+      "rs2": false,
+      "r20": 2.4,
+      "r60": 105.03,
+      "rule": 2.03
+     },
+     {
+      "d": "2026-03-04",
+      "rs2": false,
+      "r20": 41.22,
+      "r60": 46.88,
+      "rule": 40.81
+     },
+     {
+      "d": "2026-04-14",
+      "rs2": true,
+      "r20": -9.63,
+      "r60": 3.96,
+      "rule": -5.88
+     },
+     {
+      "d": "2026-05-29",
+      "rs2": false,
+      "r20": 6.05,
+      "r60": 20.5,
+      "rule": -10.24
+     }
+    ]
+   },
+   "headlines": [
+    "2026-11-25 Zacks: How Much Upside is Left in Dianthus Therapeutics, Inc. (DNTH)? Wall Street Analysts Think 37.15%",
+    "2026-11-24 InvestorsHub: Why Is Dick’s Sporting Goods Stock Rising 13.9% Today?",
+    "2026-11-12 MT Newswires: Dianthus Therapeutics Insider Sold Shares Worth $11,228,720, According to a Recent SEC Filing",
+    "2026-11-09 Zacks: Wall Street Analysts See a 61.23% Upside in Dianthus Therapeutics, Inc. (DNTH): Can the Stock Really Move This High?",
+    "2026-11-05 Fintel: Dianthus Therapeutics, Inc. Reports Q3 2026 Financial Results and Highlights Clinical Progress",
+    "2026-11-04 Zacks: Dianthus Therapeutics, Inc. (DNTH) Reports Q3 Loss, Beats Revenue Estimates",
+    "2026-11-04 SEC: SEC 8-K · 실적 발표, 재무제표·첨부 (실적 발표)",
+    "2026-10-30 Zacks: Regeneron (REGN) Q3 Earnings and Revenues Beat Estimates",
+    "2026-10-29 Zacks: Halozyme Therapeutics (HALO) Reports Next Week: Wall Street Expects Earnings Growth",
+    "2026-10-22 BNK Invest: Dianthus Therapeutics Enters Oversold Territory (DNTH)"
    ]
   }
  ]

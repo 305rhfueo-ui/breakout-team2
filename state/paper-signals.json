@@ -23,6 +23,22 @@
    "agent": [
     "rs"
    ]
+  },
+  {
+   "ticker": "MIRM",
+   "session": "2026-11-24",
+   "star": false,
+   "agent": [
+    "rs"
+   ]
+  },
+  {
+   "ticker": "DNTH",
+   "session": "2026-11-24",
+   "star": false,
+   "agent": [
+    "rs"
+   ]
   }
  ]
 }
