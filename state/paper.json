@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T22:45:52.084Z",
- "session": "2026-11-25",
+ "updated": "2026-11-28T04:05:32.729Z",
+ "session": "2026-11-27",
  "main": {
   "positions": [
    {
@@ -35,10 +35,66 @@
     "star": false,
     "riskPct": 0.5,
     "exitDate": "2026-11-23",
-    "last": 87.41999816894531,
-    "lastDate": "2026-11-25",
+    "last": 88.43000030517578,
+    "lastDate": "2026-11-27",
     "retPct": -0.71,
     "acctPct": -0.132
+   },
+   {
+    "ticker": "CHKP",
+    "signal": "2026-11-25",
+    "entryDate": "2026-11-27",
+    "entry": 163,
+    "weightPct": 13,
+    "adr": 3.8538651933757233,
+    "stop": 156.72,
+    "hi": 199.89999389648438,
+    "left": 1,
+    "steps": [],
+    "s1": false,
+    "s20": false,
+    "s50": false,
+    "open": true,
+    "pending": null,
+    "catalyst": true,
+    "mode": "adrClose",
+    "agent": [
+     "cat"
+    ],
+    "star": false,
+    "riskPct": 0.5,
+    "last": 168.57000732421875,
+    "lastDate": "2026-11-27",
+    "retPct": 3.42,
+    "acctPct": 0.444
+   },
+   {
+    "ticker": "NPK",
+    "signal": "2026-11-25",
+    "entryDate": "2026-11-27",
+    "entry": 163.55,
+    "weightPct": 13.9,
+    "adr": 3.5904505510360085,
+    "stop": 157.68,
+    "hi": 169.9499969482422,
+    "left": 1,
+    "steps": [],
+    "s1": false,
+    "s20": false,
+    "s50": false,
+    "open": true,
+    "pending": null,
+    "catalyst": true,
+    "mode": "adrClose",
+    "agent": [
+     "cat"
+    ],
+    "star": false,
+    "riskPct": 0.5,
+    "last": 165.8000030517578,
+    "lastDate": "2026-11-27",
+    "retPct": 1.38,
+    "acctPct": 0.191
    }
   ],
   "skipped": [
@@ -77,32 +133,14 @@
      "rs"
     ],
     "why": "시장 빨간불 · 관망"
-   },
-   {
-    "ticker": "CHKP",
-    "session": "2026-11-25",
-    "star": false,
-    "agent": [
-     "cat"
-    ],
-    "why": "매수 대기 (다음 장 시가)"
-   },
-   {
-    "ticker": "NPK",
-    "session": "2026-11-25",
-    "star": false,
-    "agent": [
-     "cat"
-    ],
-    "why": "매수 대기 (다음 장 시가)"
    }
   ],
   "total": {
-   "n": 1,
-   "open": 0,
+   "n": 3,
+   "open": 2,
    "closed": 1,
    "win": 0,
-   "acctPct": -0.13,
+   "acctPct": 0.5,
    "stopRate": 100
   },
   "rs": {
@@ -114,11 +152,11 @@
    "stopRate": null
   },
   "cat": {
-   "n": 1,
-   "open": 0,
+   "n": 3,
+   "open": 2,
    "closed": 1,
    "win": 0,
-   "acctPct": -0.13,
+   "acctPct": 0.5,
    "stopRate": 100
   },
   "star": {
@@ -129,32 +167,32 @@
    "acctPct": 0,
    "stopRate": null
   },
-  "openRisk": 0
+  "openRisk": 1
  },
  "cmp": {
   "adrIntraday": {
-   "n": 1,
-   "open": 0,
+   "n": 3,
+   "open": 2,
    "closed": 1,
    "win": 0,
-   "acctPct": -0.5,
+   "acctPct": 0.14,
    "stopRate": 100
   },
   "lod": {
-   "n": 1,
-   "open": 1,
+   "n": 3,
+   "open": 3,
    "closed": 0,
    "win": null,
-   "acctPct": 0.07,
+   "acctPct": 0.92,
    "stopRate": null
   }
  },
  "chief": {
-  "n": 0,
-  "open": 0,
+  "n": 1,
+  "open": 1,
   "closed": 0,
   "win": null,
-  "acctPct": 0,
+  "acctPct": 0.19,
   "stopRate": null
  }
 }
